@@ -85,15 +85,15 @@ Another still from the Alabdallah video shows destruction outside of the hospita
 
 In the same video, Alabdallah conducted an interview with one of the hospital doctors who stated: "We were in the operations room when we were surprised by a huge explosion caused by two missiles. We went out immediately to check the casualties. We had five victims and a number of wounded, in addition to extreme physical damage."
 
-RFS Media [also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) showing the destruction in the front of the hospital. The video also features an interview with a member of Syrian Civil Defence rescue team, who stated: "The warplanes launched heaviest attacks on several areas in the southern countryside of Idlib. We are now in al-Salaam hospital in Maarat al-Numan, a civilian hospital, which was targeted by airstrikes, resulting in five victims and ten wounded."
+RFS Media [also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) showing the destruction in the front of the hospital. The video also features an interview with a member of Syria Civil Defence rescue team, who stated: "The warplanes launched heaviest attacks on several areas in the southern countryside of Idlib. We are now in al-Salaam hospital in Maarat al-Numan, a civilian hospital, which was targeted by airstrikes, resulting in five victims and ten wounded."
 
-Maara Media Center (MMS) [published a video](https://www.youtube.com/watch?v=sVU982I06rY) by Mohamed Aldaher showing additional destruction outside of the hospital from a different perspective. See stills below:
+Maara Media Center (MMC) [published a video](https://www.youtube.com/watch?v=sVU982I06rY) by Mohamed Aldaher showing additional destruction outside of the hospital from a different perspective. See stills below:
 
 ![al-salaam01](assets/al-salaam04.jpg)
 
 ![al-salaam01](assets/al-salaam05.png)
 
-The video contains an interview with one of Syrian Civil Defence members who stated: "Russian warplanes targeted Maarat al-Numan city with two air strikes targeting al-Salaam hospital and some shops surrounding it, killing six civilians."
+The video contains an interview with one of Syria Civil Defence members who stated: "Russian warplanes targeted Maarat al-Numan city with two air strikes targeting al-Salaam hospital and some shops surrounding it. A city inhabited by civilians."
 
 Eye on Homeland (EOH) [published an Additional video](https://www.youtube.com/watch?v=9l9hy36AbZo) on their youtube channel showing the outside of the hospital, where the attack caused destruction of nearby shops surrounding the al-Salaam hospital. See below:
 
@@ -109,7 +109,7 @@ Edlib Media Center also published a video [showing the first moments after the a
 
 ## Where did it happen?
 
-Al Jazeera published a video after the attack [showing rubble removal activites around the hospital](https://www.youtube.com/watch?v=J1NBfJU5r7M), by Syrian Civil Defense.
+Al Jazeera published a video after the attack [showing rubble removal activites around the hospital](https://www.youtube.com/watch?v=J1NBfJU5r7M), by Syria Civil Defense.
 
 The Syrian Archive was able to geolocate several landmarks and building using the above video and satellite images, thus confirming that the targeted location was the al-Salaam hospital and its surroundings. The below stills were taken from inside and outside the hospital:
 
@@ -124,7 +124,7 @@ These landmarks and buildings were then compared with the following satellite im
 
 According to some testimonies in the videos above, the airstrike took place after the noon prayer, [which was held around](https://timesprayer.today/6045-month01-year2018-%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D9%88%D8%A7%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B4%D9%87%D8%B1-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-%D9%85%D8%B9%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86.html) 11:38 AM on 03 Jan 2018.
 
-At 11:48 AM on 13 January, a citizen reporter, based in Marrat al-Numan, [Anas Al Marwai, published a video](https://www.facebook.com/100010399271536/videos/543910859298885/) on his Facebook page showing destruction around the al-Salaam hospital. See below:
+At 11:48 AM on 03 January, a citizen reporter, based in Marrat al-Numan, [Anas Al Marwai, published a video](https://www.facebook.com/100010399271536/videos/543910859298885/) on his Facebook page showing destruction around the al-Salaam hospital. See below:
 
 ![al-salaam01](assets/anas-alsalam.jpg)
 
@@ -157,7 +157,7 @@ While there is no direct evidence available that one of the observed aircrafts w
 
 ## Some of killed civilians names and pictures:
 
-On his Facebook page, Anas Al Marwai [published a photo of a newborn babay girl from Ma'ar Shamareen](https://www.facebook.com/photo.php?fbid=544037762619528&set=a.115427455480563.1073741828.100010399271536&type=3&theater) named "Tal Firas Al Omar", stating that she died an hour after she was born in Al Salaam Hospital as a result of the bombing.
+On his Facebook page, Anas Al Marwai [published a photo of a newborn baby girl from Ma'ar Shamareen](https://www.facebook.com/photo.php?fbid=544037762619528&set=a.115427455480563.1073741828.100010399271536&type=3&theater) named "Tal Firas Al Omar", stating that she died an hour after she was born in Al Salaam Hospital as a result of the bombing.
 
 Mukhils Kahttab, a citizen-based in Marrat al-Numan, [published a photo](https://www.facebook.com/photo.php?fbid=2018781351743914&set=a.2016163322005717.1073741829.100008362053367&type=3&theater) on his Facebook page of what he claimed was "his nephew, who was killed as a result of the al-Salaam hospital targeting."
 
