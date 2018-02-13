@@ -94,4 +94,11 @@ Also, we can see some signs from inside the hospital, [a video from the Civil De
 
 ## When did it happen?
 
-The first video Syrian Archive could find for this attack was the [Anas al Marawi's video](https://www.facebook.com/100010399271536/videos/559320804424557/) which published at 9:19 pm. But Syrians for Truth and Justice (STJ) interviewed Jamil Jaafar, one of the hospital's medical staff, who stated: "At 8:40 pm on Sunday, 4 February 2018, while I was in the hospital treating patients, we were attacked by a Russian warplane, this has resulted in injured many patients and medical personnel."
+According to several testimonies collected by Syrians for Truth and Justice (STJ) the first attack happened around 8:40 pm. Jamil Jaafar, a member of the medical staff who was in the hospital at the time of the attack, spoke to STJ:
+"At 8:40 p.m. on Sunday, 4 February 2018, while I was at the hospital treating the patients, a Russian warplane raided and injured many patients as well as the medical personnel, so we immediately evacuated the injured people who were in the emergency department, in the surgery rooms, and in the incubator section. Moments later, the warplane targeted the hospital once again with high-explosive rockets, as well as a percussion (concussion) rocket that could penetrate the surgery room. The airstrikes concentrated on the emergency department."
+
+In another testimony by a member of the Civil Defense who was in the hospital at the time of the attack, said:
+“On Sunday evening, 4 February 2018, at around 8:45 p.m while we were at the hospital, a warplane raided on the hospital, so we were forced to move the patients to the lower floors. However, the warplanes bombed more than four airstrikes with high-explosive rockets, one of which was a percussion rocket.""
+
+Abu Bahar, the supervisor of an observatory that monitors the movement of the warplanes in the city's skies, spoke to STJ, saying:
+“On February 4, 2018, a squadron of warplanes took off from Hememim Military Airbase in Latakia province, flied towards the north of Syria, and then rotated on bombing our areas. However, at 8:40 p.m. on the same day, one of these aircrafts raided Ma'arat Central Hospital, followed by five more raids, which caused the hospital to be completely out of service”. 
