@@ -31,6 +31,20 @@ On January 29th 2018 local sources reported that Owdai Hospital in Saraqib was t
 
 The [Syrian Network for Human Rights reported](http://sn4hr.org/sites/news/2018/01/29/russian-forces-shelled-oday-saraqeb-hospital-saraqeb-city-idlib-suburbs-january-29/) that the hospital was treating victims of an earlier bombing at the New Potato Market in Saraqib January 29th 2018 when the hospital was attacked.
 
+Citizen journalist Hadi AL Abdallah [published a video](https://www.youtube.com/watch?v=DHf5r3aPhgU) showing the civil defense rescuing injured people as a result of the attack on the Saraqib Potato market.
+
+_[add images from the video]_
+
+Al Abdallah said in the video: "11 killed and many injured in a new massacre committed by the airforce which bombed the potato market"
+
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged damaged trucks.
+
+_[add images from the video]_
+
+_[add geolocation]_
+
+According to witness testemonies collected by the Syrians for Truth and Justice, the killed and injured people from the potator market attack were moved to Oudai hospital which was then bombed by the airforce.
+
 Idlib Health Directorate reported at 11:33am local time on January 29th that the hospital was attacked an hour earlier at 10:30am on January 29th, resulting in 3 injuries, and deaths of 2 women and 1 child. They also stated that this is the second attack for the same hospital in one week.
 
 Edlib Media Center [published photos](https://www.facebook.com/EdlibEmc1/photos/pcb.2020739931472899/2020739648139594/?type=3&theater) that show the rescue operations outside the hospital after the attack.
