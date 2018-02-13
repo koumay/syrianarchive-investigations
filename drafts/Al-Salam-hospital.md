@@ -141,7 +141,7 @@ In the same video, Alabdallah stated: "Although it's raining and the sky is full
 
 ![al-salaam01](assets/al-salaam13.jpg)
 
-## Flight Analysis Data
+## Flight Data Analysis
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 11:00 and 14:00, the period directly before and after the reported attack between 11:30 and 11:45 as was claimed by media activists. See below:
 
