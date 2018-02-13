@@ -17,13 +17,32 @@ image: /assets/investigations/hrc_cover.png
 - Munitions identified:
 - Potentially responsible: Russian or Syrian air force
 
+### The national hospital of Marret Numan
+
+Ma’arat Central Hospital is located in the northern part of Ma'arat al-Nu’man in the southern countryside of Idlib, and is considered the largest hospital in the southern countryside of Idlib and in the northern countryside of Hama. The hospital contains all the medical and surgical specialties and serves about 30 thousand beneficiaries per month.
+
+On Feb 4th 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense claim that the national hospital was targeted by multiple airstrikes.  
+
+we can see some signs from inside the hospital, [in a video published by the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
+
+![national02](assets/national02.jpg)
+
+![national05](assets/national05.jpg)
+
+[In another video published](https://www.youtube.com/watch?v=IicAGAWhD_E) by Moaz Alshami a sign reading "Emergency Operation" can be seen:
+
+![national11](assets/national11.jpg)
+
+![national10](assets/national10.jpg)
+
+### Previous attacks
+
+
 ## What Happened
 
 On 04 February 2018 at 9:19 pm (Damascus local time), a citizen reporter Anas Al Marwai who lives in Marrat al-Numaan published [a video on his Facebook page shows](https://www.facebook.com/100010399271536/videos/559320804424557/) saying "A huge explosion as a result of Russian warplanes missiles at the national hospital in Maarat al-Numan."
 
-Idlib Health Directorate published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 09:21pm (Damascus local time) which said: "Russian warplanes targeting the national hospital in Maarat al-Numan directly, and the aircraft monitors intercept calls between the driving room in Hameimim base, which calls on the air force to repeat the targeting of the hospital.":
-
-![national07](assets/national07.jpg)
+Idlib Health Directorate published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 09:21pm (Damascus local time) which said: "Russian warplanes targeting the national hospital in Maarat al-Numan directly, and the aircraft monitors intercept calls between the driving room in Hameimim base, which calls on the air force to repeat the targeting of the hospital.
 
 Syrian Civil Defense in Idlib [published photos](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1562499310515786) in their Facebook page at 10:41 pm saying "Civil Defense teams evacuated the patients from the national hospital in Ma'arat al-Nu'man to nearby hospitals after the hospital was targeted with four air strikes.", the photos show destructions as aresult of the attacks as well as evacuating injured people. See below:
 
@@ -60,37 +79,30 @@ After that Alshami entered the hospital and said: "The Civil Defense evacuate th
 
 At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of the women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?"
 
-The Common Syrian Observatory published a [short video show two newborn babies](https://www.youtube.com/watch?v=GAB-hichb5A) during their transfer.
+[SMART News Agency published a video](https://www.youtube.com/watch?v=-GA92EyURH8) on their youtube channel contained a testimony of the Head of Radiology Department, where he said: "The hospital targeted last night 04 Feb 2018 by six strikes from the Russian warplanes; as a result the hospital is completely out of service now, which is the only hospital in this region, serving more than 20 thousand patients per month." The Syrian Archive team has created a panoramio image using the video publish by SMART to understand better which side of the hospital the video was taken.
 
-[SMART News Agency published a video](https://www.youtube.com/watch?v=-GA92EyURH8) on their youtube channel contained a testimony of the Head of Radiology Department, where he said: "The hospital targeted last night 04 Feb 2018 by six strikes from the Russian warplanes; as a result the hospital is completely out of service now, which is the only hospital in this region, serving more than 20 thousand patients per month."
+![national13.jpg](assets/national13.jpg)
 
-On the next day (05 Jan 2018) The Syrian American Medical Society (SAMS), who supported the hospital, [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National hospital in Maarat al-Numaan was becoming out of order as a result of targeting it by six aircrafts:
+On 05 Jan 2018, The Syrian American Medical Society (SAMS), who supported the hospital, [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National hospital in Maarat al-Numaan was becoming out of order as a result of targeting it by six aircrafts:
 
 ![national13.png](assets/national13.png)
 
 ## Where did it happen?
 
-The Syrian Archive team was able to match several objects between Moaz Alshami's video and Smart agency's one which confirms they captured in the same place, see below:
+The Syrian Archive team was able to match several objects between Moaz Alshami's video and Smart agency's video which confirms they were captured in the same place:
 
 ![national08](assets/national08.jpg)
+
+Other stills from the same videos were also matched to identify the below objects:
+
 ![national09](assets/national09.jpg)
 
-Also, we were able to geolocate several landmarks and objects using the Smart agency's video and a satellite image for the National hospital in Maarat al-Numaan, which confirming that it was the targeted place, see below:
-
-![national12.jpg](assets/national12.jpg)
+Several landmarks and objects of a different side of the hospital were identified using the Smart agency's video
 ![national13.jpg](assets/national13.jpg)
 
-Also, we can see some signs from inside the hospital, [a video from the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
+The same objects were identified in a satellite image for the National hospital in Maarat al-Numaan provided by Digital Globe
 
-![national02](assets/national02.jpg)
-
-![national05](assets/national05.jpg)
-
-[In another video published](https://www.youtube.com/watch?v=IicAGAWhD_E) by Moaz Alshami a sign reading "Emergency Operation" can be seen:
-
-![national11](assets/national11.jpg)
-
-![national10](assets/national10.jpg)
+![national12.jpg](assets/national12.jpg)
 
 ## When did it happen?
 
