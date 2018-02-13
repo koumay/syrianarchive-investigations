@@ -10,43 +10,36 @@ image: /assets/investigations/hrc_cover.png
 - Hospital: The national hospital of Marret Numan
 - Beneficiaries: ~500,000 people a year
 - Date: 4 February 2018
-- Time:
+- Time: around 8:40 PM 
 - Attacks: 6 airstrikes according to Osama Eido (Hospital x-rays department)
-- Reported casualties:
-- Reported injured:
 - Munitions identified: One photo acquired by the STJ
 - Potentially responsible: Russian or Syrian air force
 
-## The national hospital of Marret Numan
+## Background of The national hospital of Marret al-Numan
 
-Ma’arat Central Hospital is located in the northern part of Ma'arat al-Nu’man in the southern countryside of Idlib, and is considered the largest hospital in the southern countryside of Idlib and in the northern countryside of Hama. The hospital contains all the medical and surgical specialties and serves about 30 thousand beneficiaries per month.
+The national hospital of Marrat al-Numan is a hospital located on the Aleppo-Damascus international highway, between three governorates, where it's placed 60 kilometers north of Hama city, about 80 km south of Aleppo and around 50 km southeast of Idlib.
 
-On Feb 4th 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense claim that the national hospital was targeted by multiple airstrikes.  
+The hospital [founded in 1984](http://www.esyria.sy/eidleb/index.php?p=stories&category=round&filename=201003101520125) and was supplied with medical equipment worth 6 million and 867 thousand euros. The hospital sits on an area of 70 thousand square kilometers, consisting of three floors, contains all medical departments, and it has an annex building for doctors, and another building of outpatient clinics and it serves about 30 thousand beneficiaries per month.
 
-we can see some signs from inside the hospital, [in a video published by the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women.
+On Feb 4th, 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense claim that the national hospital was targeted by multiple airstrikes.
 
-![national02](assets/national02.jpg)
+![national15.jpg](assets/national15.jpg "An exclusive photo to STJ shows the location where one of the missiles downfall")
 
-It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
-
-![national05](assets/national05.jpg)
-
-[In another video published](https://www.youtube.com/watch?v=IicAGAWhD_E) by Moaz Alshami a sign reading "Emergency Operation" can be seen:
-
-![national11](assets/national11.jpg)
-
-![national10](assets/national10.jpg)
 
 ## Previous attacks
+
+Hospitals in Idlib have repeatedly been attacked throughout the Syrian conflict, in clear violation of international law. The Syrian Archive has previously completed two in-depth open source investigations regarding the targeting of medical facilities in Idlib governorate - [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html), and [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) which provided overviews of visual content regarding attacks targeting additional Idlib's hospital and medical points.
 
 
 ## What Happened
 
 On 04 February 2018 at 9:19 pm (Damascus local time), a citizen reporter Anas Al Marwai who lives in Marrat al-Numaan published [a video on his Facebook page shows](https://www.facebook.com/100010399271536/videos/559320804424557/) saying "A huge explosion as a result of Russian warplanes missiles at the national hospital in Maarat al-Numan."
 
-Idlib Health Directorate published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 09:21pm (Damascus local time) which said: "Russian warplanes targeting the national hospital in Maarat al-Numan directly, and the aircraft monitors intercept calls between the driving room in Hameimim base, which calls on the air force to repeat the targeting of the hospital.
+Idlib Health Directorate published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 09:21pm (Damascus local time) which said: "Russian warplanes targeting the national hospital in Maarat al-Numan directly, and the aircraft monitors intercept calls between the driving room in Hameimim base, which calls on the air force to repeat the targeting of the hospital:
 
-Syrian Civil Defense in Idlib [published photos](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1562499310515786) in their Facebook page at 10:41 pm saying "Civil Defense teams evacuated the patients from the national hospital in Ma'arat al-Nu'man to nearby hospitals after the hospital was targeted with four air strikes.", the photos show destructions as aresult of the attacks as well as evacuating injured people. See below:
+![national07](assets/national07.png)
+
+Syrian Civil Defense in Idlib [published photos](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1562499310515786) in their Facebook page at 10:41 pm (Damascus local time) saying "Civil Defense teams evacuated the patients from the national hospital in Ma'arat al-Nu'man to nearby hospitals after the hospital was targeted with four air strikes.", the photos show destructions as aresult of the attacks as well as evacuating injured people. See below:
 
 ![national01](assets/national06.jpg)
 
@@ -72,6 +65,8 @@ In the video at 0:29, somebody asks the Syria Civil Defense members while they w
 In the same video at 0:49, Hadi Alabdallah said "a little while ago, Russian warplanes targeted the national hospital in Ma'arat al-Numan, which caused the hospital to be out of service, martyrs, wounded and trapped under the rubble as a result of targeting the National Hospital by these aircrafts. This hospital was containing large numbers of wounded, patients, babies. The babies who were inside the incubators were evacuated, some of them may be dying because they were evacuated under abnormal harsh conditions. Most parts of the hospital were damaged and destroyed."
 
 At 1:47 said "Many medical facilities in Idlib have been attacked. The air force is now flying over us and maybe it'll target this area in any moment because this hospital was attacked with more than ten airstrikes so maybe it gets targeted again."
+
+![national16.jpg](assets/national16.jpg "An exclusive photo to STJ shows a part of the destruction that has done in the hospital.")
 
 Another citizen reporter Moaz Alshami also published a video in front of the hospital shows Civil defense team were trying to put out fires, said: "After the massacre carried out by Russian aircrafts in Kafr Nabl city, the National Hospital in Maarat al-Numan is now targeting more than six air strikes. It is the only hospital operating here. It contains dozens of injured people who were injured in Kafr Nabl and taken here."
 
@@ -106,9 +101,21 @@ The same objects were identified in a satellite image for the National hospital 
 
 ![national12.jpg](assets/national12.jpg)
 
+we can see some signs from inside the hospital, [in a video published by the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
+
+![national02](assets/national02.jpg)
+
+![national05](assets/national05.jpg)
+
+[In another video published](https://www.youtube.com/watch?v=IicAGAWhD_E) by Moaz Alshami a sign reading "Emergency Operation" can be seen:
+
+![national11](assets/national11.jpg)
+
+![national10](assets/national10.jpg)
+
 ## When did it happen?
 
-According to several testimonies collected by Syrians for Truth and Justice (STJ) the first attack happened around 8:40 pm. Jamil Jaafar, a member of the medical staff who was in the hospital at the time of the attack, spoke to STJ:
+According to several testimonies collected by Syrians for Truth and Justice (STJ) the first attack happened around 8:40 pm [Damascus local time]. Jamil Jaafar, a member of the medical staff who was in the hospital at the time of the attack, spoke to STJ:
 "At 8:40 p.m. on Sunday, 4 February 2018, while I was at the hospital treating the patients, a Russian warplane raided and injured many patients as well as the medical personnel, so we immediately evacuated the injured people who were in the emergency department, in the surgery rooms, and in the incubator section. Moments later, the warplane targeted the hospital once again with high-explosive rockets, as well as a percussion (concussion) rocket that could penetrate the surgery room. The airstrikes concentrated on the emergency department."
 
 In another testimony by a member of the Civil Defense who was in the hospital at the time of the attack, said:
@@ -116,5 +123,7 @@ In another testimony by a member of the Civil Defense who was in the hospital at
 
 Abu Bahar, the supervisor of an observatory that monitors the movement of the warplanes in the city's skies, spoke to STJ, saying:
 “On February 4, 2018, a squadron of warplanes took off from Hememim Military Airbase in Latakia province, flied towards the north of Syria, and then rotated on bombing our areas. However, at 8:40 p.m. on the same day, one of these aircrafts raided Ma'arat Central Hospital, followed by five more raids, which caused the hospital to be completely out of service”.
+
+![national14.jpg](assets/national14.jpg "An exclusive photo to STJ shows the remains of one of the missiles that fell in front of the hospital.")
 
 # Flight Data Analysis
