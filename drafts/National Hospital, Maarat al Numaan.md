@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: "Chemical Strikes on Al-Lataminah"
+title: "Bombing the national hospital"
 date: 2018-01-17
-desc: "25 & 30 March 2017: A Student-Led Open Source Investigation"
+desc: "joint report of medical facilities attacks"
 image: /assets/investigations/hrc_cover.png
 ---
 
@@ -101,4 +101,6 @@ In another testimony by a member of the Civil Defense who was in the hospital at
 “On Sunday evening, 4 February 2018, at around 8:45 p.m while we were at the hospital, a warplane raided on the hospital, so we were forced to move the patients to the lower floors. However, the warplanes bombed more than four airstrikes with high-explosive rockets, one of which was a percussion rocket.""
 
 Abu Bahar, the supervisor of an observatory that monitors the movement of the warplanes in the city's skies, spoke to STJ, saying:
-“On February 4, 2018, a squadron of warplanes took off from Hememim Military Airbase in Latakia province, flied towards the north of Syria, and then rotated on bombing our areas. However, at 8:40 p.m. on the same day, one of these aircrafts raided Ma'arat Central Hospital, followed by five more raids, which caused the hospital to be completely out of service”. 
+“On February 4, 2018, a squadron of warplanes took off from Hememim Military Airbase in Latakia province, flied towards the north of Syria, and then rotated on bombing our areas. However, at 8:40 p.m. on the same day, one of these aircrafts raided Ma'arat Central Hospital, followed by five more raids, which caused the hospital to be completely out of service”.
+
+# Flight Data Analysis

@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Bombing AL Salam Medical facility"
+title: "Bombing Al Salam Medical facility"
 date: 2018-01-17
 <<<<<<< HEAD
 desc: ""
