@@ -8,24 +8,26 @@ image: /assets/investigations/hrc_cover.png
 
 - Location: IDLIB : Marret Numan
 - Hospital: The national hospital of Marret Numan
-- Beneficiaries: ~500,000 people
+- Beneficiaries: ~500,000 people a year
 - Date: 4 February 2018
 - Time:
 - Attacks: 6 airstrikes according to Osama Eido (Hospital x-rays department)
 - Reported casualties:
 - Reported injured:
-- Munitions identified:
+- Munitions identified: One photo acquired by the STJ
 - Potentially responsible: Russian or Syrian air force
 
-### The national hospital of Marret Numan
+## The national hospital of Marret Numan
 
 Ma’arat Central Hospital is located in the northern part of Ma'arat al-Nu’man in the southern countryside of Idlib, and is considered the largest hospital in the southern countryside of Idlib and in the northern countryside of Hama. The hospital contains all the medical and surgical specialties and serves about 30 thousand beneficiaries per month.
 
 On Feb 4th 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense claim that the national hospital was targeted by multiple airstrikes.  
 
-we can see some signs from inside the hospital, [in a video published by the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
+we can see some signs from inside the hospital, [in a video published by the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women.
 
 ![national02](assets/national02.jpg)
+
+It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
 
 ![national05](assets/national05.jpg)
 
@@ -35,7 +37,7 @@ we can see some signs from inside the hospital, [in a video published by the Civ
 
 ![national10](assets/national10.jpg)
 
-### Previous attacks
+## Previous attacks
 
 
 ## What Happened
