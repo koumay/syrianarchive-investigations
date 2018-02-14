@@ -69,7 +69,7 @@ Obayda al-Othman, the director of the Civil Defense Center in Kafranbel, spoke t
 
 # Flight Data Analysis
 
-To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 19:00 and 22:00, the period directly before and after the reported attack between 8:00 and 10:00 as was claimed by media activists. See below:
+To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 8:00 and 10:00, the period directly before and after the reported attack between 7:45 and 8:00 as was claimed by media activists. See below:
 
 [//]: <> (Start tableau embed code)
 
