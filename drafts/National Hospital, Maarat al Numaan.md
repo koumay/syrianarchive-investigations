@@ -127,6 +127,8 @@ Syrians for Truth and Justice (STJ) was able to obtain a photo shows the remains
 
 ![national14.jpg](assets/national14.jpg)
 
+The Syrian Archive couldn't gather additional information about the weapons uesd in this attack.
+
 ## Flight Data Analysis
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 19:00 and 22:00, the period directly before and after the reported attack between 20:45 and 20:51 as was claimed by media activists. See below:
