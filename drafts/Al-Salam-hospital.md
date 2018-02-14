@@ -160,16 +160,3 @@ While there is no direct evidence available that one of the observed aircrafts w
 On his Facebook page, Anas Al Marwai [published a photo of a newborn baby girl from Ma'ar Shamareen](https://www.facebook.com/photo.php?fbid=544037762619528&set=a.115427455480563.1073741828.100010399271536&type=3&theater) named "Tal Firas Al Omar", stating that she died an hour after she was born in Al Salaam Hospital as a result of the bombing.
 
 Mukhils Kahttab, a citizen-based in Marrat al-Numan, [published a photo](https://www.facebook.com/photo.php?fbid=2018781351743914&set=a.2016163322005717.1073741829.100008362053367&type=3&theater) on his Facebook page of what he claimed was "his nephew, who was killed as a result of the al-Salaam hospital targeting."
-
-
-## About the authors
-[The Syrian Archive](https://syrianarchive.org/en/about) is a Syrian-led initiative striving to promote sustainable peace and respect for human rights within Syrian society through facilitating justice and accountability efforts. This includes evidence gathering and documentation of incidents; the acknowledgment that war crimes and human rights violations have been committed by all parties to the conflict; the identification of perpetrators to end the cycle of impunity; and the development of a process of justice and reconciliation. Through collecting, verifying, curating and investigating visual content, the Syrian Archive aims to preserve data as a digital memory to establish a database of human rights violations, and to act as a tool for legally implementing justice and accountability efforts as concept and practice in Syria.
-
-Since its founding in 2014, the Syrian Archive has collaborated with organisations including Human Rights Watch (HRW), Amnesty International, University of California at Berkeley and the University of Essex, Witness, Bellingcat and various agencies of the United Nations (UN), specifically the Independent International Commission of Inquiry on the Syrian Arab Republic.
-
-## Errors, corrections, and feedback
-The authors of this report have strived for accuracy and transparency of process in reporting and presentation while balancing the need to protect the safety of those providing documentation in some instances. With these interests in mind, detailed methodologies for some information deemed sensitive have not been published.
-
-With that said, while all efforts have been made to present our best understanding of alleged incidents, it is recognised that the publicly available information for specific events can at times be limited.
-
-If readers have new information about particular events; find an error in our work - or have concerns about the way we are reporting our data - please do engage with us. You can reach us at *info@syrianarchive.org*.
