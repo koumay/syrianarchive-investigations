@@ -13,8 +13,9 @@ image: /assets/investigations/hrc_cover.png
 - Time: 07:40am (potato market) 08:10am (hospital attack) Damascus time
 - Attacks: 1 airstrike
 - Reported injured: 3 injured from the medical facility staff
-- Munitions identified: Not available
+- Munitions identified: [waiting for the reporter]
 - Potentially responsible: Russian or Syrian air force
+- Previous attack on the hospital: 21/01/2018
 
 ### Oudai (Ehsan) Hospital
 
@@ -22,12 +23,14 @@ Oudai (Ehsan) Hospital is located in Saraqib city in the southern countryside of
 
 ### Previous attacks on Oudai (Ehsan) Hospital
 
+Idlib health directorate [reported that Oudai hospital was attacked](https://www.facebook.com/Idleb.Health.Directorate/posts/1190245281078825) on 21/01/2018 with an airstrike that resulted in structural damage to the hospital and it's equipment.
 
+_[add photo of fb post here]_
 
 ## What Happened
 
 On January 29th 2018 local sources reported that Owdai Hospital in Saraqib was targeted by an airstrike, following an earlier airstrike that damaged the hospital on January 22nd 2018.
-Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VECTs) showing the first moment of the attack that bombed the Oudai Al Hussein hospital.
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VECTs) showing what they claim to be the first moment of the attack that bombed the Oudai Al Hussein hospital.
 
 _[add giphy]_
 
