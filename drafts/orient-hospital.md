@@ -26,7 +26,7 @@ Orient Hospital or known as "Kafranbel Surgical Hospital" is located in the nort
 
 Orient hospital in Kafranbel has been attacked on 19/09/2017 with three airstrikes that resulted of injured people, structural damage to the building and the equipment of the hospital. A detailed report about this previous incident has been published by the Syrian Archive in 2017 as well as the Syrians for Truth and Justice. _[add links to both reports]_
 
-_[add photo from 19/09/2017 attack]_
+![orient03](assets/orient03.png)
 
 ## What Happened
 
@@ -35,7 +35,9 @@ On February 5th 2018 local sources reported the Kafarnabel Surgical Hospital, al
 [Footage filmed during](https://www.youtube.com/watch?v=WzFAjvqC9uw&list=PLPC0Udeof3T4QmV4f9tEhDmQzr2Z_vTKZ&index=1) and after the February 5th 2018 attack shows clearly the hospital was attacked directly, with one [geolocated video](https://www.youtube.com/watch?v=WzFAjvqC9uw) capturing a bomb as it fell through the air and struck the east side of the hospital building:
 
 _[add giphy to this video]_
-_[add baladi news video]_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzFAjvqC9uw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+_[or you can use orient01.jpg or orient01.jpg]_
 
 [Maara Media Center](https://www.facebook.com/maaramediacenter/posts/365657123900918) and other reporting from the ground blamed Russian aircraft for the attack.
 
@@ -43,11 +45,22 @@ Footage filmed after the airstrikes shows clear damage to the hospital building 
 
 Below is [a video publish](https://www.youtube.com/watch?v=2a1eWc0xRqo) by "Nidaa Syria" that shows the damage to the northeast corner of the hospital building:
 
-Damage to the entrance of the building and an ambulance provided by the “UK 2 Syria” campaign can be seen in [a video published](https://www.youtube.com/watch?v=YwhGjgql7IU) by Sham News Network.
+![orient04.jpg](assets/orient04.jpg)
+_[also you can use orient05.jpg]_
 
-Photographs and videos from inside the building shows heavy damage to the interior of the hospital building. Marra Media Center [published photos](https://www.facebook.com/maaramediacenter/photos/pcb.365657123900918/365657073900923/?type=3&theater) that show damage to the entrance area of the hospital.
+Damage to the entrance of the building and an ambulance provided by the “UK 2 Syria” campaign can be seen in [a video published](https://www.youtube.com/watch?v=YwhGjgql7IU) by Sham News Network:
 
-Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE) showing also the damage to the interior of the hospital.
+![orient06](assets/orient06.jpg)
+
+Photographs and videos from inside the building shows heavy damage to the interior of the hospital building. Marra Media Center [published photos](https://www.facebook.com/maaramediacenter/photos/pcb.365657123900918/365657073900923/?type=3&theater) that show damage to the entrance area of the hospital, see below:
+
+![orient09](assets/orient09.jpg)
+_[also you can see orient08 and orient07 ]
+
+Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE) showing also the damage to the interior of the hospital:
+
+![orient12](assets/orient12.jpg)
+_[also see orient11 and orient10]_
 
 ## Where did it happen?
 
