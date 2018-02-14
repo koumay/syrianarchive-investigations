@@ -13,8 +13,9 @@ image: /assets/investigations/hrc_cover.png
 - Time: 07:40am (potato market) 08:10am (hospital attack) Damascus time
 - Attacks: 1 airstrike
 - Reported injured: 3 injured from the medical facility staff
-- Munitions identified: Not available
+- Munitions identified: [waiting for the reporter]
 - Potentially responsible: Russian or Syrian air force
+- Previous attack on the hospital: 21/01/2018
 
 ### Oudai (Ehsan) Hospital
 
@@ -22,26 +23,28 @@ Oudai (Ehsan) Hospital is located in Saraqib city in the southern countryside of
 
 ### Previous attacks on Oudai (Ehsan) Hospital
 
+Idlib health directorate [reported that Oudai hospital was attacked](https://www.facebook.com/Idleb.Health.Directorate/posts/1190245281078825) on 21/01/2018 with an airstrike that resulted in structural damage to the hospital and it's equipment.
 
+![Idlib health directorate FB post](/drafts/assets/pre-attack-oudai.png)
 
 ## What Happened
 
 On January 29th 2018 local sources reported that Owdai Hospital in Saraqib was targeted by an airstrike, following an earlier airstrike that damaged the hospital on January 22nd 2018.
-Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VECTs) showing the first moment of the attack that bombed the Oudai Al Hussein hospital.
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VECTs) showing what they claim to be the first moment of the attack that bombed the Oudai Al Hussein hospital.
 
-_[add giphy]_
+![first moment of the attack](/drafts/assets/first-moment.png)
 
 The [Syrian Network for Human Rights reported](http://sn4hr.org/sites/news/2018/01/29/russian-forces-shelled-oday-saraqeb-hospital-saraqeb-city-idlib-suburbs-january-29/) that the hospital was treating victims of an earlier bombing at the New Potato Market in Saraqib January 29th 2018 when the hospital was attacked.
 
 Citizen journalist Hadi AL Abdallah [published a video](https://www.youtube.com/watch?v=DHf5r3aPhgU) showing the civil defense rescuing injured people as a result of the attack on the Saraqib Potato market.
 
-_[add images from the video]_
+![potato market](/drafts/assets/potators-market-1.png)
 
-Al Abdallah said in the video: "11 killed and many injured in a new massacre committed by the airforce which bombed the potato market"
+Al Abdallah said in the video: "11 killed and many injured in a new massacre committed by the airforce which bombed the potato market."
 
-Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged damaged trucks.
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged trucks.
 
-_[add images from the video]_
+![potato market-2](/drafts/assets/crater-potato-market.png)
 
 _[add geolocation]_
 
