@@ -7,7 +7,7 @@ image: /assets/investigations/hrc_cover.png
 ---
 
 - Location: IDLIB : Maarat al-Numan
-- Hospital: The national hospital of Marret Numan
+- Hospital: The National Hospital of Maarat al-Numan
 - Beneficiaries: ~500,000 people a year
 - Date: 4 February 2018
 - Time: around 8:40 PM
@@ -19,21 +19,21 @@ image: /assets/investigations/hrc_cover.png
 
 ## Background of The national hospital of Marret al-Numan
 
-The national hospital of Maarat al-Numan is a hospital located on the Aleppo-Damascus international highway. It sits between three governorates: 60km north of Hama city, 80km south of Aleppo and 50km southeast of Idlib.
+The National Hospital of Maarat al-Numan is a hospital located on the Aleppo-Damascus international highway. It sits between three governorates: 60km north of Hama city, 80km south of Aleppo and 50km southeast of Idlib.
 
 The hospital was [founded in 1984](http://www.esyria.sy/eidleb/index.php?p=stories&category=round&filename=201003101520125) and was supplied with medical equipment worth 6.9 million Euro. The hospital sits on an area of 70 thousand square meters, consists of three floors, contains all medical departments and has an annex building for doctors, and another building of outpatient clinics and it serves about 30.000 monthly beneficiaries.
 
-On Feb 4th, 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense, claim that the national hospital was targeted by multiple airstrikes.
+On Feb 4th, 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense, claim that the National Hospital was targeted by multiple airstrikes.
 
 ## Previous attacks
 
-The national hospital of Marrat al-Numaan was previously attacked on 2 April 2017. The Syrian Archive has [published an in-depth open source investigation](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html) regarding that attack.
+The National Hospital of Marrat al-Numaan was previously attacked on 2 April 2017. The Syrian Archive has [published an in-depth open source investigation](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html) regarding that attack.
 
 ## What Happened
 
 On 4 February 2018 at 21:19, a citizen journalist named Anas Al Marwai (who lives in Maarat al-Numaan) [published a video](https://www.facebook.com/100010399271536/videos/559320804424557/) on his Facebook page in which he states: "A huge explosion as a result of Russian warplanes missiles at the national hospital in Maarat al-Numan."
 
-Idlib Health Directorate separately published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 21:21 stating: "Russian warplanes directly targeted the national hospital in Maarat al-Numan, and the aircraft monitors interception calls between the driving room in Hameimim base, heard the air force stating they would repeat the targeting of the hospital." See below:
+Idlib Health Directorate separately published [a post on their Facebook page](https://www.facebook.com/Idleb.Health.Directorate/posts/1200613503375336) at 21:21 stating: "Russian warplanes directly targeted the National Hospital in Maarat al-Numan, and the aircraft monitors interception calls between the driving room in Hameimim base, heard the air force stating they would repeat the targeting of the hospital." See below:
 
 ![national07](assets/national07.png)
 
@@ -45,10 +45,9 @@ On their YouTube channel Civil Defense published several videos additional in wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V4Nt8JWXVcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[A second video shows](https://www.youtube.com/watch?v=de7N2n7eYJc) Syrian Civil Defense rescuing a newborn child. In the video, the
-paramedic asked someone to bring him a Laryngoscope, and after several seconds another man came and said "go to the car now, the tanks might explode." At this point, the paramedic took the child and went to a car.
+[A second video shows](https://www.youtube.com/watch?v=de7N2n7eYJc) Syrian Civil Defense rescuing a newborn child. In the video, the paramedic asked someone to bring him a Laryngoscope, and after several seconds another man came and said "go to the car now, the tanks might explode." At this point, the paramedic took the child and went to a car.
 
-Another video from Syria Civil Defense [presents a summary](https://www.youtube.com/watch?v=Q4DboRpV9L0) of what happened, stating that the hospital is out of service as a result of the attack, and shows stills from incubators room. See below:
+Another video from Syria Civil Defense [presents a summary](https://www.youtube.com/watch?v=Q4DboRpV9L0) of what happened, stating that the National Hospital is out of service as a result of the attack, and shows stills from incubators room. See below:
 
 ![national08.png](assets/national08.png)
 
@@ -63,7 +62,7 @@ Hadi Alabdallah, a citizen journalist, [published a video on his YouTube channel
 
 In Alabdallah's video at 0:29 somebody asks the Syria Civil Defense members while they were carrying babies, "Where are you taking babies?" Someone can be heard answering: "To the incubators, Syria Civil Defense is taking them to the incubators."
 
-In the same video at 0:49, Alabdallah said "a little while ago, Russian warplanes targeted the national hospital in Maarat al-Numan, which caused the hospital to be out of service, martyrs, wounded and trapped under the rubble as a result of targeting the National Hospital by these aircrafts. This hospital was containing large numbers of wounded, patients, babies. The babies who were inside the incubators were evacuated, some of them may be dying because they were evacuated under abnormal harsh conditions. Most parts of the hospital were damaged and destroyed."
+In the same video at 0:49, Alabdallah stated: "A little while ago, Russian warplanes targeted the National Hospital in Maarat al-Numan, resulting in the hospital to become out of service. There are martyrs, wounded and trapped under the rubble as a result of targeting of the National Hospital by these aircrafts. This hospital containing large numbers of injured, patients, and babies. The babies who were inside the incubators were evacuated, some of them may have died due to being evacuated under abnormal harsh conditions. Most parts of the hospital were damaged and destroyed."
 
 At 1:47 in the same video, Alabdallah stated: "Many medical facilities in Idlib have been attacked. The air force is now flying over us and maybe it'll target this area in any moment because this hospital was attacked with more than ten airstrikes so maybe it gets targeted again."
 
@@ -112,7 +111,7 @@ A separate vdeo was [published by Moaz Alshami](https://www.youtube.com/watch?v=
 
 ## When did it happen?
 
-According to several testimonies collected by Syrians for Truth and Justice the first attack happened around 20:40. Jamil Jaafar, a member of the medical staff who was in the hospital at the time of the attack, spoke to STJ:
+According to several testimonies collected by Syrians for Truth and Justice the first attack happened around 20:40. Jamil Jaafar, a member of the medical staff who was in the National Hospital at the time of the attack, spoke to Syrians for Truth and Justice:
 
 "At 8:40 p.m. on Sunday, 4 February 2018, while I was at the hospital treating the patients, a Russian warplane raided and injured many patients as well as the medical personnel. We immediately evacuated the injured people who were in the emergency department, in the surgery rooms, and in the incubator section. Moments later, the warplane targeted the hospital once again with high-explosive rockets, as well as a percussion (concussion) rocket that could penetrate the surgery room. The airstrikes concentrated on the emergency department."
 
@@ -126,7 +125,7 @@ Abu Bahar, the supervisor of an observatory that monitors the movement of the wa
 
 ## The weapons used
 
-Syrians for Truth and Justice was able to obtain a photo shows the remains of one of the missiles that fell in front of the hospital. See below:
+Syrians for Truth and Justice was able to obtain a photo shows the remains of one of the missiles that fell in front of the National Hospital. See below:
 
 ![national14.jpg](assets/national14.jpg)
 
