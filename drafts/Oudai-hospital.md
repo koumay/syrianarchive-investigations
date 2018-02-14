@@ -48,7 +48,7 @@ Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9U
 
 The geolocation of the impact site (The potato market) was possible through using the video published by Al Abdallah. We can clearly see the three banners that stands in the main street in the video still and the satellite imagery.
 
-[potato market-3](/drafts/assets/geollocation-potato-market.jpg)
+![potato market-3](/drafts/assets/geollocation-potato-market.jpg)
 
 According to witness testimonies collected by the Syrians for Truth and Justice, the killed and injured people from the potato market attack were moved to Oudai hospital which was then bombed by the airforce.
 
