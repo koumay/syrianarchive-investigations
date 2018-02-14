@@ -52,13 +52,17 @@ The geolocation of the impact site (The potato market) was possible through usin
 
 According to witness testimonies collected by the Syrians for Truth and Justice, the killed and injured people from the potato market attack were moved to Oudai hospital which was then bombed by the airforce.
 
-Citizen journalist Hadi AL Abdallah [published another video in the same day of the potato market attack on Jan 29th 2018](https://www.youtube.com/watch?v=R1LYNZ5-1BA) showing the Oudai hospital damage as a result an airstrike that bombed the hospital after the potato market bombing. He stated in the video:"After the morning massacre that was committed by the airforce in the potato market which resulted of 11 killed people and many injured, Those injured were transfered to Oudai (Ehsan) hospital in Saraqib to be treated. But after this the Russian airforce targeted this hospital which resulted of the hospital being out of service completely. Big crater resulted of a munition used by the airforce. Few of the media staff were injured as a result of this attack. Some of the injured people from the potato market that were transfer to be treated in this hospital got killed as a result of the airstrike. Some killed people are still under the rubbles until this moment. This is the only hospital in this city which is not out of service. Ambulance cars were damaged too."
+Citizen journalist Hadi AL Abdallah [published another video in the same day of the potato market attack on Jan 29th 2018](https://www.youtube.com/watch?v=R1LYNZ5-1BA) showing the Oudai hospital damage as a result of an airstrike that bombed the hospital after the potato market attack.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1LYNZ5-1BA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+He stated in the video:"After the morning massacre that was committed by the airforce in the potato market which resulted of 11 killed people and many injured, Those injured were transfered to Oudai (Ehsan) hospital in Saraqib to be treated. But after this the Russian airforce targeted this hospital which resulted of the hospital being out of service completely. Big crater resulted of a munition used by the airforce. Few of the media staff were injured as a result of this attack. Some of the injured people from the potato market that were transfer to be treated in this hospital got killed as a result of the airstrike. Some killed people are still under the rubbles until this moment. This is the only hospital in this city which is not out of service. Ambulance cars were damaged too."
 
 Aljisr TV [published a a video of an interview](https://www.youtube.com/watch?v=dmcvVs1l3LY) with Dr. Ali Al faraj, the deputy of Oudai hospital. He said: "This morning the potato market was bombed, then the emergency center, The blood bank, and the Oudai hospital were bombed after in the same day. The injured people from the potato market attack were all transfered into the Oudai hospital which was then bombed as you can see here. As a result of this attack the hospital is out of service now. 3 medical staff were injured. Renovating the hospital building will be very difficult after this attack."
 
 Edlib Media Center [published photos](https://www.facebook.com/EdlibEmc1/photos/pcb.2020739931472899/2020739648139594/?type=3&theater) that show the rescue operations outside the hospital after the attack.
 
-_[add some of the photos]_
+![oudai-2](/drafts/assets/EMC-overview-damage.jpg)
 
 The bomb landed in front of the main hospital building, leaving a large crater as [shown a video published](https://www.youtube.com/watch?v=qi_h0TDek5A) by Thiqa news agency, and resulting in the collapse of a warehouse containing medical supplies. In addition to the deaths and injuries reported by the Idlib Health Directorate an hour after the attack, Syrian Civil Defence dug the corpse of an adult male out of the debris from the attack after the initial rescue operation.
 
@@ -66,8 +70,7 @@ _[add the photo of the crater]_
 
 ## Where did it happen?
 
-The Syrian Archive team created a panoramio image using the video of XXXX which was published after the attack.
-We identified the hospital building and another building through comparing the image with Google earth satellite imagery.
+The Syrian Archive team created a panoramio image using the video of Sham News Agency which was published after the attack. We identified the hospital building and another building through comparing the image with Google earth satellite imagery.
 
 ![geolocating Oudai Hospital](/drafts/assets/oudai-geolocation-1.jpg)
 
