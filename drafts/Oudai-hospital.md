@@ -10,7 +10,7 @@ image: /assets/investigations/hrc_cover.png
 - Hospital: Oudai (Ehsan) Hospital
 - Beneficiaries: ~36000 people in a year
 - Date of the attack: 29/01/2018
-- Time: 07:40am (potato market) 08:10am (hospital attack) Damascus time
+- Time: 07:40am (potato market) 08:10am (hospital attack)
 - Attacks: 1 airstrike
 - Reported injured: 3 injured from the medical facility staff
 - Munitions identified: [waiting for the reporter]
