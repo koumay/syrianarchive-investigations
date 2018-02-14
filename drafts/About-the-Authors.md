@@ -11,7 +11,7 @@ This report has been written jointly by the following organisations:
 
 The [Syrian Archive][1] is a Syrian-led initiative striving to promote sustainable peace and respect for human rights within Syrian society through facilitating justice and accountability efforts. This includes evidence gathering and documentation of incidents; the acknowledgment that war crimes and human rights violations have been committed by all parties to the conflict; the identification of perpetrators to end the cycle of impunity; and the development of a process of justice and reconciliation. Through collecting, verifying, curating and investigating visual content, the Syrian Archive aims to preserve data as a digital memory to establish a database of human rights violations, and to act as a tool for legally implementing justice and accountability efforts as concept and practice in Syria.
 
-Since its founding in 2014, the Syrian Archive have collaborated with organisations including Human Rights Watch (HRW), Amnesty International, Human Rights Center at UC Berkeley School of Law, and Essex University, Witness, Bellingcat and various agencies of the United Nations (UN), specifically the Independent International Commission of Inquiry on the Syrian Arab Republic.
+Since its founding in 2014, the Syrian Archive has collaborated with organisations including Human Rights Watch (HRW), Amnesty International, University of California at Berkeley and the University of Essex, Witness, Bellingcat and various agencies of the United Nations (UN), specifically the Independent International Commission of Inquiry on the Syrian Arab Republic.
 
 ### Syrians for Truth and Justice
 
