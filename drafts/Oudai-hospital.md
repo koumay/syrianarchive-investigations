@@ -10,9 +10,8 @@ image: /assets/investigations/hrc_cover.png
 - Hospital: Oudai (Ehsan) Hospital
 - Beneficiaries: ~36000 people in a year
 - Date of the attack: 29/01/2018
-- Time: 07:40am 08:00am and 10:30am Damascus time
-- Attacks: 1 airstrike ?
-- Reported killed: Two women and one child
+- Time: 07:40am (potato market) 08:10am (hospital attack) Damascus time
+- Attacks: 1 airstrike
 - Reported injured: 3 injured from the medical facility staff
 - Munitions identified: Not available
 - Potentially responsible: Russian or Syrian air force
@@ -28,6 +27,9 @@ Oudai (Ehsan) Hospital is located in Saraqib city in the southern countryside of
 ## What Happened
 
 On January 29th 2018 local sources reported that Owdai Hospital in Saraqib was targeted by an airstrike, following an earlier airstrike that damaged the hospital on January 22nd 2018.
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VECTs) showing the first moment of the attack that bombed the Oudai Al Hussein hospital.
+
+_[add giphy]_
 
 The [Syrian Network for Human Rights reported](http://sn4hr.org/sites/news/2018/01/29/russian-forces-shelled-oday-saraqeb-hospital-saraqeb-city-idlib-suburbs-january-29/) that the hospital was treating victims of an earlier bombing at the New Potato Market in Saraqib January 29th 2018 when the hospital was attacked.
 
@@ -43,9 +45,9 @@ _[add images from the video]_
 
 _[add geolocation]_
 
-According to witness testemonies collected by the Syrians for Truth and Justice, the killed and injured people from the potator market attack were moved to Oudai hospital which was then bombed by the airforce.
+According to witness testimonies collected by the Syrians for Truth and Justice, the killed and injured people from the potato market attack were moved to Oudai hospital which was then bombed by the airforce.
 
-Idlib Health Directorate reported at 11:33am local time on January 29th that the hospital was attacked an hour earlier at 10:30am on January 29th, resulting in 3 injuries, and deaths of 2 women and 1 child. They also stated that this is the second attack for the same hospital in one week.
+Aljisr TV [published a a video of an interview](https://www.youtube.com/watch?v=dmcvVs1l3LY) with Dr. Ali Al faraj, the deputy of Oudai hospital. He said: "This morning the potato market was bombed, then the emergency center, The blood bank, and the Oudai hospital were bombed after in the same day. The injured people from the potato market attack were all transfered into the Oudai hospital which was then bombed as you can see here. As a result of this attack the hospital is out of service now. 3 medical staff were injured. Renovating the hospital building will be very difficult after this attack."
 
 Edlib Media Center [published photos](https://www.facebook.com/EdlibEmc1/photos/pcb.2020739931472899/2020739648139594/?type=3&theater) that show the rescue operations outside the hospital after the attack.
 
