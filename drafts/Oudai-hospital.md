@@ -42,11 +42,13 @@ Citizen journalist Hadi AL Abdallah [published a video](https://www.youtube.com/
 
 Al Abdallah said in the video: "11 killed and many injured in a new massacre committed by the airforce which bombed the potato market."
 
-Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged trucks. We can see clearly in the photo below a possible crater as a result of the airstrike that targeted this location. 
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged trucks. We can see clearly in the photo below a possible crater as a result of the airstrike that targeted this location.
 
 ![potato market-2](/drafts/assets/crater-potato-market.png)
 
-_[add geolocation]_
+The geolocation of the impact site (The potato market) was possible through using the video published by Al Abdallah. We can clearly see the three banners that stands in the main street in the video still and the satellite imagery.
+
+[potato market-3](/drafts/assets/geollocation-potato-market.jpg)
 
 According to witness testimonies collected by the Syrians for Truth and Justice, the killed and injured people from the potato market attack were moved to Oudai hospital which was then bombed by the airforce.
 
