@@ -25,12 +25,9 @@ The hospital [founded in 1984](http://www.esyria.sy/eidleb/index.php?p=stories&c
 
 On Feb 4th, 2018, local reports [including videos published](https://www.youtube.com/watch?v=d6oF9r2oFv0) by the Syrian Civil Defense claim that the national hospital was targeted by multiple airstrikes.
 
-![national15.jpg](assets/national15.jpg "An exclusive photo to STJ shows the location where one of the missiles downfall")
-
 ## Previous attacks
 
-Hospitals in Idlib have repeatedly been attacked throughout the Syrian conflict, in clear violation of international law. The Syrian Archive has previously completed two in-depth open source investigations regarding the targeting of medical facilities in Idlib governorate - [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html), and [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) which provided overviews of visual content regarding attacks targeting additional Idlib's hospital and medical points.
-
+The national hospital of Marrat al-Numaan have been attcked on 2 April 2017. The Syrian Archive has [published an in-depth open source investigation](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html) regarding that attack.
 
 ## What Happened
 
@@ -57,6 +54,9 @@ paramedic asked someone to bring him a Laryngoscope then after several seconds a
 
 The label return to a baby called Abdullah Amir Sarjawi, 13 days old, the date of his admission was 04 February, and his parents live in Aleppo.
 
+![national15.jpg](assets/national15.jpg)
+*An exclusive photo to STJ shows the location where one of the missiles downfall*
+
 Hadi Alabdallah, a citizen journalist, [published a video on his YouTube channel](https://www.youtube.com/watch?v=HcMurYLYlEo) showing destruction inside the hospital, injured including elderly men and women, fires outside of the hospital as a result of the attack, as well as the evacuation of babies and injured from the hospital by the Syria Civil Defense members. See still below:
 
 ![national06](assets/national07.jpg)
@@ -67,7 +67,8 @@ In the same video at 0:49, Hadi Alabdallah said "a little while ago, Russian war
 
 At 1:47 said "Many medical facilities in Idlib have been attacked. The air force is now flying over us and maybe it'll target this area in any moment because this hospital was attacked with more than ten airstrikes so maybe it gets targeted again."
 
-![national16.jpg](assets/national16.jpg "An exclusive photo to STJ shows a part of the destruction that has done in the hospital.")
+![national16.jpg](assets/national16.jpg)
+*An exclusive photo to STJ shows a part of the destruction that has done in the hospital.*
 
 Another citizen reporter Moaz Alshami also published a video in front of the hospital shows Civil defense team were trying to put out fires, said: "After the massacre carried out by Russian aircrafts in Kafr Nabl city, the National Hospital in Maarat al-Numan is now targeting more than six air strikes. It is the only hospital operating here. It contains dozens of injured people who were injured in Kafr Nabl and taken here."
 
@@ -120,7 +121,13 @@ In another testimony by a member of the Civil Defense who was in the hospital at
 Abu Bahar, the supervisor of an observatory that monitors the movement of the warplanes in the city's skies, spoke to STJ, saying:
 “On February 4, 2018, a squadron of warplanes took off from Hememim Military Airbase in Latakia province, flied towards the north of Syria, and then rotated on bombing our areas. However, at 8:40 p.m. on the same day, one of these aircrafts raided Ma'arat Central Hospital, followed by five more raids, which caused the hospital to be completely out of service”.
 
-![national14.jpg](assets/national14.jpg "An exclusive photo to STJ shows the remains of one of the missiles that fell in front of the hospital.")
+## The weapons used
+
+Syrians for Truth and Justice (STJ) was able to obtain a photo shows the remains of one of the missiles that fell in front of the hospital, see below:
+
+![national14.jpg](assets/national14.jpg)
+
+The Syrian Archive couldn't gather additional information about the weapons uesd in this attack.
 
 ## Flight Data Analysis
 
