@@ -27,8 +27,6 @@ On Feb 4th, 2018, local reports [including videos published](https://www.youtube
 
 ![national15.jpg](assets/national15.jpg "An exclusive photo to STJ shows the location where one of the missiles downfall")
 
-It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
-
 ## Previous attacks
 
 Hospitals in Idlib have repeatedly been attacked throughout the Syrian conflict, in clear violation of international law. The Syrian Archive has previously completed two in-depth open source investigations regarding the targeting of medical facilities in Idlib governorate - [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html), and [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) which provided overviews of visual content regarding attacks targeting additional Idlib's hospital and medical points.
@@ -79,32 +77,27 @@ After that Alshami entered the hospital and said: "The Civil Defense evacuate th
 
 At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of the women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?"
 
-[SMART News Agency published a video](https://www.youtube.com/watch?v=-GA92EyURH8) on their youtube channel contained a testimony of the Head of Radiology Department, where he said: "The hospital targeted last night 04 Feb 2018 by six strikes from the Russian warplanes; as a result the hospital is completely out of service now, which is the only hospital in this region, serving more than 20 thousand patients per month." The Syrian Archive team has created a panoramio image using the video publish by SMART to understand better which side of the hospital the video was taken.
+The Common Syrian Observatory published a [short video show two newborn babies](https://www.youtube.com/watch?v=GAB-hichb5A) during their transfer.
 
-![national13.jpg](assets/national13.jpg)
+[SMART News Agency published a video](https://www.youtube.com/watch?v=-GA92EyURH8) on their youtube channel contained a testimony of the Head of Radiology Department, where he said: "The hospital targeted last night 04 Feb 2018 by six strikes from the Russian warplanes; as a result the hospital is completely out of service now, which is the only hospital in this region, serving more than 20 thousand patients per month."
 
-On 05 Jan 2018, The Syrian American Medical Society (SAMS), who supported the hospital, [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National hospital in Maarat al-Numaan was becoming out of order as a result of targeting it by six aircrafts:
+On the next day (05 Jan 2018) The Syrian American Medical Society (SAMS), who supported the hospital, [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National hospital in Maarat al-Numaan was becoming out of order as a result of targeting it by six aircrafts:
 
 ![national13.png](assets/national13.png)
 
 ## Where did it happen?
 
-The Syrian Archive team was able to match several objects between Moaz Alshami's video and Smart agency's video which confirms they were captured in the same place:
+The Syrian Archive team was able to match several objects between Moaz Alshami's video and Smart agency's one which confirms they captured in the same place, see below:
 
 ![national08](assets/national08.jpg)
-
-Other stills from the same videos were also matched to identify the below objects:
-
 ![national09](assets/national09.jpg)
 
-Several landmarks and objects of a different side of the hospital were identified using the Smart agency's video
-![national13.jpg](assets/national13.jpg)
-
-The same objects were identified in a satellite image for the National hospital in Maarat al-Numaan provided by Digital Globe
+Also, we were able to geolocate several landmarks and objects using the Smart agency's video and a satellite image for the National hospital in Maarat al-Numaan, which confirming that it was the targeted place, see below:
 
 ![national12.jpg](assets/national12.jpg)
+![national13.jpg](assets/national13.jpg)
 
-we can see some signs from inside the hospital, [in a video published by the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
+Also, we can see some signs from inside the hospital, [a video from the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
 
 ![national02](assets/national02.jpg)
 
@@ -126,6 +119,7 @@ In another testimony by a member of the Civil Defense who was in the hospital at
 
 Abu Bahar, the supervisor of an observatory that monitors the movement of the warplanes in the city's skies, spoke to STJ, saying:
 “On February 4, 2018, a squadron of warplanes took off from Hememim Military Airbase in Latakia province, flied towards the north of Syria, and then rotated on bombing our areas. However, at 8:40 p.m. on the same day, one of these aircrafts raided Ma'arat Central Hospital, followed by five more raids, which caused the hospital to be completely out of service”.
+
 ![national14.jpg](assets/national14.jpg "An exclusive photo to STJ shows the remains of one of the missiles that fell in front of the hospital.")
 
 ## Flight Data Analysis
@@ -137,6 +131,8 @@ To provide a further layer of verification, the Syrian Archive cross-referenced 
 <div class='tableauPlaceholder' id='viz1518536576059' style='position: relative'><noscript><a href='#'><img alt='Observed flight data, Idlib province 4 Feb. 2018 (20:00-22:00) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;04&#47;04022018_marrat_al_numan&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='04022018_marrat_al_numan&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;04&#47;04022018_marrat_al_numan&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1518536576059');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 [//]: <> (End tableau embed code)
+
 Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (several fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting from 11:41 AM. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
 While there is no direct evidence available that one of the observed aircrafts was involved in the attack on Maarat al-Numaan, the presence of these aircrafts increase the likelihood that an air attack occurred at this location and the time stated by the citizen reporters as well as humanitarian groups, and estimated also using imagery from the attack.
+
