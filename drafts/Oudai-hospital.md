@@ -38,11 +38,11 @@ The [Syrian Network for Human Rights reported](http://sn4hr.org/sites/news/2018/
 
 Citizen journalist Hadi AL Abdallah [published a video](https://www.youtube.com/watch?v=DHf5r3aPhgU) showing the civil defense rescuing injured people as a result of the attack on the Saraqib Potato market.
 
-![potato market](/drafts/assets/potators-market-1.png)
+![potato market](/drafts/assets/potator-market-1.png)
 
 Al Abdallah said in the video: "11 killed and many injured in a new massacre committed by the airforce which bombed the potato market."
 
-Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged trucks.
+Edlib Media Center [published a video](https://www.youtube.com/watch?v=kEh1xqI9UJ8) about the potato market bombing which shows killed and injured people as a result of the airtsrike as well as damaged trucks. We can see clearly in the photo below a possible crater as a result of the airstrike that targeted this location. 
 
 ![potato market-2](/drafts/assets/crater-potato-market.png)
 
