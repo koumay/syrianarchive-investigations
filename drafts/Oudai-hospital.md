@@ -52,6 +52,11 @@ The geolocation of the impact site (The potato market) was possible through usin
 
 According to witness testimonies collected by the Syrians for Truth and Justice, the killed and injured people from the potato market attack were moved to Oudai hospital which was then bombed by the airforce.
 
+We have identified stills from [Smart News Agency Video](https://www.youtube.com/watch?v=TBoFbO0YiYE) as well as [Thiqa news agency video](https://www.youtube.com/watch?v=qi_h0TDek5A) that shows the Oudai hospital before and after the attack. In the still above we can see the dead bodies as a result of the potato market attack. In the second still below, we can see the damage of the same location after the airstrike that targeted the hospital.
+
+![before-after-Oudai](/drafts/assets/before-after-oudai.jpg)
+
+
 Citizen journalist Hadi AL Abdallah [published another video in the same day of the potato market attack on Jan 29th 2018](https://www.youtube.com/watch?v=R1LYNZ5-1BA) showing the Oudai hospital damage as a result of an airstrike that bombed the hospital after the potato market attack.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1LYNZ5-1BA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -64,18 +69,24 @@ Edlib Media Center [published photos](https://www.facebook.com/EdlibEmc1/photos/
 
 ![oudai-2](/drafts/assets/EMC-overview-damage.jpg)
 
-The bomb landed in front of the main hospital building, leaving a large crater as [shown a video published](https://www.youtube.com/watch?v=qi_h0TDek5A) by Thiqa news agency, and resulting in the collapse of a warehouse containing medical supplies. In addition to the deaths and injuries reported by the Idlib Health Directorate an hour after the attack, Syrian Civil Defence dug the corpse of an adult male out of the debris from the attack after the initial rescue operation.
+The bomb landed in front of the main hospital building, leaving a large crater as [shown a video published](https://www.youtube.com/watch?v=qi_h0TDek5A) by Thiqa news agency, and resulting in the collapse of a warehouse containing medical supplies. The video shows the Syrian Civil Defence dug the corpse of an adult male out of the debris from the attack after the initial rescue operation.
 
-_[add the photo of the crater]_
+![oudai-crater](/drafts/assets/crater-oudai.png)
 
 ## Where did it happen?
 
-The Syrian Archive team created a panoramio image using the video of Sham News Agency which was published after the attack. We identified the hospital building and another building through comparing the image with Google earth satellite imagery.
+The Syrian Archive team created a panoramio image using the [video of Sham News Agency](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) which was published after the attack. We identified the hospital building and another building through comparing the image with Google earth satellite imagery.
 
 ![geolocating Oudai Hospital](/drafts/assets/oudai-geolocation-1.jpg)
 
-## When did it happen?
+## Weapon used
 
+Sham news agency published a video that shows remnants of munition used during the potato market attack. We haven't been able to identify exact location or type of munition.
+
+![weapon](/drafts/assets/weapon.png)
+
+
+## When did it happen?
 
 Witness statements of the attack were provided by Syrians for Truth and Justice.
 
