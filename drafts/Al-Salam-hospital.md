@@ -41,28 +41,6 @@ Prior to the attack on 3 Jan 2018, the hospital treated approximately 8.000 to 9
 
 Al Salaam Hospital is the only maternity hospital in Maarat al-Numaan that provided emergency services, medical consultations, as well as deliveries.
 
-### Previous attacks on Idlib hospitals
-
-Hospitals in Idlib have repeatedly been attacked throughout the Syrian conflict, in clear violation of international law. The Syrian Archive has previously completed two in-depth open source investigations regarding the targeting of medical facilities in Idlib governorate - [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html), and [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) which provided overviews of visual content regarding attacks targeting additional Idlib's hospital and medical points.
-
-Syrian American Medical Society (SAMS) [has found that](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) the al-Salaam hospital in Maarat al-Numaan has been attacked three times since 30 Dec 2017, although the Syrian Archive has not been able to independent confirm this as of the date of publication.
-
-In this report, the Syrian Archive presents analysis of the most recent attack on Al-Salaam hospital which resulted in the hospital becoming out of service.
-
-### De-escalation zone
-
-On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey, and Iran) [signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.youtube.com/watch?v=5cF-gIL8yzk) for at least six months, which [was extended](https://sana.sy/en/?p=116911]) at Astana 7 on 31 October 2017. The Russian Ministry of Defense [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). See below:
-
-![Russian MOD video](assets/atarib-3.png)
-
-![Map of de-escalation zone](assets/atarib-4.png)
-
-These areas included Idlib province, some parts of northern Homs province, as well as some parts of adjacent provinces (Latakia, Hama, and Aleppo), Eastern Ghouta in Damascus countryside and some parts of southern Syria.
-
-![al-salaam](assets/al-numan.png)
-
-A zoomed in look at the Russian Ministry of Defense’s map (above) clearly shows that the bombed location in Maarat al-Numan city is part of the de-escalation zone established during the Astana talks.
-
 ## What Happened?
 
 On 03 Jan 2018 between 11:38 AM and 12:00 AM (in Damascus local time), al-Salaam hospital in Maarat al-Numaan was attacked allegedly by the Russian air force. The Syrian American Medical Society (SAMS), who supported the hospital, published a  [report](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) stating that the latest airstrikes resulted in the 'killing [of] five people, including a newborn baby girl and her father, and injuring many more.'
