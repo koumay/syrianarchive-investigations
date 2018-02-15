@@ -56,15 +56,13 @@ The Syrian Archive compared images between previous attacks 19/09/2017 and this 
 
 ![before and after](assets/before-after-corner-damage.jpg)
 
+[Maara Media Center published photos](https://www.facebook.com/maaramediacenter/posts/365657123900918) that show the small building in-front of the main hospital building completely destroyed.
+
+![orient09](assets/orient099.jpg)
+
 The external damage surrounding the hospital can be identified in the satellite image below taken by Digital Globe.
 
 ![sat-image](assets/orient-sattelite-2.jpg)
-
-[Maara Media Center published photos](https://www.facebook.com/maaramediacenter/posts/365657123900918) that show the small building in-front of the main hospital building completely destroyed.
-
-![orient09](assets/orient09.jpg)
-
-_[add geolocation]_
 
 Damage to the entrance of the building and an ambulance provided by the “UK 2 Syria” campaign can be seen in [a video published](https://www.youtube.com/watch?v=YwhGjgql7IU) by Sham News Network:
 
@@ -73,12 +71,8 @@ Damage to the entrance of the building and an ambulance provided by the “UK 2 
 Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE) showing also the damage to the interior of the hospital:
 
 ![orient12](assets/orient12.jpg)
-_[also see orient11 and orient10]_
-
-## Where did it happen?
 
 ## When did it happen?
-
 
 Witness statements of the attack was provided by Syrians for Truth and Justice.
 One of the nurses, who was at Orient Hospital at the time of the attack, spoke to Syrians for Truth and justice/STJ about the details of the incident, saying:
