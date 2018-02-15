@@ -44,12 +44,19 @@ On February 5th 2018 local sources such as [Muaz Al Shami reported](https://yout
 
 [Maara Media Center](https://www.facebook.com/maaramediacenter/posts/365657123900918) and other reporting from the ground blamed Russian aircraft for the attack.
 
+![fb-post-marra](assets/fb-marra.png)
+
 Footage filmed after the airstrikes shows clear damage to the hospital building and surrounding area. Damage to the northeast corner of the building, consistent with footage of the airstrike, can be seen clearly. The corner of the building is badly damaged and the windows, bricked up in footage from September 19th 2017, have been completely blown out:
 
 Below is [a video publish](https://www.youtube.com/watch?v=2a1eWc0xRqo) by "Nidaa Syria" that shows the damage to the northeast corner of the hospital building:
 
 ![orient04.jpg](assets/orient04.jpg)
-_[also you can use orient05.jpg]_
+
+_[compare photos from pre and after attack]_
+
+[Maara Media Center published photos](https://www.facebook.com/maaramediacenter/posts/365657123900918) that show the small building in-front of the main hospital building completely destroyed.
+
+![orient09](assets/orient09.jpg)
 
 Damage to the entrance of the building and an ambulance provided by the “UK 2 Syria” campaign can be seen in [a video published](https://www.youtube.com/watch?v=YwhGjgql7IU) by Sham News Network:
 
