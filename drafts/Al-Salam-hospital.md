@@ -23,7 +23,7 @@ image: /assets/investigations/hrc_cover.png
 
 ## Background of Maarat al-Numaan
 
-Maarat al-Numaan (also known as al-Maarra) is a city located 33 km south of Idlib. It is the second largest city in Idlib, with a population of roughly 58,008 (2004 census). Al-Maarra has a long history, and its museum has [mosaics from the Dead Cities](http://www.esyria.sy/eidleb/index.php?p=stories&category=ruins&filename=200801071848011), dating from the 1st to 7th centuries.
+Maarat al-Numaan (also known as al-Maarra) is a city located 33 km south of Idlib. It is the second largest city in Idlib, with a population of roughly 58,008 (2004 census). Maarat al-Numaan has a long history, and its museum has [mosaics from the Dead Cities](http://www.esyria.sy/eidleb/index.php?p=stories&category=ruins&filename=200801071848011), dating from the 1st to 7th centuries.
 
 The city saw demonstrations early on in the Syrian uprising. [One of the first demonstrations](https://www.youtube.com/watch?v=ptgRwJ0tGq8), dating from 24 April 2011, documents demonstrators chanting for freedom and Daraa. Security forces [often intervened](https://www.youtube.com/watch?v=Z_8a7FlJMAU) to break up demonstrations. The city has seen a [number of defection of military officers](https://www.youtube.com/watch?v=sp29oYjAGRQ), and as a result, swiftly became an important hub for [organizing protests](https://www.youtube.com/watch?v=mfLaZ1G3s20). In October 2012, Maarat al-Numaan fell under [control by the Free Syrian Army](https://www.youtube.com/watch?v=5aralZ54lXs) (FSA), since which it has ceased to be controlled by the Syrian government.
 
@@ -39,13 +39,13 @@ Prior to the attack on 3 Jan 2018, the hospital treated approximately 8.000 to 9
 
 ![al-salaam00.jpg](assets/al-salaam00.jpg)
 
-Al Salaam Hospital is the only maternity hospital in Maarat al-Numan that provided emergency services, medical consultations, as well as deliveries.
+Al Salaam Hospital is the only maternity hospital in Maarat al-Numaan that provided emergency services, medical consultations, as well as deliveries.
 
 ### Previous attacks on Idlib hospitals
 
 Hospitals in Idlib have repeatedly been attacked throughout the Syrian conflict, in clear violation of international law. The Syrian Archive has previously completed two in-depth open source investigations regarding the targeting of medical facilities in Idlib governorate - [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html), and [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) which provided overviews of visual content regarding attacks targeting additional Idlib's hospital and medical points.
 
-Syrian American Medical Society (SAMS) [has found that](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) the al-Salaam hospital in Maarrat al-Numaan has been attacked three times since 30 Dec 2017, although the Syrian Archive has not been able to independent confirm this as of the date of publication.
+Syrian American Medical Society (SAMS) [has found that](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) the al-Salaam hospital in Maarat al-Numaan has been attacked three times since 30 Dec 2017, although the Syrian Archive has not been able to independent confirm this as of the date of publication.
 
 In this report, the Syrian Archive presents analysis of the most recent attack on Al-Salaam hospital which resulted in the hospital becoming out of service.
 
@@ -65,9 +65,9 @@ A zoomed in look at the Russian Ministry of Defense’s map (above) clearly show
 
 ## What Happened?
 
-On 03 Jan 2018 between 11:38 AM and 12:00 AM (in Damascus local time), al-Salaam hospital in Maarat al-Numan was attacked allegedly by the Russian air force. The Syrian American Medical Society (SAMS), who supported the hospital, published a  [report](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) stating that the latest airstrikes resulted in the 'killing [of] five people, including a newborn baby girl and her father, and injuring many more.'
+On 03 Jan 2018 between 11:38 AM and 12:00 AM (in Damascus local time), al-Salaam hospital in Maarat al-Numaan was attacked allegedly by the Russian air force. The Syrian American Medical Society (SAMS), who supported the hospital, published a  [report](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) stating that the latest airstrikes resulted in the 'killing [of] five people, including a newborn baby girl and her father, and injuring many more.'
 
-On their Facebook page, [SAMS published a video](https://www.facebook.com/sams.arabic/videos/1209630115836875/) showing the hospital from the inside, immediately after the attack. That evening [SAMS later reported](https://www.facebook.com/sams.arabic/videos/1209757322490821/): "Al-Salaam hospital in Maarat al-Numan was becoming out of order, after violent attacks against it caused significant material damage, and its medical staff and patients were evacuated. A newborn baby girl was killed two hours later after she has been born in the hospital and another was injured as a result of the shelling."
+On their Facebook page, [SAMS published a video](https://www.facebook.com/sams.arabic/videos/1209630115836875/) showing the hospital from the inside, immediately after the attack. That evening [SAMS later reported](https://www.facebook.com/sams.arabic/videos/1209757322490821/): "Al-Salaam hospital in Maarat al-Numaan was becoming out of order, after violent attacks against it caused significant material damage, and its medical staff and patients were evacuated. A newborn baby girl was killed two hours later after she has been born in the hospital and another was injured as a result of the shelling."
 
 Thiqa News agency [also published a video on their YouTube channel](https://www.youtube.com/watch?v=kKJi6vdRAmM)  showing the destruction of the hospital. See still below:
 
@@ -85,7 +85,7 @@ Another still from the Alabdallah video shows destruction outside of the hospita
 
 In the same video, Alabdallah conducted an interview with one of the hospital doctors who stated: "We were in the operations room when we were surprised by a huge explosion caused by two missiles. We went out immediately to check the casualties. We had five victims and a number of wounded, in addition to extreme physical damage."
 
-RFS Media [also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) showing the destruction in the front of the hospital. The video also features an interview with a member of Syria Civil Defence rescue team, who stated: "The warplanes launched heaviest attacks on several areas in the southern countryside of Idlib. We are now in al-Salaam hospital in Maarat al-Numan, a civilian hospital, which was targeted by airstrikes, resulting in five victims and ten wounded."
+RFS Media [also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) showing the destruction in the front of the hospital. The video also features an interview with a member of Syria Civil Defence rescue team, who stated: "The warplanes launched heaviest attacks on several areas in the southern countryside of Idlib. We are now in al-Salaam hospital in Maarat al-Numaan, a civilian hospital, which was targeted by airstrikes, resulting in five victims and ten wounded."
 
 Maara Media Center (MMC) [published a video](https://www.youtube.com/watch?v=sVU982I06rY) by Mohamed Aldaher showing additional destruction outside of the hospital from a different perspective. See stills below:
 
@@ -124,11 +124,11 @@ These landmarks and buildings were then compared with the following satellite im
 
 According to some testimonies in the videos above, the airstrike took place after the noon prayer, [which was held around](https://timesprayer.today/6045-month01-year2018-%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D9%88%D8%A7%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B4%D9%87%D8%B1-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-%D9%85%D8%B9%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86.html) 11:38 AM on 03 Jan 2018.
 
-At 11:48 AM on 03 January, a citizen reporter, based in Marrat al-Numan, [Anas Al Marwai, published a video](https://www.facebook.com/100010399271536/videos/543910859298885/) on his Facebook page showing destruction around the al-Salaam hospital. See below:
+At 11:48 AM on 03 January, a citizen reporter, based in Maarat al-Numaan, [Anas Al Marwai, published a video](https://www.facebook.com/100010399271536/videos/543910859298885/) on his Facebook page showing destruction around the al-Salaam hospital. See below:
 
 ![al-salaam01](assets/anas-alsalam.jpg)
 
-Another Citizen reporter Mutie Jalal also published a tweet at 11:55 AM about the attack, stating: "Two Russian airstrikes on Sarakib and one on Maarat al-Numan and another one on Muharram."
+Another Citizen reporter Mutie Jalal also published a tweet at 11:55 AM about the attack, stating: "Two Russian airstrikes on Sarakib and one on Maarat al-Numaan and another one on Muharram."
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ar" dir="rtl">غارتين من الطيران الروسي على <a href="https://twitter.com/hashtag/%D8%B3%D8%B1%D8%A7%D9%82%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw">#سراقب</a> وغارة على <a href="https://twitter.com/hashtag/%D9%85%D8%B9%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86?src=hash&amp;ref_src=twsrc%5Etfw">#معرة_النعمان</a> وأخرى على <a href="https://twitter.com/hashtag/%D9%85%D8%B9%D8%B1_%D8%AD%D8%B1%D9%85%D8%A9?src=hash&amp;ref_src=twsrc%5Etfw">#معر_حرمة</a></p>&mdash; مطيع جلال (@shamalmjd1) <a href="https://twitter.com/shamalmjd1/status/948492991605411840?ref_src=twsrc%5Etfw">January 3, 2018</a></blockquote>
 
@@ -137,7 +137,7 @@ Hadi Alabdallah [published another video](https://www.youtube.com/watch?v=5LIEMU
 
 ![al-salaam](assets/al-salaam10.jpg)
 
-In the same video, Alabdallah stated: "Although it's raining and the sky is full of clouds, the Russian warplanes do not stop flying and bombing the areas of Idlib countryside." Through comparing Alabdallah's description of the weather at the location to recorded data of the [weather on 03 January in Maarrat al-Numaan](https://weather.com/en-GB/weather/monthly/l/SYXX0099:1:SY), the Syrian Archive was able to confirm the weather was rainy and cloudy, corroborating claims made in the videos. See below:
+In the same video, Alabdallah stated: "Although it's raining and the sky is full of clouds, the Russian warplanes do not stop flying and bombing the areas of Idlib countryside." Through comparing Alabdallah's description of the weather at the location to recorded data of the [weather on 03 January in Maarat al-Numaan](https://weather.com/en-GB/weather/monthly/l/SYXX0099:1:SY), the Syrian Archive was able to confirm the weather was rainy and cloudy, corroborating claims made in the videos. See below:
 
 ![al-salaam01](assets/al-salaam13.jpg)
 
@@ -159,4 +159,4 @@ While there is no direct evidence available that one of the observed aircrafts w
 
 On his Facebook page, Anas Al Marwai [published a photo of a newborn baby girl from Ma'ar Shamareen](https://www.facebook.com/photo.php?fbid=544037762619528&set=a.115427455480563.1073741828.100010399271536&type=3&theater) named "Tal Firas Al Omar", stating that she died an hour after she was born in Al Salaam Hospital as a result of the bombing.
 
-Mukhils Kahttab, a citizen-based in Marrat al-Numan, [published a photo](https://www.facebook.com/photo.php?fbid=2018781351743914&set=a.2016163322005717.1073741829.100008362053367&type=3&theater) on his Facebook page of what he claimed was "his nephew, who was killed as a result of the al-Salaam hospital targeting."
+Mukhils Kahttab, a citizen-based in Maarat al-Numaan, [published a photo](https://www.facebook.com/photo.php?fbid=2018781351743914&set=a.2016163322005717.1073741829.100008362053367&type=3&theater) on his Facebook page of what he claimed was "his nephew, who was killed as a result of the al-Salaam hospital targeting."
