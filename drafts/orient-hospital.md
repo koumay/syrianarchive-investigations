@@ -74,7 +74,7 @@ Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE
 
 Muaz Al Shami [published a video](https://www.youtube.com/watch?v=_dJphbuMm1E) showing three floors damage as a result of the munition that targeted the building.
 
-![orient12](assets/internal-damage-3-floors.jpg)
+![3-floors](assets/internal-damage-3-floors.png)
 
 
 ## When did it happen?
