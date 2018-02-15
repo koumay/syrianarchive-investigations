@@ -20,13 +20,18 @@ image: /assets/investigations/hrc_cover.png
 
 ### Kafranbel surgical (Orient) Hospital
 
-Orient Hospital or known as "Kafranbel Surgical Hospital" is located in the northern part of the city of Kafranbel, in the southern countryside of Idlib, provides services covered the entire towns and cities of the southern countryside of Idlib, with a population of more than 400,000. The hospital has about 156 workers, including 18 doctors. _[add links]_
+[Orient Hospital or known as "Kafranbel Surgical Hospital"](https://www.google.com.tr/maps/place/Surgical+Hospital+Kafr+Nabl/@35.6245444,36.5500508,698m/data=!3m2!1e3!4b1!4m5!3m4!1s0x152459bbafa257f7:0xfbcc252cc06eea0d!8m2!3d35.6245444!4d36.5521021) is located in the northern part of the city of Kafranbel, in the southern countryside of Idlib, provides services covered the entire towns and cities of the southern countryside of Idlib, with a population of more than 400,000. The hospital has about 156 workers, including 18 doctors.
 
 ### Previous attacks on Kafranbel surgical (Orient) Hospital
 
-Orient hospital in Kafranbel has been attacked on 19/09/2017 with three airstrikes that resulted of injured people, structural damage to the building and the equipment of the hospital. A detailed report about this previous incident has been published by the Syrian Archive in 2017 as well as the Syrians for Truth and Justice. _[add links to both reports]_
+Orient hospital in Kafranbel has been attacked on September 19th 2017 with three airstrikes that resulted of injured people, structural damage to the building and the equipment of the hospital. [A detailed report titles about this previous incident](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) has been published by the Syrian Archive in 2017 as well as [the Syrians for Truth and Justice](https://www.stj-sy.com/uploads/pdf_files/Syria%2520Medical%2520Fcilities%2520excluded%2520from%2520de-escalation%2520zone%2520agreement.pdf).
 
 ![orient03](assets/orient03.png)
+
+Another previous attack tat targeted this hospital was in March 25th 2017. [Qasioun News Agency published a video](https://www.youtube.com/watch?v=srgCm-W_gqM) showing the damage of the building and fire after the attack.
+
+![march attack](assets/march-attack-kafranbel.png)
+
 
 ## What Happened
 
@@ -34,10 +39,9 @@ On February 5th 2018 local sources reported the Kafarnabel Surgical Hospital, al
 
 [Footage filmed during](https://www.youtube.com/watch?v=WzFAjvqC9uw&list=PLPC0Udeof3T4QmV4f9tEhDmQzr2Z_vTKZ&index=1) and after the February 5th 2018 attack shows clearly the hospital was attacked directly, with one [geolocated video](https://www.youtube.com/watch?v=WzFAjvqC9uw) capturing a bomb as it fell through the air and struck the east side of the hospital building:
 
-_[add giphy to this video]_
+<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ">via GIPHY</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WzFAjvqC9uw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-_[or you can use orient01.jpg or orient01.jpg]_
+![moment of attack](assets/impact-hospital.jpg)
 
 [Maara Media Center](https://www.facebook.com/maaramediacenter/posts/365657123900918) and other reporting from the ground blamed Russian aircraft for the attack.
 
