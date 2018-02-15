@@ -41,7 +41,7 @@ On February 5th 2018 local sources reported the Kafarnabel Surgical Hospital, al
 
 <iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ">via GIPHY</a></p>
 
-![moment of attack](assets/impact-hospital.jpg)
+![moment of attack](assets/Impact-hospital.jpg)
 
 [Maara Media Center](https://www.facebook.com/maaramediacenter/posts/365657123900918) and other reporting from the ground blamed Russian aircraft for the attack.
 
