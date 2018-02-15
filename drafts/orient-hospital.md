@@ -52,9 +52,13 @@ Below is [a video publish](https://www.youtube.com/watch?v=2a1eWc0xRqo) by "Nida
 
 ![orient04.jpg](assets/orient04.jpg)
 
-_[compare photos from pre and after attack]_
+The Syrian Archive compared images between previous attacks 19/09/2017 and this attack 05/02/2018 through videos of Maara Media Center and Baladi news agency.
 
-_[add geolocation]_
+![before and after](assets/before-after-corner-damage.jpg)
+
+The external damage surrounding the hospital can be identified in the satellite image below taken by Digital Globe.
+
+![sat-image](assets/orient-sattelite-2.jpg)
 
 [Maara Media Center published photos](https://www.facebook.com/maaramediacenter/posts/365657123900918) that show the small building in-front of the main hospital building completely destroyed.
 
