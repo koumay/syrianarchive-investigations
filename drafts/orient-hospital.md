@@ -54,18 +54,17 @@ Below is [a video publish](https://www.youtube.com/watch?v=2a1eWc0xRqo) by "Nida
 
 _[compare photos from pre and after attack]_
 
+_[add geolocation]_
+
 [Maara Media Center published photos](https://www.facebook.com/maaramediacenter/posts/365657123900918) that show the small building in-front of the main hospital building completely destroyed.
 
 ![orient09](assets/orient09.jpg)
 
+_[add geolocation]_
+
 Damage to the entrance of the building and an ambulance provided by the “UK 2 Syria” campaign can be seen in [a video published](https://www.youtube.com/watch?v=YwhGjgql7IU) by Sham News Network:
 
 ![orient06](assets/orient06.jpg)
-
-Photographs and videos from inside the building shows heavy damage to the interior of the hospital building. Marra Media Center [published photos](https://www.facebook.com/maaramediacenter/photos/pcb.365657123900918/365657073900923/?type=3&theater) that show damage to the entrance area of the hospital, see below:
-
-![orient09](assets/orient09.jpg)
-_[also you can see orient08 and orient07 ]
 
 Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE) showing also the damage to the interior of the hospital:
 
