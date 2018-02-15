@@ -36,6 +36,8 @@ Edlib Media Center [published a video](https://www.youtube.com/watch?v=wQAVO0VEC
 
 The [Syrian Network for Human Rights reported](http://sn4hr.org/sites/news/2018/01/29/russian-forces-shelled-oday-saraqeb-hospital-saraqeb-city-idlib-suburbs-january-29/) that the hospital was treating victims of an earlier bombing at the New Potato Market in Saraqib January 29th 2018 when the hospital was attacked.
 
+[Assi Press published photos at 09:35 Damascus time](https://www.facebook.com/assipress/posts/1752369028149274) of injured people being treated as a result of the attack that targeted the potato market. 
+
 Citizen journalist Hadi AL Abdallah [published a video](https://www.youtube.com/watch?v=DHf5r3aPhgU) showing the civil defense rescuing injured people as a result of the attack on the Saraqib Potato market.
 
 ![potato market](/drafts/assets/potator-market-1.png)
