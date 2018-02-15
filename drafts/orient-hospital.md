@@ -52,7 +52,7 @@ Below is [a video publish](https://www.youtube.com/watch?v=2a1eWc0xRqo) by "Nida
 
 ![orient04.jpg](assets/orient04.jpg)
 
-The Syrian Archive compared images between previous attacks 19/09/2017 and this attack 05/02/2018 through videos of Maara Media Center and Baladi news agency.
+The Syrian Archive compared images between previous attacks 19/09/2017 and this attack 05/02/2018 through videos of [Maara Media Center](https://www.youtube.com/watch?v=2RJ-k5jXopQ) and [Baladi news agency](https://www.youtube.com/watch?v=lP2SGkCAYgM).
 
 ![before and after](assets/before-after-corner-damage.jpg)
 
