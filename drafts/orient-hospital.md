@@ -32,14 +32,13 @@ Another previous attack tat targeted this hospital was in March 25th 2017. [Qasi
 
 ![march attack](assets/march-attack-kafranbel.png)
 
-
 ## What Happened
 
-On February 5th 2018 local sources reported the Kafarnabel Surgical Hospital, also known as Hand in Hand Hospital and Orient Hospital, was struck in multiple airstrikes that caused significant material damage and got the entire hospital out of service. Witnesses in open sources report that the hospital was targeted between 3 to 5 times, around 9am on the morning of February 5th.  
+On February 5th 2018 local sources such as [Muaz Al Shami reported](https://youtu.be/_dJphbuMm1E?t=31s) that Kafarnabel Surgical Hospital, also known as Hand in Hand Hospital and Orient Hospital, was struck in multiple airstrikes that caused significant material damage and got the entire hospital out of service.
 
 [Footage filmed during](https://www.youtube.com/watch?v=WzFAjvqC9uw&list=PLPC0Udeof3T4QmV4f9tEhDmQzr2Z_vTKZ&index=1) and after the February 5th 2018 attack shows clearly the hospital was attacked directly, with one [geolocated video](https://www.youtube.com/watch?v=WzFAjvqC9uw) capturing a bomb as it fell through the air and struck the east side of the hospital building:
 
-<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ"></a></p>
 
 ![moment of attack](assets/Impact-hospital.jpg)
 
