@@ -16,7 +16,7 @@ Findings in this previous report suggest that in April 2017 Syrian and Russian a
 
 On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey, and Iran) [signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.youtube.com/watch?v=5cF-gIL8yzk) for at least six months, which [was extended](https://sana.sy/en/?p=116911]) at Astana 7 on 31 October 2017. The Russian Ministry of Defense [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). See below:
 
-![Russian MOD video](/assets/atarib-3.png)
+![Russian MOD video](assets/atarib-3.png)
 
 ![Map of de-escalation zone](/assets/atarib-4.png)
 
