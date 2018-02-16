@@ -8,7 +8,7 @@ image: /assets/cover-photo-web.width-800.png
 
 ## Introduction
 
-In July 2017, the Syrian Archive, in partnership with Syrians for Truth and Justice, Justice for Life, Bellingcat and a flight observation organisation published a report titled [Medical Facilities Under Fire: Systemic Attacks during April 2017 on Idlib Hospitals.](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) Detailed reports of eight hospitals or medical facilities targeted within one month in one province were provided.
+In July 2017, the Syrian Archive, in partnership with Syrians for Truth and Justice, Bellingcat and a flight observation organisation published a report titled [Medical Facilities Under Fire: Systemic Attacks during April 2017 on Idlib Hospitals.](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) Detailed reports of eight hospitals or medical facilities targeted within one month in one province were provided.
 
 Findings in this previous report suggest that in April 2017 Syrian and Russian armed forces were responsible for the eight attacks on Syrian hospitals and healthcare centres - facilities serving a combined 1.3 million people (a beneficiary group larger than the population of Brussels), as reported in witness statements as well as by the managers of those medical facilities.  Subsequently, [the United Nations' Commission of Inquiry presented findings of a fact-finding][2] mission confirmed the systemic targeting of medical facilities by the Syrian government in April 2017, as well as the illegal use of chemical weapons.
 
