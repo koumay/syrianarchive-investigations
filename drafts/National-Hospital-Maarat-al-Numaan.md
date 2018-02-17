@@ -10,7 +10,7 @@ image: /assets/investigations/hrc_cover.png
 - Hospital: The National Hospital of Maarat al-Numan
 - Beneficiaries: ~500,000 people a year
 - Date: 4 February 2018
-- Time: around 8:40 PM
+- Time: around 20:40
 - Attacks: 6 airstrikes according to Osama Eido (Hospital x-rays department)
 - Reported casualties:
 - Reported injured:
