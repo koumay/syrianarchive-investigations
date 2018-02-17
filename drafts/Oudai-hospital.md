@@ -62,7 +62,7 @@ Alabdallah [published another video on the same day of the potato market attack 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1LYNZ5-1BA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-He stated in the video: "After the morning massacre that was committed by the airforce in the potato market, which resulted in the death of 11 people and in many injured, those injured were transferred to Oudai (Ehsan) hospital in Saraqib to be treated. But after this, the Russian airforce targeted this hospital, resulting in the hospital becoming completely out of service. A large crater resulted from the munition used by the airforce. A few of the media staff were injured as a result of this attack. Some of those injured from the potato market that were transferred to be treated in this hospital were killed as a result of the airstrike. As of now, some of those killed remain under rubble. This is the only hospital in this city which was not out of service. Ambulances were damaged as well."
+He stated in the video: "After the morning massacre that was committed by the airforce in the potato market, which resulted in the death of 11 people and in many injured, those injured were transferred to Oudai (Ehsan) hospital in Saraqib to be treated. But after this, the Russian airforce targeted this hospital, resulting in the hospital becoming completely out of service. A large crater resulted from the munition used by the airforce. A few of the medical staff were injured as a result of this attack. Some of those injured from the potato market that were transferred to be treated in this hospital were killed as a result of the airstrike. As of now, some of those killed remain under rubble. This is the only hospital in this city which was not out of service. Ambulances were damaged as well."
 
 Aljisr TV [published a a video of an interview](https://www.youtube.com/watch?v=dmcvVs1l3LY) with Dr. Ali Al Faraj, the Deputy of Oudai hospital. Al Faraj stated: "This morning the potato market was bombed, then the emergency centre. Afterwards, the blood bank and the Oudai hospital were bombed on the same day. Those injured from the potato market attack were all transferred to the Oudai hospital, which was then bombed as you can see here. As a result of this attack, the hospital is now completely out of service. Three medical staff were injured. Renovating the hospital building will be very difficult after this attack."
 
@@ -76,13 +76,13 @@ The bomb landed in front of the main hospital building, leaving a large crater a
 
 ## Where did it happen?
 
-The Syrian Archive team created a Panoramio image using the [video of Sham News Agency](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) which was published after the attack. The hospital building and another building were identified through comparing the image with Google earth satellite imagery. See below:
+The Syrian Archive team created a Panoramio image using the [video of Sham News Network](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) which was published after the attack. The hospital building and another building were identified through comparing the image with Google earth satellite imagery. See below:
 
 ![geolocating Oudai Hospital](/assets/oudai-geolocation-1.jpg)
 
 ## Munitions identified
 
-Sham News Agency published a video showing remnants of a munition used during the potato market attack. The Syrian Archive has been unable to identify exact location or type of munition used. See below:
+Sham News Network published a video showing remnants of a munition used during the potato market attack. The Syrian Archive has been unable to identify exact location or type of munition used. See below:
 
 ![weapon](/assets/weapon.png)
 
