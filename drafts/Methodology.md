@@ -12,7 +12,7 @@ This report took an interdisciplinary approach towards investigating attacks on 
 
 Following the hospital attacks in Idlib province during the month of January and February 2018, Syrians for Truth and Justice established a field research team which was tasked with entering the city and inspecting the impact sites. These organisations were additionally tasked with collecting material evidence as well as accounts of the survivors, such as those injured and their families, as well as accounts of eyewitnesses (e.g. medical staff; managers of the hospitals; civil defense team members).
 
-Interviews were conducted in person in Idlib by staff members of their respective organisations and recorded on audio devices and then later transcribed. Staff members conducted a total of 14 semi-structured interviews using a standardised questionnaire. Questions asked to respondents focused on the following themes:
+Interviews were conducted in person in Idlib by staff members of their respective organisations and recorded on audio devices and then later transcribed. Staff members conducted a total of 10 semi-structured interviews using a standardised questionnaire. Questions asked to respondents focused on the following themes:
 
 1. Details surrounding the attack (e.g. date, time, location)  
 
