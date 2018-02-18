@@ -69,11 +69,11 @@ At 1:47 in the same video, Alabdallah stated: "Many medical facilities in Idlib 
 ![national16.jpg](/assets/national16.jpg)
 *An exclusive photo to STJ shows a part of the destruction that has done in the hospital.*
 
-In a separate video, published by citizen reporter Moaz Alshami while they were standing in front of the hospital, Syrian Civil Defense members are seen working to put out fires. Members stated: "After the massacre carried out by Russian aircrafts in Kafranabel city, the National Hospital in Maarat al-Numan has now been targeted with more than six air strikes. It is the only hospital operating here. It contains dozens of injured people who were injured in Kafranabel and taken here."
+In a separate video, published by citizen reporter Moaz Alshami while they were standing in front of the hospital, Syrian Civil Defense members are seen working to put out fires. Moaz stated: "After the massacre carried out by Russian aircrafts in Kafranabel city, the National Hospital in Maarat al-Numan has now been targeted with more than six air strikes. It is the only hospital operating here. It contains dozens of injured people who were injured in Kafranabel and taken here."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRHSrvXJLDs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-After that Alshami entered the hospital and said: "The Civil Defense evacuate the incubators. A few days ago, a massacre in Kafranabel and before it in Khan al-Sabeel and before it in Maazran, every day there is a new targeting of civilians."
+After that Alshami entered the hospital and said: "The Civil Defense evacuate the incubators. A few hours ago, a massacre in Kafranabel and before it in Khan al-Sabeel and before it in Maazran, every day there is a new targeting of civilians."
 
 At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of the women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?"
 
@@ -81,7 +81,7 @@ The Common Syrian Observatory published a [short video showing two newborn babie
 
 SMART News Agency [published a video](https://www.youtube.com/watch?v=-GA92EyURH8) on their YouTube channel as well, containing a testimony from the Head of Radiology Department. He stated: "The hospital was targeted last night 4 Feb 2018 by six strikes from Russian warplanes. As a result, the hospital is now completely out of service, which was the only hospital in this region, serving more than 20 thousand patients per month."
 
-The following day, 5 Jan 2018, the Syrian American Medical Society (SAMS) - who supported the hospital - [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National Hospital in Maarat al-Numaan had become out of order as a result of being targeted by six airstrikes. See below:
+The following day, 5 February 2018, the Syrian American Medical Society (SAMS) - who supported the hospital - [published a post](https://www.facebook.com/sams.arabic/photos/a.1188236591309561.1073741829.1174443599355527/1230201110446442/?type=3&theater) on their Facebook page stating that the National Hospital in Maarat al-Numaan had become out of order as a result of being targeted by six airstrikes. See below:
 
 ![national13.png](/assets/national13.png)
 
