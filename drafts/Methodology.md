@@ -6,11 +6,11 @@ desc: An investigation about attacking Syrian hospitals
 image: /assets/cover-photo-web.width-800.png
 ---
 
-This report took an interdisciplinary approach towards investigating attacks on medical facilities in Idlib during April 2017. In the report, the authors have included a variety of sources for analysis and investigation, which each have their own respective methodologies. Specific methodologies are provided in the following pages:
+This report took an interdisciplinary approach towards investigating attacks on medical facilities in Idlib during January and February 2018. In the report, the authors have included a variety of sources for analysis and investigation, which each have their own respective methodologies. Specific methodologies are provided in the following pages:
 
 ## Witness Statements
 
-Following the hospital attacks in Idlib province during the month of April 2017, Syrians for Truth and Justice, along with the Justice for Life Organisation, established a field research team which was tasked with entering the city and inspecting the impact sites. These organisations were additionally tasked with collecting material evidence as well as accounts of the survivors, such as those injured and their families, as well as accounts of eyewitnesses (e.g. medical staff; managers of the hospitals; civil defense team members).
+Following the hospital attacks in Idlib province during the month of January and February 2018, Syrians for Truth and Justice established a field research team which was tasked with entering the city and inspecting the impact sites. These organisations were additionally tasked with collecting material evidence as well as accounts of the survivors, such as those injured and their families, as well as accounts of eyewitnesses (e.g. medical staff; managers of the hospitals; civil defense team members).
 
 Interviews were conducted in person in Idlib by staff members of their respective organisations and recorded on audio devices and then later transcribed. Staff members conducted a total of 14 semi-structured interviews using a standardised questionnaire. Questions asked to respondents focused on the following themes:
 
@@ -44,7 +44,7 @@ The Syrian Archive's identification process has three steps: 1) Establish a data
 
 #### 1) Establish database of credible sources for content
 
-Before any collection, archival, or verification of digital materials was possible, the Syrian Archive first established a database of credible sources for visual content. The Syrian Archive project worked to identify over 300 credible sources, a list consisting of individual journalists and field reporters, larger media houses (e.g. local and international news agencies), human rights organisations (e.g. Syria Institute for Justice), Syrian Civil Defense (White Helmets), and local field clinics and hospitals, and others. Many of the sources used by the Syrian Archive began publishing or providing visual content in late 2011-early 2012 and have also published work in other credible media outlets.
+Before any collection, archival, or verification of digital materials was possible, the Syrian Archive first established a database of credible sources for visual content. The Syrian Archive project worked to identify over 3000 credible sources, a list consisting of individual journalists and field reporters, larger media houses (e.g. local and international news agencies), human rights organisations (e.g. Syria Institute for Justice), Syrian Civil Defense (White Helmets), and local field clinics and hospitals, and others. Many of the sources used by the Syrian Archive began publishing or providing visual content in late 2011-early 2012 and have also published work in other credible media outlets.
 
 Credibility was determined by analysing whether the source is familiar to the Syrian Archive or to its existing professional network of Syrian journalists, media activists, human rights groups and humanitarian workers; whether the source's content and reportage been reliable in the past. This is determined by evaluating how long the source has been reporting and how active they are. To determine where the source is based, social media channels are evaluated to determine whether videos uploaded are consistent and mostly from a specific location where the source is based, or if locations differ significantly. Channels are analysed to determine whether the video account uses a logo and whether this logo is consistently used across videos. Channels are additionally analysed for original content to determine whether the uploader aggregates videos from other news organisations and YouTube accounts or whether they upload mostly user-generated content.
 
@@ -82,7 +82,7 @@ Should potential investigations by international bodies not be pursued by the UN
 
 ### B. Collection and secure preservation
 
-The collection and secure preservation of the digital evidence workflow ensures that the original content is not lost due to removal on corporate platforms. This is done by collecting and securely storing digital content on external backend servers before it goes through basic verification. It is then backed up securely on servers throughout the world. Videos are hashed with (SHA-256) and (Md5) consistent with current best practices and timestamped to ensure they are not tampered with after being collected from social media platforms (open source) or taken directly from sources (closed source). Simultaneously it is hashed and timestamped by an independent and impartial third party for reference and integrity purposes. Once verified, content is centrally published on the Syrian Archive website in an open-source format. The Syrian Archive uses the[ Littlefork software][4] for this process, a free and open source software developed for use in human rights investigations using online-based user generated content research.
+The collection and secure preservation of the digital evidence workflow ensures that the original content is not lost due to removal on corporate platforms. This is done by collecting and securely storing digital content on external backend servers before it goes through basic verification. It is then backed up securely on servers throughout the world. Videos are hashed with (SHA-256) and (Md5) consistent with current best practices and timestamped to ensure they are not tampered with after being collected from social media platforms (open source) or taken directly from sources (closed source). Simultaneously it is hashed and timestamped by an independent and impartial third party for reference and integrity purposes. Once verified, content is centrally published on the Syrian Archive website in an open-source format. The Syrian Archive uses the [SugarCube software][4] for this process, a free and open source software developed for use in human rights investigations using online-based user generated content research.
 
 ### C. Processing, verification, and analysis
 
@@ -135,5 +135,5 @@ Once the visual content is verified and reviewed, it's then published on the Syr
 [1]: http://www.edrm.net/frameworks-and-standards/edrm-model/
 [2]: /assets/workflow.png
 [3]: https://syrianarchive.org/en/tools_methods/methodology/metadata_schema/
-[4]: https://gitlab.com/littlefork
+[4]: https://gitlab.com/sugarcube/sugarcube
 [5]: https://syrianarchive.org/p/blog/
