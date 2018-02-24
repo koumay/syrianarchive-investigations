@@ -1,18 +1,18 @@
 ---
 layout: investigation.html
-title: "Bombing the Shifaa Hospital"
+title: "Bombing Dar Al Shifaa Hospital"
 date: 2018-02-22T00:06:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
-image: /assets/national09.jpg
+image: /assets/xxx
 ---
 
-- Location: IDLIB : Maarat al-Numan
-- Hospital: The National Hospital of Maarat al-Numan
-- Beneficiaries: ~500,000 people a year
-- Date: 4 February 2018
-- Time: around 20:40
-- Attacks: 6 airstrikes according to Osama Eido (Hospital x-rays department)
-- Munitions identified: One photo acquired by the Syrians for Truth and Justice
+- Location: DAMASCUS: Hammuriyah
+- Hospital: Dar Al Shifaa Hospital of Hammuryah
+- Beneficiaries:
+- Date: 20 February 2018
+- Time:
+- Attacks:
+- Munitions identified:
 - Potentially responsible: Russian or Syrian air force
 
 ## Background of The Shifaa hospital of xxxxx
