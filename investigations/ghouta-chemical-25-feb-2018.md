@@ -10,7 +10,7 @@ image: /assets/investigations/
 - Claimed targets: Civilian area
 - Date: 25 February 2018
 - Reported killed: One child
-- Reported injured: Not available
+- Reported injured: 6 children, 2 women, 6 men Including 2 volunteers were injured while helping civilians 
 - Munitions identified: Chlorine gas
 - Potentially responsible: Syrian Air Force
 
