@@ -34,7 +34,7 @@ However, SOHR [reported that government bombing resumed](http://www.syriahr.com/
 
 In mid-November 2017 Syrian rebels in Harasta [launched a military operation](https://twitter.com/harastaa/status/930881389985222656) called "They were Wronged" against positions of the Syrian Arab Army in Harasta. Ahrar al-Sham announced the launch of this battle as a response to the deteriorating humanitarian situation, and the repeated bombing of the regime in the villages and towns in Eastern Ghouta.
 
-### What Happened
+## What Happened
 
 In the morning of 28 January 2018 at 09:37 AM (Damascus local time) the "Damascus Countryside Reporters Network" [published on their Twitter account](https://twitter.com/DcrnNetwork/status/957517972444274690) that several rockets were heavy struck Harasta city, after that on 10:25 AM (Damascus local time) they reported [an airstrike targeted Harasta city](https://twitter.com/DcrnNetwork/status/957529958007689216).
 
@@ -56,4 +56,38 @@ The Syrian Civil Defense in Damascus countryside [published several videos](http
 Yaser Aldoumani, a journalist based on Damascus countryside, [published a video](https://www.youtube.com/watch?v=LlxMNZGpgkc) on his youtube channel featuring an interview with Al-Arabiya TV, in the video Yaser said: "Harasta city attacked at about 5 pm with ten rockets loaded with napalm. Fire broke out throughout the city. There were about 40 fires in residential buildings, roads and cars, and many injuries were recorded as a result of burns. On the morning the city bombed with 40 surface-to-surface missiles and 60 artillery shells, 11 air strikes, resulting in killed Abdullah Shaker and dozens wounded"
 
 Smart News Agency also [published a video on their youtube channel](https://www.youtube.com/watch?v=beFQjDZLTpE) shows Syria Civil Defense members while putting out the fires in a buildin, in the video a person can be heard saying, "There is nobody here, we evacuated all of them", see below:
+
+![]()
+
+Further reports had been published in the next two days informed that Harasta city targeted again by surface-to-surface missiles loaded with napalm. On 29 January 2018 Syrian Civil Defense [published a video shows attempts to extinguish fires](https://www.youtube.com/watch?v=vhNIDleS_z0), see below:
+
+![]()
+
+Also, they [published another video showing footage of attacking the city](https://www.youtube.com/watch?v=8hjwYY2IU6Q) in the next day (30 Jan 2018) and the resulting fires, see below:
+
+![]()
+
+On 31 Jan 2018 the operation room of "They Were Wronged" battle [confirmed on their Twitter account](https://twitter.com/harastaa/status/958735739256229890) the targeting of Harasta city on the previous day, by more than 27 surface-to-surface loaded with napalm , see below:
+
+!
+
+## Where did it happen?
+
+
+
+
+## When did it happen?
+
+According to several testimonies collected by Syrians for Truth and Justice the first attack happened at exactly 5 PM (Damascus local time). Hassan al-Kabees, a resident of Harasta who were present at the scene of the first attack, assured STJ that more than 15 ground-to-ground missiles landed on the city on January 28, 2018, 10 of which were loaded with incendiary substances (similar to napalm), where he said:
+
+"At 5:00 p.m., I saw the rockets landed on the buildings facing my house, and they had earlier landed directly on a huge population centre and resulted in burn injuries for about 18 civilians, as well as the material damage caused by the shelling, where the napalm burned over 50 houses in our neighbourhood only. While I was helping in putting out fires and rescuing the wounded, the Syrian regime shelled the same area again with ground-to-ground missiles loaded with explosive materials in order to make the fires devour as much space as possible. Fire suppression process lasted more than 12 hours, the more we tried to put it out, the more it flared up elsewhere.
+
+Hassan continued that the Syrian regular forces had bombed Harasta again on January 30, 2018, specifically at 6:00 p.m., in order to cause panic and fear among people. In this regard, he added:
+
+"On that day, Harasta was shelled with more than 25 ground-to-ground missiles, six of which were loaded with incendiary substances, burning down more than five buildings, as well as a number of shops and buses, the regime also targeted the region with explosive rockets to hinder the rescue operations and the extinguish of fires. The regime deliberately shelled the residential compound, which is one of the most populated areas in Harasta, noting that there is no military headquarters within these targeted areas. We feel like the earth closed in on us, we don’t know where to go, we are in a state of a constant displacement, and we are no longer able to settle in one place."
+
+[In one of the videos published by Syrian Civil Defense](https://www.youtube.com/watch?v=_1G_Jp_zZRg) on 28 Jan 2018 the moon can be seen in the sky and it's almost fully, see below:
+
+The Syrian Archive was able to confirm [the moon llumination was 87%](http://www.moongiant.com/phase/01/28/2018) on 28 Jan 2018 from Moongiant site:
+
 
