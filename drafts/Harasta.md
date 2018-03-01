@@ -73,6 +73,27 @@ On 31 Jan 2018 the operation room of "They Were Wronged" battle [confirmed on th
 
 ## Where did it happen?
 
+On 28 January 2018 the Local Council of Harasta city [stated on their Facebook page](https://www.facebook.com/localcouncilofHarasta/posts/2082463661986296) that the Syrian regime targeted various parts of Harasta city at 5:00 PM (Damascus local time) by ten missiles loaded with napalm which set about 35 fires to residential building, and after ten minutes the city was targeted again by more than ten missiles resulted in extensive destruction of homes, roads and civilian's cars.
+
+The Syrian Archive team was able to match several objects between the Syrian Civil Defense's video and SMART News Agency's video which confirms both documented the same location. See below:
+
+!
+
+Other objects were identified from different footage of the same location using the same videos above:
+
+!
+
+In the Syrian Civil Defense video, a banner can be seen that states: "Jaber Library" See below: 
+
+!
+
+The Syrian Archive found a [Facebook page with the same name and banner](https://www.facebook.com/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%AC%D8%A7%D8%A8%D8%B1-1161061443974392/), which located in Harast city as shown in 'About' section in the Facebook page, which supports the Harsta Local Council's statement and the above videos' claim.
+
+In another video from Syrian Civil Defense, a banner can be seen said: "Cheese & Dairy workshop" Which also confirms that the targeted buildings were residential:
+
+!
+
+
 
 
 
@@ -90,4 +111,9 @@ Hassan continued that the Syrian regular forces had bombed Harasta again on Janu
 
 The Syrian Archive was able to confirm [the moon llumination was 87%](http://www.moongiant.com/phase/01/28/2018) on 28 Jan 2018 from Moongiant site:
 
+## The weapons used
 
+Syrians for Truth and Justice was able to obtain a photo shows the remains of one of the missiles that fell in front of the National Hospital. See below:
+
+
+https://www.facebook.com/localcouncilofHarasta/posts/2085924671640195
