@@ -53,13 +53,13 @@ The Syrian Civil Defense in Damascus countryside [published several videos](http
 
 [Other video shows destruction and fires](https://www.youtube.com/watch?v=_1G_Jp_zZRg) in a residential neighborhood, the Civil Defense members enter a burning building and shouting: "Is this building inhabited? Is there anybody inside?" in the second 0:47 someone says, "Evacuate the place, there is a reconnaissance aircraft" In the second 0:53 a voice can be heard shouting "Our house is burning here" then civil defense members running toward the building, see below:
 
-![Harasta01](/assets/harasta01.png)
+![Harasta01](/assets/harasta01.jpg)
 
 Yaser Aldoumani, a journalist based on Damascus countryside, [published a video](https://www.youtube.com/watch?v=LlxMNZGpgkc) on his youtube channel featuring an interview with Al-Arabiya TV, in the video Yaser said: "Harasta city attacked at about 5 pm with ten rockets loaded with napalm. Fire broke out throughout the city. There were about 40 fires in residential buildings, roads and cars, and many injuries were recorded as a result of burns. On the morning the city bombed with 40 surface-to-surface missiles and 60 artillery shells, 11 air strikes, resulting in killed Abdullah Shaker and dozens wounded"
 
 Smart News Agency also [published a video on their youtube channel](https://www.youtube.com/watch?v=beFQjDZLTpE) shows Syria Civil Defense members while putting out the fires in a building, in the video a person can be heard saying, "There is nobody here, we evacuated all of them", see below:
 
-![harasta02](assets/harasta02.png)
+![harasta02](assets/harasta02.jpg)
 
 Further reports had been published in the next two days informed that Harasta city targeted again by surface-to-surface missiles loaded with napalm. On 29 January 2018 Syrian Civil Defense [published a video shows attempts to extinguish fires](https://www.youtube.com/watch?v=vhNIDleS_z0), see below:
 
@@ -67,7 +67,7 @@ Further reports had been published in the next two days informed that Harasta ci
 
 Also, they [published another video showing footage of attacking the city](https://www.youtube.com/watch?v=8hjwYY2IU6Q) in the next day (30 Jan 2018) and the resulting fires, see below:
 
-![harasta03](assets/harasta03.png)
+![harasta03](assets/harasta03.jpg)
 
 On 31 Jan 2018 the operation room of "They Were Wronged" battle [confirmed on their Twitter account](https://twitter.com/harastaa/status/958735739256229890) the targeting of Harasta city on the previous day, by more than 27 surface-to-surface loaded with napalm , see below:
 
@@ -118,7 +118,7 @@ Hassan continued that the Syrian regular forces had bombed Harasta again on Janu
 
 The Syrian Archive was able to confirm [the moon llumination was 87%](http://www.moongiant.com/phase/01/28/2018) on 28 Jan 2018 from Moongiant site:
 
-![harasta10](assets/harasta14.jpg)
+![harasta10](assets/harasta14.png)
 
 ## The weapons used
 
