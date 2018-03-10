@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Shelling Harasta with Napalm"
-date: 2018-01-28
+date: 2018-02-15
 desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
@@ -10,7 +10,7 @@ image: /assets/investigations/hrc_cover.png
 
 - Location: Harasta (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction.
-- Date: 28-31 January 2018
+- Date: 03 January 2018
 - Reported killed: 5 killed
 - Reported injured: ?? injured
 - Munitions identified: ??
