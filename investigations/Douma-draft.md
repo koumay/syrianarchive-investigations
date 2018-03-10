@@ -20,6 +20,9 @@ image: /assets/investigations/hrc_cover.png
 
 ## Background of Douma
 
+Located about 10 kilometers north-east of the centre of Damascus, Douma is the centre of Rif Dimashq governorate (also known as Damascus countryside) with an estimated population of 110,893 (2004 census). Douma is a historical city dating back to the Arameans era.
+
+The city saw demonstrations against Assad regime early on in the Syrian uprising. One of the first demonstrations, dating from XXXX, swiftly the city became an important hub for organizing protests. 
 
 ## What Happened
 
