@@ -6,7 +6,7 @@ desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
 
-# Harasta was bombing by Napalm
+# Harasta bombed by Napalm
 
 - Location: Harasta (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction.
