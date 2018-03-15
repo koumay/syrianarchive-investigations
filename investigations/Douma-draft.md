@@ -6,7 +6,7 @@ desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
 
-# Douma was bombing by Napalm
+# Douma bombed by Napalm
 
 - Location: Douma (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction.
@@ -22,11 +22,11 @@ image: /assets/investigations/hrc_cover.png
 
 Located about 10 kilometers north-east of the centre of Damascus, Douma is the centre of Rif Dimashq governorate (also known as Damascus countryside) with an estimated population of 110,893 (2004 census). Douma is a historical city dating back to the Aramean era.
 
-The city saw demonstrations against Assad regime early in the Syrian uprising. [One of the first demonstrations](https://www.youtube.com/watch?v=MesN-sNruLs), dating from 25 March 2011documents demonstrators chanting for freedom. Security [forces often intervened](https://youtu.be/Qn7J7hXFPNE?t=5m20s) to break up protests. swiftly the city became an [important hub for organizing protests](https://www.youtube.com/watch?v=oytok3Zdc94). In November 2012, Douma city [fell under control by the Free Syrian Army (FSA)](https://www.youtube.com/watch?v=nmjfla6qaY4), since which it has ceased to be controlled by the Syrian government.
+The city saw demonstrations against Assad regime early in the Syrian uprising. [One of the first demonstrations](https://www.youtube.com/watch?v=MesN-sNruLs), dating from 25 March 2011 documents demonstrators chanting for freedom. Security [forces often intervened](https://youtu.be/Qn7J7hXFPNE?t=5m20s) to break up protests. swiftly the city became an [important hub for organizing protests](https://www.youtube.com/watch?v=oytok3Zdc94). In November 2012, Douma city [fell under control by the Free Syrian Army (FSA)](https://www.youtube.com/watch?v=nmjfla6qaY4), since which it has ceased to be controlled by the Syrian government.
 Eastern Ghutah is currently under the primary control of two armed groups, namely [Jaysh al-Islam](https://www.jaishalislam.com/), formerly known as Liwa al-Islam which is the largest rebel faction in the area, and [Faylaq al-Rahman](http://alrahmancorps.com/).
 Government forces initially laid siege to the opposition-held enclave in the Eastern Ghouta [in April 2013](http://www.ohchr.org/Documents/HRBodies/HRCouncil/CoISyria/A-HRC-37-72_EN.pdf). Since that date, inhabitants of Douma city, same as other Eastern Ghouta cities, still living under the siege and bombing. 
 
-## Previuos attacks
+## Previous attacks
 
 Syrian Government forces used chemical weapons continuously against Eastern Ghouta, the deadliest attack was in the early hours of 21 August 2013.  Zamalka and  Ein Tarma neighborhoods in the Eastern Ghouta were struck by rockets containing the chemical agent sarin. Estimates of the death toll range from [at least 281 people[](https://www.diplomatie.gouv.fr/IMG/pdf/Syrian_Chemical_Programme.pdf) to [1,729](https://www.dailystar.com.lb/News/Middle-East/2013/Aug-22/228268-bodies-still-being-found-after-alleged-syria-chemical-attack-opposition.ashx).
 On the 2nd anniversary of the chemical weapons attack on Ghouta,[the Syrian Archive published](https://syrianarchive.org/en/investigations/Press-Release-of-the-Chemical-Weapons-Attack-on-Damascus.html) an archive of video evidence regarding that attack.

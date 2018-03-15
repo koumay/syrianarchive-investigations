@@ -6,7 +6,7 @@ desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
 
-# Harasta was bombing by Napalm
+# Harasta bombed by Napalm
 
 - Location: Harasta (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction.
@@ -18,7 +18,11 @@ image: /assets/investigations/hrc_cover.png
 
 ## Background of Harasta
 
-Harsta is one of the strategic areas in the eastern Ghouta, and it's situated on the international highway between Homs and Damascus. The city is overlooking a large number of security and intelligence centers belonging to the Syrian government, such as "The Management of military vehicles," "The Air Force Intelligence branch," "111 Tunk depo", and others.
+Harsta is one of the strategic areas in the eastern Ghouta, and it's situated on
+the international highway between Homs and Damascus. The city is overlooking a
+large number of security and intelligence centers belonging to the Syrian
+government, such as "The Management of military vehicles," "The Air Force
+Intelligence branch," "111 Tunk depo", and others.
 
 Harasta has a population of 34,184 (2007 census) and considers as the northern gate of the Syrian capital where it's far 5 km away from it.
 
