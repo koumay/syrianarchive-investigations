@@ -34,14 +34,26 @@ Ghouta Media Center also [reported on the same incident](https://twitter.com/Gho
 
 After about an hour, Hamoria Media Office [published a post on their Facebook page](https://www.facebook.com/HAMOURIAREVO/photos/a.1647375395548458.1073741829.1621780748107923/2064755003810493/?type=3) saying "Bombing of residential neighborhoods in Hamoria with missiles laden with incendiary materials.", see below:
 
-![hamoria02](assets/hamoria02.jpg)
+![hamoria02](assets/hamoria02.png)
 
 [Another post published by Hamoia Media Office](https://www.facebook.com/HAMOURIAREVO/photos/a.1647375395548458.1073741829.1621780748107923/2064781020474558/?type=3) counts the missiles and attacks which targeted Hamoia city on 22 February, the post stated that "rocket launchers fired 80 rockets on the city, including 30 rockets landed with incendiary materials. As a result five people, including four women, were martyred, and the people of Hamoia live under extremely dire humanitarian conditions, especially after the most of vital facilities coming out of service." 
 
 ![hamoria03](assets/hamoria03.jpg)
 
-Mohammed Jawad, a media activist in Hamoryah, spoke to Syrians for Truth and Justice about what happened, saying: "At 10:00 pm, three rockets fell on Hamoryah all at once, and these rockets were mixed with other explosive rockets launched simultaneously by the regime from rocket launchers. The three rockets fell a midst places known to be densely populated, such as the vicinity of al-Rawdah Street located in Hamoryah, and they were launching explosions in the sky as if they were fireworks."
+Mohammed Jawad, a media activist in Hamoryah, spoke to Syrians for Truth and Justice about what happened, saying: "At exactly 9:00 p.m., the city was targeted by five rockets loaded with incendiary substances that had been released through a “launcher” as well, causing burning of six houses which we were unable to extinguish. Moreover, the skies of Hamoryah lit up from the intensity of some fires that broke out because of this bombardment, but it extinguished on its own after devouring as many houses as possible."
 
-On 
+## 24 February
+
+On 24 February "Hamoia Media Office" [published a post on their Facebook page saying](https://www.facebook.com/HAMOURIAREVO/posts/2065243943761599): "Shelling with phosphorus-laden rockets on Eastern Ghouta":
+
+![hamoria04](assets/hamoria04.png)
+
+Ghouta Media Center [published a video shows shelling](https://www.youtube.com/watch?v=36Hy7XkqRk4&feature=youtu.be) with what appears to be phosphorus-laden rockets, in the video the videographer said "The Syrian regime targeting the Eastern Ghouta with phosphorus-laden missiles", see below:
+
+![hamoria05](assets/hamoria05.jpg)
+
+Mohammed Jawad also spoke to Syrians for Truth and Justice for this incident, saying "At 10:00 pm, three rockets fell on Hamoryah all at once, and these rockets were mixed with other explosive rockets launched simultaneously by the regime from rocket launchers. The three rockets fell a midst places known to be densely populated, such as the vicinity of al-Rawdah Street located in Hamoryah, and they were launching explosions in the sky as if they were fireworks." 
+
+This testimony could point that the GMC's video and HMO's post returning to the same incident, as they published in the same day.
 
 
