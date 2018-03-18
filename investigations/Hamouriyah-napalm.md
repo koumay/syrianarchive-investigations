@@ -52,7 +52,7 @@ Ghouta Media Center [published a video shows shelling](https://www.youtube.com/w
 
 ![hamoria05](assets/hamoria05.jpg)
 
-Mohammed Jawad also spoke to Syrians for Truth and Justice for this incident, saying "At 10:00 pm, three rockets fell on Hamoryah all at once, and these rockets were mixed with other explosive rockets launched simultaneously by the regime from rocket launchers. The three rockets fell a midst places known to be densely populated, such as the vicinity of al-Rawdah Street located in Hamoryah, and they were launching explosions in the sky as if they were fireworks." 
+Mohammed Jawad also spoke to Syrians for Truth and Justice for this incident, saying "At 10:00 pm, three rockets fell on Hamoryah all at once, and these rockets were mixed with other explosive rockets launched simultaneously by the regime from rocket launchers. The three rockets fell amidst places known to be densely populated, such as the vicinity of al-Rawdah Street located in Hamoryah, and they were launching explosions in the sky as if they were fireworks." 
 
 This testimony could point that the GMC's video and HMO's post returning to the same incident, as they published in the same day.
 
