@@ -36,15 +36,15 @@ After about an hour, Hamoria Media Office [published a post on their Facebook pa
 
 ![hamoria02](assets/hamoria02.png)
 
-[Another post published by Hamoia Media Office](https://www.facebook.com/HAMOURIAREVO/photos/a.1647375395548458.1073741829.1621780748107923/2064781020474558/?type=3) counts the missiles and attacks which targeted Hamoia city on 22 February, the post stated that "rocket launchers fired 80 rockets on the city, including 30 rockets landed with incendiary materials. As a result five people, including four women, were martyred, and the people of Hamoia live under extremely dire humanitarian conditions, especially after the most of vital facilities coming out of service." 
+[Another post published by Hamoia Media Office](https://www.facebook.com/HAMOURIAREVO/photos/a.1647375395548458.1073741829.1621780748107923/2064781020474558/?type=3) counts the missiles and attacks which targeted Hamoia city on 22 February, the post stated that "rocket launchers fired 80 rockets on the city, including 30 rockets landed with incendiary materials. As a result five people, including four women, were martyred, and the people of Hamoia became live under extremely dire humanitarian conditions, especially after the most of vital facilities coming out of service." 
 
 ![hamoria03](assets/hamoria03.jpg)
 
-Mohammed Jawad, a media activist in Hamoryah, spoke to Syrians for Truth and Justice about what happened, saying: "At exactly 9:00 p.m., the city was targeted by five rockets loaded with incendiary substances that had been released through a “launcher” as well, causing burning of six houses which we were unable to extinguish. Moreover, the skies of Hamoryah lit up from the intensity of some fires that broke out because of this bombardment, but it extinguished on its own after devouring as many houses as possible."
+Mohammed Jawad, a media activist in Hamoryah, spoke to Syrians for Truth and Justice about what happened on 22 February, saying: "At exactly 9:00 p.m., the city was targeted by five rockets loaded with incendiary substances that had been released through a “launcher” as well, causing burning of six houses which we were unable to extinguish. Moreover, the skies of Hamoryah lit up from the intensity of some fires that broke out because of this bombardment, but it extinguished on its own after devouring as many houses as possible."
 
 ## 24 February
 
-On 24 February "Hamoia Media Office" [published a post on their Facebook page saying](https://www.facebook.com/HAMOURIAREVO/posts/2065243943761599): "Shelling with phosphorus-laden rockets on Eastern Ghouta":
+On 24 February another attack by incendiary missiles had been reported, "Hamoria Media Office" [published a post on their Facebook page about this incident saying](https://www.facebook.com/HAMOURIAREVO/posts/2065243943761599): "Shelling with phosphorus-laden rockets on Eastern Ghouta":
 
 ![hamoria04](assets/hamoria04.png)
 
@@ -56,4 +56,10 @@ Mohammed Jawad also spoke to Syrians for Truth and Justice for this incident, sa
 
 This testimony could point that the GMC's video and HMO's post returning to the same incident, as they published in the same day.
 
+## The weapons used
 
+The Syrians for Truth and Justice was able to acquire photos show the remnants of some of the rockets loaded with incendiary substances that landed on Hamoryah on February 22, see below:
+
+![hamoria06](assets/hamoria06.jpg)
+
+![hamoria07](assets/hamoria07.jpg)
