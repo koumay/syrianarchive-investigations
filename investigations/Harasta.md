@@ -63,7 +63,7 @@ Yaser Aldoumani, a journalist based on Damascus countryside, [published a video]
 
 Smart News Agency also [published a video on their youtube channel](https://www.youtube.com/watch?v=beFQjDZLTpE) shows Syria Civil Defense members while putting out the fires in a building, in the video a person can be heard saying, "There is nobody here, we evacuated all of them", see below:
 
-![harasta02](assets/harasta02.jpg)
+![harasta02](/assets/harasta02.jpg)
 
 Further reports had been published in the next two days informed that Harasta city targeted again by surface-to-surface missiles loaded with napalm. On 29 January 2018 Syrian Civil Defense [published a video shows attempts to extinguish fires](https://www.youtube.com/watch?v=vhNIDleS_z0), see below:
 
@@ -71,39 +71,39 @@ Further reports had been published in the next two days informed that Harasta ci
 
 Also, they [published another video showing footage of attacking the city](https://www.youtube.com/watch?v=8hjwYY2IU6Q) in the next day (30 Jan 2018) and the resulting fires, see below:
 
-![harasta03](assets/harasta03.jpg)
+![harasta03](/assets/harasta03.jpg)
 
 On 31 Jan 2018 the operation room of "They Were Wronged" battle [confirmed on their Twitter account](https://twitter.com/harastaa/status/958735739256229890) the targeting of Harasta city on the previous day, by more than 27 surface-to-surface loaded with napalm , see below:
 
-![harasta04](assets/harasta04.jpg)
+![harasta04](/assets/harasta04.jpg)
 
 ## Where did it happen?
 
 On 28 January 2018 the Local Council of Harasta city [stated on their Facebook page](https://www.facebook.com/localcouncilofHarasta/posts/2082463661986296) that the Syrian regime targeted various parts of Harasta city at 5:00 PM (Damascus local time) by ten missiles loaded with napalm which set about 35 fires to residential building, and after ten minutes the city was targeted again by more than ten missiles resulted in extensive destruction of homes, roads and civilian's cars:
 
-![harasta05](assets/harasta05.png)
+![harasta05](/assets/harasta05.png)
 
 The Syrian Archive was able to match several objects between the Syrian Civil Defense's video and SMART News Agency's video which confirms both documented the same location. See below:
 
-![harasta06](assets/harasta06.jpg)
+![harasta06](/assets/harasta06.jpg)
 
 
 Other objects were identified from different footage of the same location using the same videos above:
 
-![harasta07](assets/harasta07.jpg)
+![harasta07](/assets/harasta07.jpg)
 
 In the Syrian Civil Defense video, a banner can be seen that states: "Jaber Library" See below: 
 
-![harasta08](assets/harasta08.jpg)
+![harasta08](/assets/harasta08.jpg)
 
 The Syrian Archive found a [Facebook page with the same name and banner](https://www.facebook.com/%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%AC%D8%A7%D8%A8%D8%B1-1161061443974392/), which located in Harast city as shown in 'About' section in the Facebook page, which supports the Harsta Local Council's statement and the above videos' claim:
 
-![harasta10](assets/harasta10.jpg)
-![harasta10](assets/harasta09.jpg)
+![harasta10](/assets/harasta10.jpg)
+![harasta10](/assets/harasta09.jpg)
 
 [In another video from Syrian Civil Defense](https://www.youtube.com/watch?v=yhpGLYv8Ka4), a banner can be seen said: "Cheese & Dairy workshop" Which also confirms that the targeted buildings were residential:
 
-![harasta11](assets/harasta11.jpg)
+![harasta11](/assets/harasta11.jpg)
 
 ## When did it happen?
 
@@ -117,18 +117,18 @@ Hassan continued that the Syrian regular forces had bombed Harasta again on Janu
 
 [In one of the videos published by Syrian Civil Defense](https://www.youtube.com/watch?v=_1G_Jp_zZRg) on 28 Jan 2018 the moon can be seen in the sky and it's almost fully, see below:
 
-![harasta12](assets/harasta12.jpg)
-![harasta13](assets/harasta13.jpg)
+![harasta12](/assets/harasta12.jpg)
+![harasta13](/assets/harasta13.jpg)
 
 The Syrian Archive was able to confirm [the moon llumination was 87%](http://www.moongiant.com/phase/01/28/2018) on 28 Jan 2018 from Moongiant site:
 
-![harasta10](assets/harasta14.png)
+![harasta10](/assets/harasta14.png)
 
 ## The weapons used
 
 As indicated in witness testimonies, the Local Council of Harasta city statement and the above videos, the attack was carried out using surface-to-surface missiles. The Local Council of Harast [published photos of a munition](https://www.facebook.com/localcouncilofHarasta/photos/pcb.2083495491883113/2083495231883139/?type=3&theater) that is claims was used in the attack:
 
-![harasta10](assets/harasta15.jpg)
+![harasta10](/assets/harasta15.jpg)
 
 Ahmed al-Talli, a fighter of the Syrian armed opposition, told STJ that during the recent escalation campaign, Harasta used to be bombed with ground-to-ground missiles or the so-called "elephant" rockets, noting that the Syrian regular forces had modified these rockets, by loading them with incendiary substances, and in this regard, he continued:
 
