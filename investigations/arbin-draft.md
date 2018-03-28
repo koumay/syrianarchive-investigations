@@ -6,6 +6,8 @@ desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
 
+Note: This report may contain some violent's photos.
+
 # Arbin was bombed by Napalm
 
 - Location: Arbin (Rif Dimashq Governorate, Syria)
@@ -110,6 +112,87 @@ Syrian Civil Defense published the 27 names of the civilians that have been kill
 
 ### The Second Attack
 
+On 23 March 2018 Arbin city was targted again with napalm. Syrian Civil Defense in Damascus countryside [statement on their Facebook page that](https://www.facebook.com/SCDrifdimashq/posts/2161393883885909) "A massacre against humanity was committed in Arbin city. The preliminary appraisal of death reached 37 people (mostly women and children) were burned alive where they were in a shelter, as a result of bombing it with napalm."
+
+Yousef Albostany, a syrian journalist based in Eeastern Ghouta, [published a photo on his Twitter account](https://twitter.com/YousefAlbostany/status/976928331580010498) shows what he said "Targeting a cellar in Arbin city with rockets laden with napalm, which caused a massacre."
+
+![arbin 14](/assets/arbin-napalm14.jpg)
+
+Also, Wasem Alkateb, [confirmed on Twitter that](https://twitter.com/wasemalkateb10/status/976983899866894348) "A large number of civilians burned alive as a result of targeting one of the Arabin shelters with Napalm, the victims including women and children who died immediately because of the fire that completely devoured the place."
+
+#### List of Killed civilians names:
+
+The Unified Media Office In Arbin [published 47 names of Facebook to what they said](https://www.facebook.com/umoerbeen2/posts/156035448374227) "A list of martyrs who died in a cellar after being bombarded with Russian napalm rockets":
+
+First Family:
+Muhannad Shahoud, father
+Nadia Sharaf, the mother
+Their children: - Louay Shahoud, 7 years
+- Rahaf Shahoud, 5 years
+- A supporter of Shahoud, an infant
+
+Second Family:
+- Moataz Shahoud, father
+- Huda al-Raz, mother
+
+Third Family:
+- Amira Shahoud, Mother
+And their daughters: - Safa Shahoud, 25 years old
+- Magnificent splendor, 23 years
+
+Fourth Family:
+- Doha al-Qallash, mother
+Her children: - Amira Shahoud, 8 years old
+- Yusuf Shahoud, 6 years
+- Cedar Shahoud, 4 years
+- Sondos Sheds, baby
+
+Fifth Family:
+Marwa Shahoud, Mother
+Her children: - Amer the evaporator, 12 years
+- Amer Evaporator, 14 years
+- Saw evaporator, 11 years
+- Promise evaporator, 4 years
+
+Sixth Family:
+- Yasin Shahoud, father
+- Rare Hashash, mother
+- The light of the evaporator, the wife of the son
+- The daughter of Masa Shahoud, the daughter of the daughter-in-law
+
+Seventh Family:
+Nada Evaporator, Mother
+- Fayez Shahoud, son, 4 years
+
+Eighth Family:
+Mohammed Shahoud, father
+- Kawthar the barber, the mother
+
+The Ninth Family:
+- Yassin Shakran, Father
+- Mohammed Shakran the Son
+- Mustafa Shakran, Jr.
+
+The tenth family:
+- Omar Shahoud, father
+- Iman Kokha, the mother
+- Raoua Shahoud, their daughter, 3 years
+
+Eleventh Family:
+- Mahfouz Shahoud, father
+- Marwa Kishka, mother
+Their children are:
+- Very thin
+- Keep me logged in
+
+In addition to:
+- Bashar Shahoud
+- Riad Tan
+Maher Al Mulla
+- Ibrahim Abu Ahmed
+- Majid Abu Ahmed
+- Mohammed Zuhair
+
 ## The weapons used
 
 Mohammed Al Abdullah, a Syrian photographer who based in Damascus countryside, [published photos on Facebook](https://www.facebook.com/Muhammad.Abd.ullah.abo.hosam0/posts/2030396477215103) back to what he said "Casings of napalm munitions which were used in the recent attacks on civilian buildings in Eastern Ghouta.", see below:
@@ -121,5 +204,3 @@ Mohammed Al Abdullah, a Syrian photographer who based in Damascus countryside, [
 
 ![arbin-napalm12](/assets/arbin-napalm12.jpg)
 ![arbin-napalm13](/assets/arbin-napalm13.jpg)
-
-
