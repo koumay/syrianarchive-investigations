@@ -11,6 +11,7 @@ image: /assets/investigations/hrc_cover.png
 - Location: Harasta (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction.
 - Date: 03 January 2018
+- Time: 05:00 PM (Damascus local time)
 - Reported killed: 5 killed
 - Reported injured: ?? injured
 - Munitions identified: ??
@@ -40,16 +41,15 @@ In mid-November 2017 Syrian rebels in Harasta [launched a military operation](ht
 
 ## What Happened
 
-In the morning of 28 January 2018 at 09:37 AM (Damascus local time) the "Damascus Countryside Reporters Network" [published on their Twitter account](https://twitter.com/DcrnNetwork/status/957517972444274690) that several rockets were heavy struck Harasta city, after that on 10:25 AM (Damascus local time) they reported [an airstrike targeted Harasta city](https://twitter.com/DcrnNetwork/status/957529958007689216).
+In the morning of 28 January 2018 at 09:37 AM (Damascus local time) the "Damascus Countryside Reporters Network" [published on their Facebook page](https://www.facebook.com/DCRNNEWS/posts/1177615725707289) that several rockets were heavy struck Harasta city, after that on 10:25 AM (Damascus local time) they reported [an airstrike targeted Harasta city](https://www.facebook.com/DCRNNEWS/posts/1177632155705646).
 
-Ghouta Media Center also‏ [published at 10:30 AM on their Twitter account](https://twitter.com/Ghouta_GMC/status/957531323702312962) that two airstrikes targeted Harasta. Aljazeera Syria reported at 10:43 AM that several airstrikes were targeting Harasta City :
+Ghouta Media Center also‏ [published at 10:30 AM on their Twitter account](https://twitter.com/Ghouta_GMC/status/957531323702312962) that two airstrikes targeted Harasta.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="ar" dir="rtl"><a href="https://twitter.com/hashtag/%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw">#الجزيرة_سوريا</a> | مراسلنا: طائرات النظام تشن غارات جوية على مدينة <a href="https://twitter.com/hashtag/%D8%AD%D8%B1%D8%B3%D8%AA%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw">#حرستا</a> في الغوطة الشرقية بريف <a href="https://twitter.com/hashtag/%D8%AF%D9%85%D8%B4%D9%82?src=hash&amp;ref_src=twsrc%5Etfw">#دمشق</a> <a href="https://t.co/9ToLowCkVT">pic.twitter.com/9ToLowCkVT</a></p>&mdash; الجزيرة سوريا (@AJA_Syria) <a href="https://twitter.com/AJA_Syria/status/957534523859918848?ref_src=twsrc%5Etfw">January 28, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Aljazeera Syria [reported at 10:43 AM that](https://twitter.com/AJA_Syria/status/957534523859918848) several airstrikes were targeting Harasta City :
+
+![harasta16](/assets/harasta16.png)
 
 In the same day, and after several hours Mohammad Yaseen, a citizen journalist, who based in Damascus countryside reported on his Twitter account at 05:25 PM (Damascus local time) that [residential neighbourhoods in Harasta targeted](https://twitter.com/MHDYASEEN4/status/957635859758665728) by more than 18 missiles with napalm resulting number of fires in thoes buildings.
-
-The Syrian Observatory for Human Rights [published that the Syrian government resumed the shelling on Harasta](http://www.syriahr.com/2018/01/28/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%82%D8%B5%D9%81-%D8%AD%D8%B1%D8%B3%D8%AA%D8%A7-%D8%A8%D8%AF%D9%81%D8%B9%D8%A9-%D9%85%D9%86-18-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE/) city with 18 missiles believed to be surface-to-surface missiles, resulting of number of fires in the neighborhoods building.
 
 The Syrian Civil Defense in Damascus countryside [published several videos](https://www.youtube.com/watch?v=yhpGLYv8Ka4) on 28 Jan 2018 showing the rescue of civilians, one video shows Civil Defense members run towards the fires, then enter a building, and ask a children where their parents and then take them out of the building while the fires spread in the place, see below:
 
@@ -123,6 +123,8 @@ Hassan continued that the Syrian regular forces had bombed Harasta again on Janu
 The Syrian Archive was able to confirm [the moon llumination was 87%](http://www.moongiant.com/phase/01/28/2018) on 28 Jan 2018 from Moongiant site:
 
 ![harasta10](/assets/harasta14.png)
+
+Which confirms that the above videos was taken in 28 January.
 
 ## The weapons used
 
