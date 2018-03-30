@@ -124,7 +124,7 @@ The Syrian Archive was able to confirm [the moon llumination was 87%](http://www
 
 ![harasta10](/assets/harasta14.png)
 
-Which confirms that the above videos was taken in 28 January.
+Which confirms that the above videos were taken in 28 January.
 
 ## The weapons used
 
