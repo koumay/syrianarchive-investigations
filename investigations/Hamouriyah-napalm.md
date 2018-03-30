@@ -10,7 +10,7 @@ image: /assets/investigations/hrc_cover.png
 - Location: Hamoria (Rif Dimashq Governorate, Syria)
 - Claimed targets: 
 - Date: 22 February 2018
-- Reported killed: ?? killed
+- Reported killed: 5 killed
 - Reported injured: ?? injured
 - Munitions identified: ??
 - Potentially responsible: Russian or Syrian Air Force
