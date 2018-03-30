@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Shelling Harasta with Napalm"
-date: 2018-02-15
+date: 2018-01-28
 desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
@@ -10,10 +10,10 @@ image: /assets/investigations/hrc_cover.png
 
 - Location: Harasta (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction.
-- Date: 03 January 2018
+- Date: 28 and 30 January 2018
 - Time: 05:00 PM (Damascus local time)
-- Reported killed: 5 killed
-- Reported injured: ?? injured
+- Reported killed: 1 killed
+- Reported injured: ~18 injured
 - Munitions identified: ??
 - Potentially responsible: Russian or Syrian Air Force
 
@@ -107,7 +107,7 @@ The Syrian Archive found a [Facebook page with the same name and banner](https:/
 
 ## When did it happen?
 
-According to several testimonies collected by Syrians for Truth and Justice the first attack happened at exactly 5 PM (Damascus local time). Hassan al-Kabees, a resident of Harasta who were present at the scene of the first attack, assured STJ that more than 15 ground-to-ground missiles landed on the city on January 28, 2018, 10 of which were loaded with incendiary substances (similar to napalm), where he said:
+According to several testimonies collected by Syrians for Truth and Justice the first attack happened at exactly 5 PM (Damascus local time). Hassan al-Kabees, a resident of Harasta who was present at the scene of the first attack, assured STJ that more than 15 ground-to-ground missiles landed on the city on January 28, 2018, 10 of which were loaded with incendiary substances (similar to napalm), where he said:
 
 "At 5:00 p.m., I saw the rockets landed on the buildings facing my house, and they had earlier landed directly on a huge population centre and resulted in burn injuries for about 18 civilians, as well as the material damage caused by the shelling, where the napalm burned over 50 houses in our neighbourhood only. While I was helping in putting out fires and rescuing the wounded, the Syrian regime shelled the same area again with ground-to-ground missiles loaded with explosive materials in order to make the fires devour as much space as possible. Fire suppression process lasted more than 12 hours, the more we tried to put it out, the more it flared up elsewhere.
 
