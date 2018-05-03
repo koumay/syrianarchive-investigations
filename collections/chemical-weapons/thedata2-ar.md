@@ -6,7 +6,6 @@ desc: ""
 snippet: true
 image: /assets/logos/loogback.jpg
 ---
+إن ضخامة المحتوى الذي يتم إنشاؤه يوميًا والإزالة شبه المستمرة للمواد من القنوات العامة؛ يجعلان الأرشيف السوري في سباق مع الزمن لحفظ وثائق مهمةٍ مرتبطةٍ بجرائم مرتكَبة. ربما يُقدّم المحتوى الذي حُفظ وتم التحقق منه من قبل الأرشيف السوريّ الأدلة الوحيدة لتعزيز إفادات الشهود حول الهجمات الكيماوية، ولإدانة الجناة المحتملين.
 
-The sheer amount of content being created, and the near constant removals of materials from public channels means that the Syrian Archive is in a race against time to preserve important documentation of crimes committed. Content preserved and verified by the Syrian Archive might offer the only evidence to corroborate witness testimonies of chemical weapons attacks, and to implicate potential perpetrators.
-
-Of the 861 videos included in this dataset, 9% had been removed on YouTube. Due to Syrian Archive’s technical infrastructure and the constant monitoring of the status of videos and channels, the termination of affected content was brought to YouTube’s attention, resulting in 13 channels of media groups documenting chemical weapons attacks being reinstated in cases where users did not remove content willingly. One channel, “شبكة أحرار دوما - ريف دمشق,” by media reporters that had been documenting violations committed in Douma since 2012 has over 1.600 videos and one million views.
+من بين 861 مقطع فيديو تتضمنها هذه المجموعة؛ فإن 9% قد أُزيل من يوتيوب. نظرًا للبنية التحتيّة التقنية لدى الأرشيف السوريّ، وللرصد المستمرّ لحالة مقاطع الفيديو والقنوات؛ تم لفت انتباه يوتيوب إلى المحتوى المتضرّر من الحذف، وكانت النتيجة استعادة 13 قناة لمجموعات إعلامية توثّق الهجمات بالأسلحة الكيماوية، والتي تم حذف المحتوى منها خلافًا لرغبة مستخدميها. إحدى هذه القنوات هي "شبكة أحرار دوما - ريف دمشق" والتي يوثق فيها مراسلون إعلاميون الانتهاكات في مدينة دوما منذ 2012، مع أزيد من 1600 مقطع فيديو، ومليون مشاهدة.
