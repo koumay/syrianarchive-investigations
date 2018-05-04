@@ -7,9 +7,9 @@ snippet: true
 image: /assets/logos/loogback.jpg
 ---
 
-يحظر القانون الإنساني الدولي [استخدام الأسلحة الكيمائية](https://ihl-databases.icrc.org/customary-ihl/eng/docs/v1_rul_rule74) في كلٍّ من النزاعات الدوليّة وغير الدولية.
+يحظر القانون الإنساني الدولي [استخدام الأسلحة الكيميائية](https://ihl-databases.icrc.org/customary-ihl/eng/docs/v1_rul_rule74) في كلٍّ من النزاعات الدوليّة وغير الدولية.
 
-صادقت الجمهورية العربية السورية [ على معاهدة حظر الأسلحة الكيميائية](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2118.pdf) عام 2013، عقب النتائج الصادرة عن  [منظمة حظر الأسلحة الكيميائية](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2118.pdf) باستخدام غاز السارين في  [21 أغسطس 2013](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2013_553.pdf).  عقب البعثة الداخلية عام 2014، [أعلنث منظمة حظر الأسلحة الكيميائية عن تدميرها ](https://www.opcw.org/news/article/opcw-all-category-1-chemicals-declared-by-syria-now-destroyed/) 100% من المواد الكيميائية فئة 1، و 70% من المواد الكيميائية فئة 2. كما أعلنوا عن تدمير 94% من المخزون الكيميائي المصرّح به في الجمهورية العربية السورية.
+صادقت الجمهورية العربية السورية [ على معاهدة حظر الأسلحة الكيميائية](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2118.pdf) عام 2013، بعد النتائج الصادرة عن [منظمة حظر الأسلحة الكيميائية](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2118.pdf) باستخدام غاز السارين في  [21 أغسطس 2013](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2013_553.pdf).  عقب البعثة الداخلية عام 2014، [أعلنت منظمة حظر الأسلحة الكيميائية عن تدميرها ](https://www.opcw.org/news/article/opcw-all-category-1-chemicals-declared-by-syria-now-destroyed/) 100% من المواد الكيميائية فئة 1، و 70% من المواد الكيميائية فئة 2. كما أعلنوا عن تدمير 94% من المخزون الكيميائي المصرّح به في الجمهورية العربية السورية.
 
 إن استخدام الأسلحة الكيماوية في هجمات نُسِبتْ للحكومة السورية بعد [أن دمرت المنظمة مخازن الأسلحة الكيميائية](https://www.opcw.org/fileadmin/OPCW/CSP/C-20/en/c2004_e_.pdf) يُشير إلى أنه إما لم يتم تدمير كافة المخازن؛ أو أن الحكومة السورية والجماعات المسلحة غير الحكومية (مثل داعش) اقتنت أو صنّعت أسلحة كيماوية بعد أغسطس 2013.
 
