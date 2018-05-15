@@ -1,6 +1,6 @@
 ---
 layout: "none.html"
-title: The Data 2
+title: "البيانات 2"
 date: 2017-07-01T00:05:18.055Z
 desc: ""
 snippet: true
