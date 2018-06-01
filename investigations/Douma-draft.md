@@ -9,11 +9,11 @@ image: /assets/investigations/hrc_cover.png
 # Douma bombed by Napalm
 
 - Location: Douma (Rif Dimashq Governorate, Syria)
-- Claimed targets: Some residential construction.
+- Claimed targets: Residential construction.
 - Date: 09 February 2018
-- Reported killed: 5 killed
-- Reported injured: ?? injured
-- Munitions identified: ??
+- Reported killed: 6 killed
+- Reported injured: N/A
+- Munitions identified: N/A
 - Potentially responsible: Russian or Syrian Air Force
 
 ![douma-napalm00](/assets/douma-napalm00.jpg)
@@ -70,7 +70,7 @@ In the next day on 10th February 2018, "The Douma City Coordination" [published 
 
 ![douma-napalm09](/assets/douma-napalm09.jpg)
 
-Douma coordination [published photos on their facebook page](https://www.facebook.com/Douma.Revolution/posts/735589393318321) showing damage in residential areas as a result of airstrikes and the use of incendiary munitions. It shows the same local council building that has been seen in other photos by different sources above. 
+Douma coordination [published photos on their facebook page](https://www.facebook.com/Douma.Revolution/posts/735589393318321) showing damage in residential areas as a result of airstrikes and the use of incendiary munitions. It shows the same local council building that has been seen in other photos by different sources above.
 
 ## Where did it happen?
 
