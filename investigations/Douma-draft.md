@@ -68,7 +68,7 @@ Barada center [published a video on their YouTube channel](https://www.youtube.c
 
 In the next day on 10th February 2018, "The Douma City Coordination" [published photos and a statement on their Facebook account](https://www.facebook.com/Douma.Revolution.2011/posts/1672415679506007) that "Civil Defense teams extinguished a fire caused by the targeting of residential buildings in Douma yesterday with incendiary munitions. The building identified in one of the photos is the same one that can be seen above which belongs to the local council in Douma.  The fire broke out again despite being extinguished several times yesterday.":
 
-![douma-napalm09](/assets/douma-napalm09.jpg)
+![douma-napalm09](/assets/douma-napalm09.png)
 
 Douma coordination [published photos on their facebook page](https://www.facebook.com/Douma.Revolution/posts/735589393318321) showing damage in residential areas as a result of airstrikes and the use of incendiary munitions. It shows the same local council building that has been seen in other photos by different sources above.
 
