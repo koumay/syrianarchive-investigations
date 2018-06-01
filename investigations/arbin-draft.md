@@ -12,19 +12,21 @@ Note: This report may contain some violent's photos.
 
 - Location: Arbin (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction, a historical mosque
-- Date: 11 March 2018
-- Reported killed: ??
-- Reported injured: ?? injured
-- Munitions identified: ??
+- Date of first attack: 11 March 2018
+- Reported killed: 27 as a result of different types of attacks
+- Date of first attack: 23 March 2018
+- Reported killed: 37 as a result of incendiary munition attack
+- Reported injured: N/A
+- Munitions identified: 2.5SM
 - Potentially responsible: Russian or Syrian Air Force
 
 ## Background of Arbin
 
-Arbin (or Arbeel in the Syriac language) is a city in Damascus countryside governorate, Eastern Ghouta, Located about 7 kilometers north-east of the center of Damascus. Nearby localities include Kafr Batna and Saqba to the south, Zamalka and Ein Tarma to the southwest, and Harasta to the north, with an estimated population of 44,934 (2004 census). 
+Arbin (or Arbeel in the Syriac language) is a city in Damascus countryside governorate, Eastern Ghouta, Located about 7 kilometers north-east of the center of Damascus. Nearby localities include Kafr Batna and Saqba to the south, Zamalka and Ein Tarma to the southwest, and Harasta to the north, with an estimated population of 44,934 (2004 census).
 
 The city saw demonstrations against Assad regime early in the Syrian uprising. [One of the first demonstrations](https://www.youtube.com/watch?v=m_obJ6g9BMI), dating from 3 April 2011, documents demonstrators chanting for freedom. Security [forces often intervened](https://www.youtube.com/watch?v=m0b4lXsnD0E) to break up protests. Swiftly the city became an [important hub for organizing protests](https://www.youtube.com/watch?v=WPZoGoGHx8c). In December 2012, Arbin city [fell under control by the Free Syrian Army](http://www.understandingwar.org/press-media/graphsandstat/battle-damascus-current-state-play-syria), since then the city has emerged from the Syrian government control.
 
-Government forces initially laid siege to the opposition-held enclave in the Eastern Ghouta [in April 2013](http://www.ohchr.org/Documents/HRBodies/HRCouncil/CoISyria/A-HRC-37-72_EN.pdf) which including Arbin. Since that date, inhabitants of Arbin city, same as other Eastern Ghouta cities, still living under the siege and bombing. 
+Government forces initially laid siege to the opposition-held enclave in the Eastern Ghouta [in April 2013](http://www.ohchr.org/Documents/HRBodies/HRCouncil/CoISyria/A-HRC-37-72_EN.pdf) which including Arbin. Since that date, inhabitants of Arbin city, same as other Eastern Ghouta cities, still living under the siege and bombing.
 
 ### Previous attacks
 
@@ -193,6 +195,8 @@ Maher Al Mulla
 - Majid Abu Ahmed
 - Mohammed Zuhair
 
+## HOW MANY CHILDREN< WOMEN AND MEN WERE IN THAT BASEMENT
+
 ## The weapons used
 
 Mohammed Al Abdullah, a Syrian photographer who based in Damascus countryside, [published photos on Facebook](https://www.facebook.com/Muhammad.Abd.ullah.abo.hosam0/posts/2030396477215103) back to what he said "Casings of napalm munitions which were used in the recent attacks on civilian buildings in Eastern Ghouta.", see below:
@@ -200,7 +204,9 @@ Mohammed Al Abdullah, a Syrian photographer who based in Damascus countryside, [
 ![arbin-napalm10](/assets/arbin-napalm10.jpg)
 ![arbin-napalm11](/assets/arbin-napalm11.jpg)
 
-[Other photos published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124), 
+##TO DO WHAT ARE THE TYPE OF MUNITION AND COMPARISON
+
+[Other photos published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124),
 
 ![arbin-napalm12](/assets/arbin-napalm12.jpg)
 ![arbin-napalm13](/assets/arbin-napalm13.jpg)
