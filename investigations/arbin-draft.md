@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Shelling Arbin with Napalm."
+title: "Shelling Arbin with incendiary munitions"
 date: 2018-03-11
 desc: ""
 image: /assets/investigations/hrc_cover.png
@@ -17,7 +17,7 @@ Note: This report may contain some violent's photos.
 - Date of first attack: 23 March 2018
 - Reported killed: 37 as a result of incendiary munition attack
 - Reported injured: N/A
-- Munitions identified: 2.5SM
+- Munitions identified: ZAB 2.5 SM
 - Potentially responsible: Russian or Syrian Air Force
 
 ## Background of Arbin
@@ -114,17 +114,17 @@ Syrian Civil Defense published the 27 names of the civilians that have been kill
 
 ### The Second Attack
 
-On 23 March 2018 Arbin city was targted again with napalm. Syrian Civil Defense in Damascus countryside [statement on their Facebook page that](https://www.facebook.com/SCDrifdimashq/posts/2161393883885909) "A massacre against humanity was committed in Arbin city. The preliminary appraisal of death reached 37 people (mostly women and children) were burned alive where they were in a shelter, as a result of bombing it with napalm."
+On 23 March 2018 Arbin city was targted again with incendiary munitions. The Syrian Civil Defense in Damascus countryside [published on their Facebook page that](https://www.facebook.com/SCDrifdimashq/posts/2161393883885909) "A massacre against humanity was committed in Arbin city. The preliminary appraisal of death reached 37 people (mostly women and children) were burned alive where they were in a shelter, as a result of bombing it with incendiary munitions." The photo (Graphic) published by the civil defense shows a killed person body that is completely burned as a result of the attack.
 
-Yousef Albostany, a syrian journalist based in Eeastern Ghouta, [published a photo on his Twitter account](https://twitter.com/YousefAlbostany/status/976928331580010498) shows what he said "Targeting a cellar in Arbin city with rockets laden with napalm, which caused a massacre."
+Yousef Albostany, a syrian journalist at Damascus media agency in Eeastern Ghouta, [published a photo on his Twitter account](https://twitter.com/YousefAlbostany/status/976928331580010498) shows what he claims to be "Targeting a cellar in Arbin city with rockets laden with napalm, which caused a massacre."
 
 ![arbin 14](/assets/arbin-napalm14.jpg)
 
-Also, Wasem Alkateb, [confirmed on Twitter that](https://twitter.com/wasemalkateb10/status/976983899866894348) "A large number of civilians burned alive as a result of targeting one of the Arabin shelters with Napalm, the victims including women and children who died immediately because of the fire that completely devoured the place."
+Also, Wasem Alkateb, [confirmed on Twitter that](https://twitter.com/wasemalkateb10/status/976983899866894348) "A large number of civilians burned alive as a result of targeting one of the Arabin shelters with incendiary munitions, the victims including women and children who died immediately because of the fire that completely devoured the place."
 
 #### List of Killed civilians names:
 
-The Unified Media Office In Arbin [published 47 names of Facebook to what they said](https://www.facebook.com/umoerbeen2/posts/156035448374227) "A list of martyrs who died in a cellar after being bombarded with Russian napalm rockets":
+The Unified Media Office In Arbin [published 47 names of Facebook to what they claim](https://www.facebook.com/umoerbeen2/posts/156035448374227) "A list of martyrs who died in a cellar after being bombarded with Russian napalm rockets":
 
 First Family:
 Muhannad Shahoud, father
@@ -195,18 +195,18 @@ Maher Al Mulla
 - Majid Abu Ahmed
 - Mohammed Zuhair
 
-## HOW MANY CHILDREN< WOMEN AND MEN WERE IN THAT BASEMENT
+##TODO-HOW MANY CHILDREN< WOMEN AND MEN WERE IN THAT BASEMENT??
 
-## The weapons used
+## The weapons used [#NOT RELEVANT FOR THE SECOND INCIDENT ]
 
-Mohammed Al Abdullah, a Syrian photographer who based in Damascus countryside, [published photos on Facebook](https://www.facebook.com/Muhammad.Abd.ullah.abo.hosam0/posts/2030396477215103) back to what he said "Casings of napalm munitions which were used in the recent attacks on civilian buildings in Eastern Ghouta.", see below:
+On March 20th 2018, Mohammed Al Abdullah, a Syrian photographer who lives in Damascus countryside, [published photos on Facebook](https://www.facebook.com/Muhammad.Abd.ullah.abo.hosam0/posts/2030396477215103) claiming that it's for incendiary sub-munitions which were used in the recent attacks on civilian buildings in Eastern Ghouta. see below:
 
 ![arbin-napalm10](/assets/arbin-napalm10.jpg)
 ![arbin-napalm11](/assets/arbin-napalm11.jpg)
 
 ##TO DO WHAT ARE THE TYPE OF MUNITION AND COMPARISON
 
-[Other photos published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124),
+Other photos [published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124) show remnants of the munition used in the incendiary attack which happened on March 11th 2018. The munition has Russian writing on it [опорная] which is translated at "supporting". 
 
 ![arbin-napalm12](/assets/arbin-napalm12.jpg)
 ![arbin-napalm13](/assets/arbin-napalm13.jpg)
