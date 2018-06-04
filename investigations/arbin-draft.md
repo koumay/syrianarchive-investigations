@@ -17,7 +17,6 @@ Note: This report may contain some violent's photos.
 - Date of first attack: 23 March 2018
 - Reported killed: 37 as a result of incendiary munition attack
 - Reported injured: N/A
-- Munitions identified: ZAB 2.5 SM
 - Potentially responsible: Russian or Syrian Air Force
 
 ## Background of Arbin
@@ -112,15 +111,22 @@ Syrian Civil Defense published the 27 names of the civilians that have been kill
 26. Hassan Nofal
 27. Abdul Rahman Jamili
 
+### Type of munition
+
+Other photos [published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124) show remnants of the munition used in the incendiary attack which happened on March 11th 2018. The munition has Russian writing on it [опорная] which is translated at "supporting".
+
+![arbin-napalm12](/assets/arbin-napalm12.jpg)
+![arbin-napalm13](/assets/arbin-napalm13.jpg)
+
+
 ### The Second Attack
 
-On 23 March 2018 Arbin city was targted again with incendiary munitions. The Syrian Civil Defense in Damascus countryside [published on their Facebook page that](https://www.facebook.com/SCDrifdimashq/posts/2161393883885909) "A massacre against humanity was committed in Arbin city. The preliminary appraisal of death reached 37 people (mostly women and children) were burned alive where they were in a shelter, as a result of bombing it with incendiary munitions." The photo (Graphic) published by the civil defense shows a killed person body that is completely burned as a result of the attack.
+On 23 March 2018 Arbin city was targeted again with incendiary munitions. The Syrian Civil Defense in Damascus countryside [published on their Facebook page that](https://www.facebook.com/SCDrifdimashq/posts/2161393883885909) "A massacre against humanity was committed in Arbin city. The preliminary appraisal of death reached 37 people (mostly women and children) were burned alive when they were in a shelter, as a result of bombing it with incendiary munitions." The photo (Graphic) published by the civil defense shows a killed person body that is completely burned as a result of the attack.
 
-Yousef Albostany, a syrian journalist at Damascus media agency in Eeastern Ghouta, [published a photo on his Twitter account](https://twitter.com/YousefAlbostany/status/976928331580010498) shows what he claims to be "Targeting a cellar in Arbin city with rockets laden with napalm, which caused a massacre."
+Al Jiser media agency's journalist "Soheib mouhammed" [published a video on March 23](https://www.youtube.com/watch?v=CKfd02joIRU) after the claimed incendiary attack showing the impact site. The video also showed an interview with Abo Omar Al Akeed saying: "This massacre resulted of 44 casualties as a result of the attack by the Syrian government which targeted a basement. We were not able to get all the dead bodies out because it was completely burned".
 
-![arbin 14](/assets/arbin-napalm14.jpg)
+#video to be geolocated.   
 
-Also, Wasem Alkateb, [confirmed on Twitter that](https://twitter.com/wasemalkateb10/status/976983899866894348) "A large number of civilians burned alive as a result of targeting one of the Arabin shelters with incendiary munitions, the victims including women and children who died immediately because of the fire that completely devoured the place."
 
 #### List of Killed civilians names:
 
@@ -190,23 +196,7 @@ Their children are:
 In addition to:
 - Bashar Shahoud
 - Riad Tan
-Maher Al Mulla
+- Maher Al Mulla
 - Ibrahim Abu Ahmed
 - Majid Abu Ahmed
 - Mohammed Zuhair
-
-##TODO-HOW MANY CHILDREN< WOMEN AND MEN WERE IN THAT BASEMENT??
-
-## The weapons used [#NOT RELEVANT FOR THE SECOND INCIDENT ]
-
-On March 20th 2018, Mohammed Al Abdullah, a Syrian photographer who lives in Damascus countryside, [published photos on Facebook](https://www.facebook.com/Muhammad.Abd.ullah.abo.hosam0/posts/2030396477215103) claiming that it's for incendiary sub-munitions which were used in the recent attacks on civilian buildings in Eastern Ghouta. see below:
-
-![arbin-napalm10](/assets/arbin-napalm10.jpg)
-![arbin-napalm11](/assets/arbin-napalm11.jpg)
-
-##TO DO WHAT ARE THE TYPE OF MUNITION AND COMPARISON
-
-Other photos [published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124) show remnants of the munition used in the incendiary attack which happened on March 11th 2018. The munition has Russian writing on it [опорная] which is translated at "supporting". 
-
-![arbin-napalm12](/assets/arbin-napalm12.jpg)
-![arbin-napalm13](/assets/arbin-napalm13.jpg)
