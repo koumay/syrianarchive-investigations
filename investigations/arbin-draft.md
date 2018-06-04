@@ -125,8 +125,9 @@ On 23 March 2018 Arbin city was targeted again with incendiary munitions. The Sy
 
 Al Jiser media agency's journalist "Soheib mouhammed" [published a video on March 23](https://www.youtube.com/watch?v=CKfd02joIRU) after the claimed incendiary attack showing the impact site. The video also showed an interview with Abo Omar Al Akeed saying: "This massacre resulted of 44 casualties as a result of the attack by the Syrian government which targeted a basement. We were not able to get all the dead bodies out because it was completely burned".
 
-#video to be geolocated.   
+#video to be geolocated.
 
+Jobar news agency [published a video](https://www.youtube.com/watch?v=t1_mrsJVee0) showing burned people in the basement as a result of the incendiary attack. 
 
 #### List of Killed civilians names:
 
