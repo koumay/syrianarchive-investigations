@@ -13,8 +13,10 @@ Note: This report may contain some violent's photos.
 - Location: Arbin (Rif Dimashq Governorate, Syria)
 - Claimed targets: Some residential construction, a historical mosque
 - Date of first attack: 11 March 2018
+- Time of first attack:
 - Reported killed: 27 as a result of different types of attacks
-- Date of first attack: 23 March 2018
+- Date of second attack: 23 March 2018
+- Time of second attack: 09:30 pm (Damascus local time)
 - Reported killed: 37 as a result of incendiary munition attack
 - Reported injured: N/A
 - Potentially responsible: Russian or Syrian Air Force
@@ -115,7 +117,6 @@ Syrian Civil Defense published the 27 names of the civilians that have been kill
 
 Other photos [published by Syrian Civil Defense](https://www.facebook.com/SCDrifdimashq/posts/2144398402252124) show remnants of the munition used in the incendiary attack which happened on March 11th 2018. The munition has Russian writing on it [опорная] which is translated at "supporting".
 
-![arbin-napalm12](/assets/arbin-napalm12.jpg)
 ![arbin-napalm13](/assets/arbin-napalm13.jpg)
 
 
@@ -123,11 +124,15 @@ Other photos [published by Syrian Civil Defense](https://www.facebook.com/SCDrif
 
 On 23 March 2018 Arbin city was targeted again with incendiary munitions. The Syrian Civil Defense in Damascus countryside [published on their Facebook page that](https://www.facebook.com/SCDrifdimashq/posts/2161393883885909) "A massacre against humanity was committed in Arbin city. The preliminary appraisal of death reached 37 people (mostly women and children) were burned alive when they were in a shelter, as a result of bombing it with incendiary munitions." The photo (Graphic) published by the civil defense shows a killed person body that is completely burned as a result of the attack.
 
+Erbin news network [published a photo](https://www.facebook.com/erbeen.news/posts/1490076927769811) on their facebook account claiming that a basement has been targeted with incendiary munitions. 
+
 Al Jiser media agency's journalist "Soheib mouhammed" [published a video on March 23](https://www.youtube.com/watch?v=CKfd02joIRU) after the claimed incendiary attack showing the impact site. The video also showed an interview with Abo Omar Al Akeed saying: "This massacre resulted of 44 casualties as a result of the attack by the Syrian government which targeted a basement. We were not able to get all the dead bodies out because it was completely burned".
 
 #video to be geolocated.
 
-Jobar news agency [published a video](https://www.youtube.com/watch?v=t1_mrsJVee0) showing burned people in the basement as a result of the incendiary attack. 
+Jobar news agency [published a video](https://www.youtube.com/watch?v=t1_mrsJVee0) showing burned people in the basement as a result of the incendiary attack.
+
+Orient TV [published a video](https://www.youtube.com/watch?v=Vb-DTcAzqmg) about the incident which includes an interview with Abo Omar Al Akeed who mentioned that the attack happened at 09:30 pm Damascus local time. He also said that the people killed were mainly women and children hiding in the basement.
 
 #### List of Killed civilians names:
 
