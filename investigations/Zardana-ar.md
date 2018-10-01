@@ -4,11 +4,11 @@
 
 ففي تمام الساعة 21:22 بعد دقائق من الحادثة نشر الناشط محمّد العبدو [بنشر خبر](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D468042146963362%26id%3D100012727414501&sa=D&ust=1538416032141000) عن استهداف بلدة زردنا من قبل الطيران الروسي بحسبه.
 
-![](images/image1.png)
+![](/assets/investigations/zardana/image1.png)
 
-![](images/image6.jpg)
+![](/assets/investigations/zardana/image6.jpg)
 
-![](images/image23.jpg)
+![](/assets/investigations/zardana/image23.jpg)
 *موقع بلدة زردنا شرقي محافظة إدلب*
 
 بحسب أحد الشهود الذين أدلوا بشهادتهم [لوكالة نبأ الإخباريّة](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBLwZlWwQbfg%26feature%3Dyoutu.be&sa=D&ust=1538416032142000) "أسرعت بعد الحادثة برفقة عناصر الدفاع المدني لإنقاذ الجرحى العالقين تحت الأنقاض بسبب الدمار الهائل في المكان. ثمّ كانت المفاجأة حيث عاد الطيران وقصف النقطة نفسها بعد حوالي 30 دقيقة من الضربة الأولى، فحدثت إصابات جديدة بين أفراد عناصر الدفاع المدني والمدنيّين الذين هبّوا لإنقاذ المصابين جرّاء الضربة الأولى. بعد الضربة الثانية توفّي أحد عناصر الدفاع المدني، وتمّ تدمير عشرات المنازل من خلال الضربتين وأنّ هذه الأماكن مدنيّة ولا وجود لأيّ مقرّات عسكريّة فيها."
@@ -17,13 +17,13 @@
 
 نشرت وكالة ثقة الإخباريّة [تقريراً مصوّراَ](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvCuO3SLaM6U&sa=D&ust=1538416032143000) أوضحت فيه حجم الدمار الهائل في الحي السكني، وتمّت مقابلة أحد الشهود على الضربة الجويّة الذي أكّد أنّ الغارة الأولى حصلت بعد 15 دقيقة من انتهائهم من وجبة الإفطار الرمضاني (بعد أذان المغرب)، ثمّ حصلت الغارة الثانية بعد 20-30 دقيقة من الغارة الأولى. (في الفيديو لقطة بانورامية لمكان الضربة).
 
-![](images/image10.jpg)
+![](/assets/investigations/zardana/image10.jpg)
 *لقطة بانوراميّة لمكان الضربة*
 
-![](images/image16.jpg)
+![](/assets/investigations/zardana/image16.jpg)
 *موقع الضربة بحسب الصور*
 
-![](images/image7.jpg)
+![](/assets/investigations/zardana/image7.jpg)
 *موقع الضربة وموقع جامع سعد بن معاذ*
 
 نشرت وكالة أنباء قاسيون نشرت [تقريراً مصوّراً](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUNoVvij0Eqs&sa=D&ust=1538416032145000) أيضاً تخلّلته شهادة أحد الجرحى
@@ -40,11 +40,11 @@
 
 في [تقرير](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538416032148000) نشرته قناة حلب اليوم والذي قابلت به بعض الشهود على الغارتين، ذكر مراسل القناة أنّ الضربة حصلت بواسطة طائرة من نوع [Sukhoi Su-24](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sukhoi_Su-24&sa=D&ust=1538416032148000) التي قامت بغارتين جويّتين إحداهما كانت عن طريق استخدام صواريخ فراغيّة التي تسبّبت بتدمير حيّ كاملٍ وإحداث حفرة بعمق 10 أمتار، وتسبّبت بسقوط أكثر من 35 شهيداً وأكثر من 80 مصاباً بينهم نساء وأطفال وعناصر من الدفاع المدني.
 
-![](images/image5.png)
+![](/assets/investigations/zardana/image5.png)
 
 بمقارنة فيديو ال[تقرير الليلي](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538416032149000) الذي نشرته قناة حلب اليوم أثناء عمليّات الإنقاذ، [وفيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB_E0k0cBOf8&sa=D&ust=1538416032149000) تقرير SY Plus عن الحادثة الذي تمّ تصويره اليوم التالي والذي يبيّن بشكل أوضح مكان الضربة نلاحظ أنّ الموقع هو نفسه.
 
-![](images/image12.jpg)
+![](/assets/investigations/zardana/image12.jpg)
 
 في يوم الجمعة 8 حزيران/يونيو 2018 [نفت](https://www.google.com/url?q=https://russian.rt.com/world/news/521128-minoborony-oprovergli-udar-siriya&sa=D&ust=1538416032150000) وزارة الدفاع الروسيّة قصف طائرات روسيّة على بلدة زردنا في محافظة إدلب السوريّة، وأشارت الوزارة في بيانها إلى أن معارك طاحنة دارت في هذه المنطقة بين وحدات كبيرة تابعة لـ "تنظيم جبهة النصرة (المحظور في روسيا وعدد من الدول) و"جيش الإسلام" باستخدام المدفعية الثقيلة".
 
@@ -52,7 +52,7 @@
 
 وتجدر الإشارة إلى أنّ زردنا، وفقاً لعدّة مصادر إعلاميّة منها [وكالة ستيب الإعلاميّة](https://www.google.com/url?q=http://stepagency-sy.net/archives/198035&sa=D&ust=1538416032151000) كانت قد شهدت بعض حوادث الاقتتال بين جيش الأحرار المعارض وهيئة تحرير الشام الإسلاميّة، وكان الاقتتال قد تجدّد في يوم 7 حزيران/يونيو 2018، ممّا أسفر عن وقوع قتلى وجرحى بينهم مدنيّين على إثر خلاف نشب بينهم في مساء اليوم السابق.
 
-![](images/image11.jpg)
+![](/assets/investigations/zardana/image11.jpg)
 
 خارطة تبيّن مكان سيطرة المعارضة السوريّة المسلّحة في محافظة إدلب وموقع بلدة زردنا \- المصدر: [Liveuamap](https://www.google.com/url?q=https://syria.liveuamap.com/&sa=D&ust=1538416032152000)
 
@@ -60,9 +60,9 @@
 
 الجدير بالذكر أنّ هنالك نقطة مراقبة تركيّة في تلّة العيس شرقي زردنا تبعد حوالي 20 كم عن مكان الحادثة، في [الرابط](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D106%26amp;v%3DoqUQxr-FU9I&sa=D&ust=1538416032153000) نشاهد المؤتمر الصحفي لوزارة الدفاع الروسيّة الذي تتحدّث فيه عن نقاط المراقبة ومنها نشاهد في الخارطة نقطة مراقبة تلّة العيس التركيّة
 
-![](images/image8.png)
+![](/assets/investigations/zardana/image8.png)
 
-![](images/image9.jpg)
+![](/assets/investigations/zardana/image9.jpg)
 
 معلومات الطيران
 
@@ -72,43 +72,43 @@
 
 تتوافق هذه المواقيت مع إفادات الشهود الذين قالوا أنّ الغارة الأولى وقعت في حوالي الساعة 21:00
 
-![](images/image22.jpg)
+![](/assets/investigations/zardana/image22.jpg)
 *صورة لمكان الغارة ويظهر في الخلف جامع سعد بن معاذ \- [عمر حاج قدّور](https://www.google.com/url?q=https://www.facebook.com/media/set/?set%3Da.10209881398830770.1073742052.1807482420%26type%3D3&sa=D&ust=1538416032156000) \- وكالة الصحافة الفرنسيّة AFP*
 
-![](images/image4.jpg)
+![](/assets/investigations/zardana/image4.jpg)
 *صورة لمكان الغارة تمّ التقاطها من مئذنة جامع سعد بن معاذ \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032157000)*
 
 
-![](images/image13.jpg)
+![](/assets/investigations/zardana/image13.jpg)
 
-![](images/image19.jpg)
+![](/assets/investigations/zardana/image19.jpg)
 *صورة لمكان الغارة تمّ التقاطها من مئذنة جامع سعد بن معاذ \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032159000)*
 
 
-![](images/image17.jpg)
+![](/assets/investigations/zardana/image17.jpg)
 *صورة لمكان الغارة تمّ التقاطها من مئذنة جامع سعد بن معاذ \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032160000)*
-![](images/image3.jpg)
+![](/assets/investigations/zardana/image3.jpg)
 
-![](images/image24.jpg)
+![](/assets/investigations/zardana/image24.jpg)
 *صور من الأقمار الصناعيّة وربطها مع الصور*
 
-![](images/image14.jpg)
+![](/assets/investigations/zardana/image14.jpg)
 *إلى اليمين صورة قديمة لجامع سعد بن معاذ من الداخل \- المصدر [غوغل إيرث](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000301h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538416032161000)*
 *إلى اليسار صورة للأضرار التي لحقت بنفس الجامع من الداخل \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032162000)*
 
-![](images/image18.jpg)
+![](/assets/investigations/zardana/image18.jpg)
 *في الأعلى صورة قديمة لمسجد سعد بن معاذ \- المصدر [غوغل إيرث](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000306h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538416032162000)*
 *في الأسفل صورة تبيّن الأضرار التي لحقت بالجامع من بعد الضربة \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032163000)*
 
-![](images/image15.jpg)
+![](/assets/investigations/zardana/image15.jpg)
 *صورة يظهر فيها جامع سعد بن معاذ ويظهر من خلفه برج الماء الذي يقع غربي بلدة زردنا \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032164000)*
 
-![](images/image21.jpg)
+![](/assets/investigations/zardana/image21.jpg)
 
-![](images/image2.jpg)
+![](/assets/investigations/zardana/image2.jpg)
 *صور من الأقمار الصناعيّة تبيّن موقع جامع سعد بن معاذ وبرج الماء الذي يقع غربي بلدة زردنا*
 
-![](images/image20.png)
+![](/assets/investigations/zardana/image20.png)
 *صور من الأقمار الصناعية لموقع الاستهداف في تاريخ 7 حزيران\يونيو و9 حزيران\يونيو 2018 - المصدر بلانت*
 
 ## الاستنتاج:
