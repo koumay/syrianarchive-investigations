@@ -135,5 +135,3 @@ Witness testimonies, the statement by the Local Council of Harasta city, and the
 Ahmed al-Talli, a fighter for the Syrian armed opposition, told STJ that during the escalation campaign, Harasta had been bombed with ground-to-ground missiles and so-called "elephant" rockets, noting that the Syrian regular forces had modified these rockets by loading them with incendiary substances. He stated:
 
 "The *Elephant* rocket is a Grad missile, which has a range of between 20 to 40km. The Syrian regime modified it by removing its explosive warhead and installing another, filled with a large quantity of explosives and incendiary substances such as soap or rubber added to gasoline. The capacity of incendiary substances the Elephant rocket can be loaded with is the same as the capacity of explosive substances its original warhead could carry."
-
-## Flight Data Analysis
