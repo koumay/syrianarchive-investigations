@@ -4,11 +4,11 @@ At approximately 21:05 on Thursday, warplanes targeted a [residential neighborho
 
 Minutes after the incident, at 21:22, activist Mohammed al-Abdu [published a post](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D468042146963362%26id%3D100012727414501&sa=D&ust=1538476154381000) about the targeting of Zardana town by Russian aviation.
 
-![](/assets/investigations/zardana/image3.png)
+![](/assets/investigations/zardana/image1.png)
 
-![](/assets/investigations/zardana/image18.jpg)
+![](/assets/investigations/zardana/image6.jpg)
 
-![](/assets/investigations/zardana/image19.jpg)
+![](/assets/investigations/zardana/image23.jpg)
 *Zardana town in the east of Idlib province*
 
 
@@ -18,13 +18,13 @@ In the same video; another witness speaks about the details of the air strikes, 
 
 Thiqa news agency published a [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvCuO3SLaM6U&sa=D&ust=1538476154383000) showing the scale of destruction in the neighborhood. The report contains an interview with a witness of the air strike, who confirmed that the first air strike took place 15 minutes after finishing the Iftar meal (after the sunset prayer), and then the second air strike occurred 20-30 minutes after the first one, ( the video includes a panoramic shot of the impact site.)
 
-![](/assets/investigations/zardana/image8.jpg)
+![](/assets/investigations/zardana/image10.jpg)
 *A panoramic shot of the impact site*
 
-![](/assets/investigations/zardana/image5.jpg)
+![](/assets/investigations/zardana/image16.jpg)
 *The impact site according to the photos*
 
-![](/assets/investigations/zardana/image22.jpg)
+![](/assets/investigations/zardana/image7.jpg)
 *The locations of the attack, and Saad bin Mu'adh mosque*
 
 
@@ -36,11 +36,11 @@ SY Plus agency published a [video report](https://www.google.com/url?q=https://w
 
 In a [report published](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154387000) by Aleppo Today channel, which contains interviews with some witnesses of the two airstrikes, the correspondent of the channel said that the attack was committed by a [Sukhoi Su-24 aircraft](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sukhoi_Su-24&sa=D&ust=1538476154388000), which carried out two air strikes, one was with thermobaric rockets that destroyed an entire neighborhood and created a crater depth of 10 meters, and caused the death of more than 35 victims, and more than 80 injured, including women and children and members of the Civil Defense.
 
-![](/assets/investigations/zardana/image7.png)
+![](/assets/investigations/zardana/image5.png)
 
 Through comparing the video [report](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154388000) published by Aleppo Today during the rescue operations at night, and the [video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB_E0k0cBOf8&sa=D&ust=1538476154389000) report of the SY Plus about the incident that was filmed the following day, which shows the impact site more clearly, we notice it is the same location.
 
-![](/assets/investigations/zardana/image4.jpg)
+![](/assets/investigations/zardana/image12.jpg)
 
 On Friday, 8 June 2018, the Russian Defense Ministry [denied](https://www.google.com/url?q=https://russian.rt.com/world/news/521128-minoborony-oprovergli-udar-siriya&sa=D&ust=1538476154390000) bombing Zardana town in the Syrian province of Idlib by Russian aircraft, the ministry said in its statement that fierce fighting took place in this region between the large detachments of the "Al-Nusra Front" (designated as a terrorist organization in Russia and a number of countries) and "Jaysh al-Islam" using heavy artillery.
 
@@ -48,7 +48,7 @@ It is worth mentioning that contrary to what the Russian Defense Ministry said, 
 
 It should be noted that Zardana, according to several media sources including [Step News agency](https://www.google.com/url?q=http://stepagency-sy.net/archives/198035&sa=D&ust=1538476154391000), had seen some incidents of fighting between Jaysh Al-Ahrar and Hay'at Tahrir al-Sham, and the fighting was renewed on June 7, 2018, resulting in the deaths and injuries including civilians, on after a dispute broke out between them the previous evening.
 
-![](/assets/investigations/zardana/image10.jpg)
+![](/assets/investigations/zardana/image11.jpg)
 *A map showing the location of the areas controlled by the Syrian armed opposition in Idlib province, and Zardana town location - Source: [Liveuamap](https://www.google.com/url?q=https://syria.liveuamap.com/&sa=D&ust=1538476154392000)*
 
 
@@ -56,9 +56,9 @@ It should be noted that Zardana, according to several media sources including [S
 
 It is worth mentioning that there is a Turkish observation point in Tal El-Eis east of Zardana about 20 km from the impact site. In a [press conference](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D106%26amp;v%3DoqUQxr-FU9I&sa=D&ust=1538476154393000) of the Russian Defense Ministry about the observation points, we can see the Turkish observation point on Tal El-Eis on the map.
 
-![](/assets/investigations/zardana/image12.png)
+![](/assets/investigations/zardana/image8.png)
 
-![](/assets/investigations/zardana/image17.jpg)
+![](/assets/investigations/zardana/image9.jpg)
 
 ## Flight Data
 
@@ -68,36 +68,33 @@ All the witnesses interviewed by the news agencies said that the strike took pla
 
 These times coincide with the testimonies of witnesses who said that the first airstrike occurred at around 21:00.
 
-![](/assets/investigations/zardana/image21.jpg)
+![](/assets/investigations/zardana/image22.jpg)
 *A photograph of the targeted location, in the background Saad bin Muadh mosque can be seen- [Omar Haj Kaddour](https://www.google.com/url?q=https://www.facebook.com/media/set/?set%3Da.10209881398830770.1073742052.1807482420%26type%3D3&sa=D&ust=1538476154396000) \- AFP*
 
+![](/assets/investigations/zardana/image4.jpg)
+*photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
 
-![](/assets/investigations/zardana/image14.jpg)
+![](/assets/investigations/zardana/image13.jpg)
+
+![](/assets/investigations/zardana/image19.jpg)
 *photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
 
 
-![](/assets/investigations/zardana/image11.jpg)
-
-![](/assets/investigations/zardana/image24.jpg)
-*photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
-
-
-![](/assets/investigations/zardana/image1.jpg)
+![](/assets/investigations/zardana/image17.jpg)
 *photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154398000)*
 
+![](/assets/investigations/zardana/image3.jpg)
 
-![](/assets/investigations/zardana/image2.jpg)
-
-![](/assets/investigations/zardana/image20.jpg)
+![](/assets/investigations/zardana/image24.jpg)
 *Matching Images from the satellite with photos*
 
 
-![](/assets/investigations/zardana/image13.jpg)
+![](/assets/investigations/zardana/image14.jpg)
 *To the right, an old photo of Saad bin Mu'adh mosque - [Google Earth](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000301h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538476154399000)*
 *To the left, a photo of the damage in the same mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154400000)*
 
 
-![](/assets/investigations/zardana/image16.jpg)
+![](/assets/investigations/zardana/image18.jpg)
 *Above, an old photo of Saad bin Mu'adh Mosque - [Google Earth](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000306h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538476154400000)*
 *Below, a photo showing the damage in the mosque after the attack - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154401000)*
 
@@ -105,14 +102,13 @@ These times coincide with the testimonies of witnesses who said that the first a
 ![](/assets/investigations/zardana/image15.jpg)
 *A photo showing Saad bin Mu'adh mosque, behind it a water tower can be seen, which is located west of Zardana town - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154401000)*
 
+![](/assets/investigations/zardana/image21.jpg)
 
-![](/assets/investigations/zardana/image6.jpg)
-
-![](/assets/investigations/zardana/image9.jpg)
+![](/assets/investigations/zardana/image2.jpg)
 *Satellite images showing the location of Saad bin Mu'adh mosque and the water tower, which located west of Zardana town*
 
 
-![](/assets/investigations/zardana/image23.png)
+![](/assets/investigations/zardana/image20.png)
 *Satellite images of the targeted site on June 7 and June 9, 2018 - Source: Planet*
 
 
