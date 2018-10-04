@@ -1,6 +1,6 @@
 ﻿---
 layout: investigation.html
-title: "زردنا"
+title: "Zardana"
 date: 2018-06-07
 desc: ""
 image: /assets/investigations/hrc_cover.png
