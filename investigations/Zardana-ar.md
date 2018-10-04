@@ -12,7 +12,7 @@ image: /assets/investigations/hrc_cover.png
 - الأهداف المزعومة: مباني سكنية.
 - التاريخ: 7 حزيران/يونيو 2018
 - القتلى المُبلغ عنهم: 44
-- الإصابات المُبلغ عنها: 
+- الإصابات المُبلغ عنها: غير متوفّر
 - الذخائر التي تم تحديدها: صواريخ فراغية
 - المسؤول المحتمل عن الهجوم: القوات الجوية الروسية أو السورية
 
@@ -133,7 +133,7 @@ image: /assets/investigations/hrc_cover.png
 
 <iframe height="800" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes" width="800"></iframe>
 
-[View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
+[عرض الإظهار البصري كاملًا](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
 
 من خلال مقارنة الرحلات الجوية المرصودة، نوع الطائرات المرصودة، الوقت الذي رُصدت به، ووجهات هذه الرحلات، ومقارنة هذه البيانات مع المواقع الجغرافية المقدّمة في الخطوات السابقة؛ تمكّن الأرشيف السوري من رحلة  جوية  يحتمل أن تكون مسؤولة عن هذا الهجوم (طائرة روسية ثابتة الجناح) حيث شوهدت تُحلق فوق المنطقة الجغرافية للهجوم في الساعة 21:07 في الأتارب، ومن ثم يرجح أنها تحركت إلى أبين. وقد خلصت تحقيقات سابقة إلى أن الطيران الدائري في السماء عادةً ما يُشير إلى محاولة الاستحواذ على الهدف أو التحضير لهجوم وشيك.
 
