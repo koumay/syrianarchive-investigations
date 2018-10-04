@@ -11,9 +11,9 @@ image: /assets/investigations/hrc_cover.png
 - Location: Zardana (Idlib Governorate, Syria)
 - Claimed targets: Residential construction.
 - Date: 7 June 2018
-- Reported killed:
-- Reported injured:
-- Munitions identified:
+- Reported killed: 44
+- Reported injured: N/A
+- Munitions identified: Thermobaric rockets
 - Potentially responsible: Russian or Syrian Air Force
 
 
@@ -134,13 +134,22 @@ These times coincide with the testimonies of witnesses who said that the first a
 
 ## Flight Data
 
+To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 20:30 and 22:00, the period directly before and after the reported attack as was claimed by media activists. See below:
+
+<iframe height="800" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes" width="800"></iframe>
+
+[View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
+
+Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify a flight potentially responsible for the attack (a fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting at 21:07 in Atarib, and then likely moving to Abin. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
+
+While there is no direct evidence available that one of the observed aircrafts was involved in the attack on Zardana the presence of these aircrafts increase the likelihood that an air attack occurred at this location and the time stated by the citizen reporters as well as humanitarian groups, and estimated also using imagery from the attack.
 
 
 
 ## Conclusion:
 
-Zardana town, north of Idlib, was targeted on Thursday night, June 7, 2018, at approximately 21:05, with an airstrike followed by another one about half an hour later, by aircraft likely to be Russian. The airstrikes targeted a [residential neighborhood](https://www.google.com/url?q=https://earth.google.com/web/@36.04395964,36.75224262,319.55971579a,147.93847951d,35y,145.27914805h,0.15301545t,0r&sa=D&ust=1538476154403000) south of Zardana, near [Saad bin Mua'dh mosque](https://www.google.com/url?q=https://earth.google.com/web/@36.04418524,36.75250114,319.86556206a,452.25160956d,35y,145.27877064h,0.15302276t,-0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGTCE4n2xBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgCIAEoAg&sa=D&ust=1538476154403000), killing 44 people, injuring dozens and destroying dozens of homes.
+Zardana, a town north of Idlib, was targeted on Thursday night, 7 June 2018, at approximately 21:05, with an airstrike followed by another one about half an hour later, by aircraft likely to be Russian. The airstrikes targeted a [residential neighborhood](https://www.google.com/url?q=https://earth.google.com/web/@36.04395964,36.75224262,319.55971579a,147.93847951d,35y,145.27914805h,0.15301545t,0r&sa=D&ust=1538476154403000) south of Zardana, near [Saad bin Mua'dh mosque](https://www.google.com/url?q=https://earth.google.com/web/@36.04418524,36.75250114,319.86556206a,452.25160956d,35y,145.27877064h,0.15302276t,-0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGTCE4n2xBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgCIAEoAg&sa=D&ust=1538476154403000), killing 44 people, injuring dozens and destroying dozens of homes.
 
 Thermobaric rockets were used in one of the two airstrikes, based on the destruction of the entire residential neighborhood, and the crater depth of 10 meters.
 
-The Russian Defense Ministry denied its warplanes were involved, and instead blamed the attack on artillery shelling between two fighting factions of Jaysh Al-Ahrar and Hay'at Tahrir al-Sham. Although the fighting started on the previous day, but there were no clashes in the targeted area, and all witnesses and injured confirmed that the bombardment was from aircraft flying that night, where high-explosive weapons were used.
+The Russian Ministry of Defence denied its warplanes were involved, and instead blamed the attack on artillery shelling between two fighting factions of Jaysh Al-Ahrar and Hay'at Tahrir al-Sham. Although the fighting started on the previous day, but there were no clashes in the targeted area, and all witnesses and injured confirmed that the bombardment was from aircraft flying that night, where high-explosive weapons were used.
