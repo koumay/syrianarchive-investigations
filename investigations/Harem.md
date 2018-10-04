@@ -6,9 +6,17 @@ desc: ""
 image: /assets/investigations/hrc_cover.png
 ---
 
+- Location: Harem (Idlib Governorate, Syria)
+- Claimed targets:
+- Date:
+- Reported killed:
+- Reported injured:
+- Munitions identified:
+- Potentially responsible: Russian or Syrian Air Force
+
 ##Background
 
-﻿Harem is one of the largest border cities with Turkey. According to the [Qatar Red Crescent](https://www.google.com/url?q=https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/assessments/idps_from_eastern_syria.pdf&sa=D&ust=1538477135298000), the city contains many housing shelters which house thousands of displaced persons. Despite Harem being [located within the established De-Escalation Zones](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1538477135299000)  in Idlib Governorate as per an agreement signed in May 2017 by Russia, Iran and Turkey, it faces ceasefire violations by Russian and Syrian air forces on a daily basis.
+﻿Harem is one of the largest border cities with Turkey. According to the [Qatar Red Crescent](https://www.google.com/url?q=https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/assessments/idps_from_eastern_syria.pdf&sa=D&ust=1538477135298000), the city contains many housing shelters which house thousands of displaced persons. Despite Harem being [located within the established De-Escalation Zones](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1538477135299000)  in Idlib Governorate, as per an agreement signed in May 2017 by Russia, Iran and Turkey, it faces ceasefire violations by Russian and Syrian air forces on a daily basis.
 
 ![](/assets/investigations/Harem/image25.png)
 
