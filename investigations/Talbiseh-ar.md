@@ -1,26 +1,26 @@
 ﻿في يوم 30 أيلول\\سبتمبر 2015 تدوالت العديد من الشبكات الإخبارية وصفحات الناشطين أنباءً حول غارات شنها الطيران الروسي على مدينة تلبيسة في ريف حمص، تزامناً مع تفويض المجلس الاتحادي الروسي للرئيس الروسي فلاديمير بوتين باستخدام القوّة في سوريا معلنين [بدء العمليّات العسكريّة الروسيّة في الأراضي السوريّة](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqblmOvkV9KM&sa=D&ust=1539189669552000).
 
-![](/assets/investigations/Talbiseh/image32.jpg)
+![](/assets/investigations/Talbiseh/image34.jpg)
 
 موقع تلبيسة في ريف حمص الشمالي
 
-![](/assets/investigations/Talbiseh/image13.jpg)
+![](/assets/investigations/Talbiseh/image14.jpg)
 
 موقع تلبيسة بين مدينتي الرستن وحمص
 
-![](/assets/investigations/Talbiseh/image9.jpg)
+![](/assets/investigations/Talbiseh/image35.jpg)
 
 صورة من الأقمار الصناعيّة لمدينة تلبيسة
 
 في 30 أيلول/ سبتمبر 2015 نشرت قناة أخبار تلبيسة مقطع [فيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DKqEtOd5Mypg&sa=D&ust=1539189669554000) للحظة وصول المراسل إلى مكان سقوط الصواريخ الفراغيّة بحسب القناة والبدء بعمليّات الإنقاذ
 
-![](/assets/investigations/Talbiseh/image27.png)
+![](/assets/investigations/Talbiseh/image1.png)
 
 بعد ساعات قليلة من الفيديو الأول؛ نشرت القناة نفسها [فيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpPfe3S5vvMc&sa=D&ust=1539189669554000) يُظهر عمليات الإنقاذ، آثار الدمار ووقوع ضحايا بسبب الغارة
 
 نشرت صفحة تجمّع ثوّار سوريا في 30 أيلول\\سبتمبر 2015 [فيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D66G9nXb1oCA&sa=D&ust=1539189669555000) للحظات الأولى من الغارات التي شنّها الطيران الحربي الروسي بحسب الصفحة على أحياء المدينة.
 
-![](/assets/investigations/Talbiseh/image1.png)
+![](/assets/investigations/Talbiseh/image12.png)
 
 صورة لموقع الغارة ونلاحظ برج المياه على يمين الصورة
 
@@ -28,7 +28,7 @@
 
 .
 
-![](/assets/investigations/Talbiseh/image10.png)
+![](/assets/investigations/Talbiseh/image13.png)
 
 موقع الغارة في مدينة تلبيسة، ونشاهد مجدّداً برج المياه نفسه في الفيديو
 
@@ -36,7 +36,7 @@
 
 لقطة ثانية من الفيديو نفسه عند الاقتراب من موقع تنفيذ الغارة ويظهر برج المياه القريب من الموقع ويظهر الجامع الثاني في الصورة
 
-![](/assets/investigations/Talbiseh/image15.png)
+![](/assets/investigations/Talbiseh/image18.png)
 
 لقطة أوضح للمنطقة المستهدفة بالغارات
 
@@ -55,91 +55,91 @@
 
 كما نشر المركز أسماء الضحايا الثمانية عشر وصور بعضهم.
 
-![](/assets/investigations/Talbiseh/image24.png)
+![](/assets/investigations/Talbiseh/image21.png)
 
 كذلك نشرت شبكة تلبيسة مباشر في 30 أيلول 2015 مقطع [فيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlQNhP6G0u7s&sa=D&ust=1539189669559000)  للحظات الأولى للغارات الروسيّة على مدينة تلبيسة حيث تظهر أمام موقع الإنفجار مئذنة جامع تبيّن لدى الفريق البحثي أنّها تعود لجامع الإيمان والرحمة شرقي المدينة.
 
-![](/assets/investigations/Talbiseh/image8.png)
+![](/assets/investigations/Talbiseh/image11.png)
 
 لقطة من الفيديو لمكان الغارة من زاوية أخرى وتظهر مئذنة جامع الإيمان والرحمة وتبدو من خلفها مئذنة الجامع الثاني
 
-![](/assets/investigations/Talbiseh/image5.png)
+![](/assets/investigations/Talbiseh/image36.png)
 
 صورة قديمة لجامع الإيمان والرحمة شرقي مدينة تلبيسة سابقة لتاريخ الغارة \- المصدر: [Google maps](https://www.google.com/url?q=https://www.google.com.tr/search?rlz%3D1C1AZAA_enTR805TR805%26biw%3D639%26bih%3D574%26ei%3D6FSVW_j6JK3orgSplpagCw%26q%3D%25D8%25AA%25D9%2584%25D8%25A8%25D9%258A%25D8%25B3%25D8%25A9%2520%25D8%25AC%25D8%25A7%25D9%2585%25D8%25B9%26oq%3D%25D8%25AA%25D9%2584%25D8%25A8%25D9%258A%25D8%25B3%25D8%25A9%2B%25D8%25AC%25D8%25A7%25D9%2585%25D8%25B9%26gs_l%3Dpsy-ab.3...10828.10828.0.10972.1.1.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..1.0.0....0.lLr6sdxskwQ%26npsic%3D0%26rflfq%3D1%26rlha%3D0%26rllag%3D34843368,36732269,357%26tbm%3Dlcl%26rldimm%3D8823122674889811743%26ved%3D2ahUKEwjgrq78ta7dAhWDlYsKHdX3CecQvS4wAXoECAMQHg%26rldoc%3D1%26tbs%3Dlrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:1%23rlfi%3Dhd:;si:8823122674889811743;mv:!3m12!1m3!1d1688.4200339202932!2d36.73226955!3d34.843368399999996!2m3!1f0!2f0!3f0!3m2!1i180!2i99!4f13.1;tbs:lrf:!2m1!1e2!2m1!1e16!3sIAE,lf:1,lf_ui:1&sa=D&ust=1539189669561000)
 
-![](/assets/investigations/Talbiseh/image23.jpg)
+![](/assets/investigations/Talbiseh/image6.jpg)
 
-![](/assets/investigations/Talbiseh/image3.jpg)
+![](/assets/investigations/Talbiseh/image31.jpg)
 
 [موقع](https://www.google.com/url?q=https://www.google.com.tr/maps/place/Mosque%2Bof%2Bfaith%2Band%2Bcompassion/@34.8444887,36.7354377,82m/data%3D!3m1!1e3!4m12!1m6!3m5!1s0x1523731f044c0c27:0x7a7207536e80671f!2sMosque%2Bof%2Bfaith%2Band%2Bcompassion!8m2!3d34.8449096!4d36.73571!3m4!1s0x1523731f044c0c27:0x7a7207536e80671f!8m2!3d34.8449096!4d36.73571&sa=D&ust=1539189669562000) جامع الإيمان والرحمة شرقي تلبيسة
 
-![](/assets/investigations/Talbiseh/image25.png)
+![](/assets/investigations/Talbiseh/image4.png)
 
 صورة لقلعة تلبيسة حيث يمكن رؤية برج المياه الظاهر في عدة فيديوهات للغارة، إضافة إلى مئذنة الجامع الثاني، ويبدو أن الصورة قد التٌقطت من موقعٍ جنوب شرقيّ القلعة - [المصدر: خرائط غوغل](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.843604,36.7278948,981m/data%3D!3m1!1e3&sa=D&ust=1539189669562000)
 
-![](/assets/investigations/Talbiseh/image28.png)
+![](/assets/investigations/Talbiseh/image23.png)
 
 صورة من الأقمار الصناعيّة لقلعة تلبيسة
 
-![](/assets/investigations/Talbiseh/image19.png)
+![](/assets/investigations/Talbiseh/image9.png)
 
 صورة من الأقمار الصناعيّة لقلعة تلبيسة يظهر فيها [برج المياه](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000) بوضوح، وهو البرج نفسه الذي يظهر في عدة فيديوهات للغارة
 
-![](/assets/investigations/Talbiseh/image2.jpg)
+![](/assets/investigations/Talbiseh/image8.jpg)
 
 صورة من الأقمار الصناعيّة تبيّن مواقع برج المياه والجامع الثاني في الجنوب الشرقي، والمسجد الثالث الذي ليس له مئذنة في الشمال الشرقي.
 
 [موقع](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.8448281,36.7323594,103m/data%3D!3m1!1e3&sa=D&ust=1539189669564000) الجامع الثاني.
 
-![](/assets/investigations/Talbiseh/image29.png)
+![](/assets/investigations/Talbiseh/image19.png)
 
 صورة لمئذنة الجامع الثاني وتظهر الأضرار التي لحقت بها \- المصدر: [تقرير](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Do233wvp_3AA&sa=D&ust=1539189669564000) راديو الكل الذي نشر بعد سنة من الحادثة
 
-![](/assets/investigations/Talbiseh/image16.jpg)
+![](/assets/investigations/Talbiseh/image33.jpg)
 
 لقطة من [فيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO4cP-FUFQrY&sa=D&ust=1539189669565000) المكتب الإعلامي \- تجمّع سوريا حمص الريف الشمالي وتظهر  قلعة تلبيسة على اليمين يعلوها برج الماء، وإلى اليسار يظهر بوضوح جامع ثالث ليس له مئذنة  ونستطيع تقدير قرب مكان الاستهداف من المعلمين بحسب حركة المصوّر والدخان المتصاعد.
 
-![](/assets/investigations/Talbiseh/image12.png)
+![](/assets/investigations/Talbiseh/image10.png)
 
 في الفيديو نفسه تظهر للحظات مئذنة  الجامع الثاني والتي توضح قرب مكان الغارة من الجامع، وبمقارنة هذه الصور مع نقاط العلّام نستطيع تحديد مسار المصوّر بشكل دقيق
 
-![](/assets/investigations/Talbiseh/image36.png)
+![](/assets/investigations/Talbiseh/image28.png)
 
 يظهر سور مدرسة إلى يسار المصور قريبًا من مكان الاستهداف
 
-![](/assets/investigations/Talbiseh/image34.png)
+![](/assets/investigations/Talbiseh/image30.png)
 
 ويظهر بعده بناء المدرسة على شكل حرف L مدمّر جزئيًا
 
-![](/assets/investigations/Talbiseh/image22.jpg)
+![](/assets/investigations/Talbiseh/image20.jpg)
 
 المدرسة المدمّرة على شكل حرف L  \- غوغل إيرث
 
-![](/assets/investigations/Talbiseh/image2.jpg)
+![](/assets/investigations/Talbiseh/image8.jpg)
 
 بعد مطابقة الفيديو مع صور الأقمار الصناعيّة ومحاولة ربطها تمكّن فريق البحث في الأرشيف السوري من تحديد موقع المدرسة المدمّرة جزئيًا ذات البناء على شكل حرف L حيث يقع الجامع الثاني، والذي تظهر مئذنته بوضوح، إلى الجنوب الشرقي منها؛ وبرج المياه إلى الجنوب الغربي منها
 
-![](/assets/investigations/Talbiseh/image21.jpg)
+![](/assets/investigations/Talbiseh/image29.jpg)
 
 صورة توضّح مسار المصوّر من [فيديو](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO4cP-FUFQrY&sa=D&ust=1539189669567000) تجمّع ثوّار سوريا
 
-![](/assets/investigations/Talbiseh/image31.png)
+![](/assets/investigations/Talbiseh/image25.png)
 
 يظهر أنّ مكان الاستهداف يقع في نفس الشارع الذي تمّ تحديده، ويقع بالمقابل له سفح جبلي صغير وهو يتبع لقلعة تلبيسة
 
 بعد تحديد مسار المصوّر، ونقاط العلّام من جامع الرحمة والإيمان، والجامع الثاني ذو المئذنة، والجامع الثالث الذي ليست له مئذنة، إضافة إلى برج المياه الذي يعلو قلعة تلبيسة نستطيع [تحديد المكان المستهدف بدقّة](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.8448492,36.7315971,103m/data%3D!3m1!1e3&sa=D&ust=1539189669568000) وهو:
 
-![](/assets/investigations/Talbiseh/image20.jpg)
+![](/assets/investigations/Talbiseh/image2.jpg)
 
 مكان الغارة الجويّة على مدينة تلبيسة
 
-![](/assets/investigations/Talbiseh/image30.jpg)
+![](/assets/investigations/Talbiseh/image16.jpg)
 
 صورة من الأقمار الصناعيّة تحوي جميع نقاط العلام المذكورة أعلاه
 
-![](/assets/investigations/Talbiseh/image14.png)
+![](/assets/investigations/Talbiseh/image5.png)
 
-![](/assets/investigations/Talbiseh/image35.png)
+![](/assets/investigations/Talbiseh/image3.png)
 
 صورتين من الأقمار الصناعيّة
 
@@ -149,7 +149,8 @@
 
 تبيّن مدى الضرر الحاصل في الموقع المستهدف والأبنية الشماليّة والمدرسة على امتداد الشارع نفسه.
 
-![](/assets/investigations/Talbiseh/image6.png)![](/assets/investigations/Talbiseh/image26.png)
+![](/assets/investigations/Talbiseh/image15.png)
+![](/assets/investigations/Talbiseh/image22.png)
 
 لاحقاً وبعد الغارة، تحدّثت عدّة مصادرعن استهداف الطيران الحربي لنفس موقع الغارة الأولى مرّة ثانية أثناء عمليّات الإنقاذ، حيث نشر العديد من الناشطين والشبكات الإخباريّة صوراً وأخباراً عن ضحايا وجرحى مدنيّين وقعوا جرّاء الغارات على مدينة تلبيسة، وكان القصف الثاني عن طريق الطيران الروسي أيضاً بحسب بعض الشبكات الإعلاميّة.
 
@@ -167,7 +168,7 @@
 
 نشرت [وكالة ستيب الإخباريّة](https://www.google.com/url?q=https://www.facebook.com/StepNewsAgency/posts/672942936174325?__tn__%3D-R&sa=D&ust=1539189669573000) القائمة الأوّليّة لضحايا الغارات الجويّة في تلبيسة
 
-![](/assets/investigations/Talbiseh/image18.png)
+![](/assets/investigations/Talbiseh/image27.png)
 
 المصدر: [وكالة ستيب الإخباريّة](https://www.google.com/url?q=http://archive.fo/2gc6x&sa=D&ust=1539189669573000)
 
@@ -177,13 +178,13 @@
 
 وذكرت وكالة الأناضول أنّ هذه الغارات أتت بعد ساعات من تفويض المجلس الاتحادي الروسي للرئيس بوتين باستخدام القوّة في سوريا.
 
-![](/assets/investigations/Talbiseh/image4.png)
+![](/assets/investigations/Talbiseh/image24.png)
 
 [منشور](https://www.google.com/url?q=http://archive.fo/N8iLZ&sa=D&ust=1539189669575000) وكالة الأناضول للأنباء
 
 وبحسب [موقع وزارة الدفاع الروسيّة](https://www.google.com/url?q=https://structure.mil.ru/mission/fight_against_terrorism.htm&sa=D&ust=1539189669575000) فإنّ الوزارة قد بدأت عمليّة جويّة اعتباراً من تاريخ 30 أيلول 2015 وذلك لقتال ما دعوه بمجموعات إرهابيّة عالميّة في الجمهوريّة العربيّة السوريّة
 
-![](/assets/investigations/Talbiseh/image11.png)
+![](/assets/investigations/Talbiseh/image32.png)
 
 كما نشرت العديد من وسائل الإعلام ومنها  [قناة الميادين](https://www.google.com/url?q=http://www.almayadeen.net/news/politics/620487/%25D8%25B1%25D9%2588%25D8%25B3%25D9%258A%25D8%25A7--%25D9%2585%25D8%25AC%25D9%2584%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D8%25AD%25D8%25A7%25D8%25AF-%25D9%258A%25D8%25B5%25D8%25A7%25D8%25AF%25D9%2582-%25D8%25B9%25D9%2584%25D9%2589-%25D8%25AA%25D9%2581%25D9%2588%25D9%258A%25D8%25B6-%25D8%25A8%25D9%2588%25D8%25AA%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A7%25D8%25B3%25D8%25AA%25D8%25AE%25D8%25AF%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D9%2582%25D9%2588%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584&sa=D&ust=1539189669577000)، و[روسيا اليوم](https://www.google.com/url?q=https://russian.rt.com/article/120198%23ixzz3nElK4vK8&sa=D&ust=1539189669577000)  أنّ المجلس الاتحاديّ الروسيّ صادق على تفويض الرئيس الروسي بوتين باستخدام القوّات الروسيّة (ويقصد هنا بالقوّات الجويّة فقط) خارج البلاد في صباح 30 أيلول\\سبتمبر 2015، وذلك قبل الغارة على مدينة تلبيسة ومحيطها بعدّة ساعات، حيث أشار مدير الديوان الرئاسي سيرغي إيفانوف إلى أنّ القرار يتعلق باستخدام القوّة العسكريّة الجويّة فقط وليس القوّات البريّة.
 
