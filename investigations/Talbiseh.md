@@ -80,7 +80,7 @@ Satellite image of Talbiseh castle
 
 ![](/assets/investigations/Talbiseh/image9.png)
 
-Satellite image of Talbiseh castle showing the water tower clearly, which is the same tower that appeared in several videos of the air raid
+Satellite image of Talbiseh castle showing [the water tower](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000)  clearly, which is the same tower that appeared in several videos of the air raid
 
 ![](/assets/investigations/Talbiseh/image8.jpg)
 
