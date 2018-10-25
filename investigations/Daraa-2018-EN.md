@@ -100,9 +100,7 @@ When matching the photos, we can confirm that the center bombed in 2018 is the s
 
 The matching in the two main entrances, the gate and its color can be noticed.
 
-Geolocating the attacked site
-
-According to the photos published on the Civil Defense Center website and some other sites, the following has been identified through research and scrutiny.
+### Geolocating the attacked site
 
 Al-Jazeera TV published a video on 1 August 2015 [showing a tour of Busra al-Harir town on the highway](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) near a complex of schools followed by the health center. Through this video, [the location of attacked medical center](https://www.google.com/url?q=https://goo.gl/maps/uMzSWTgFf112&sa=D&ust=1540401260493000) on 24/6/2018 was identified.
 
@@ -120,7 +118,7 @@ The medical center
 
 A minaret next to the school and the medical center is shown later
 
-After matching images from the video, the research team in the Syrian Archive was able to geolocate the medical center, the school, and the mosque.
+After matching images published on several pages with Al-Jazeera TV video; the research team in the Syrian Archive was able to geolocate the medical center, the school, and the mosque.
 
 ![](/assets/investigations/Daraa2018/image31.jpg)
 
