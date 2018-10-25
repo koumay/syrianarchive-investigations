@@ -129,8 +129,41 @@ These times coincide with the testimonies of witnesses who said that the first a
 *Satellite images showing the location of Saad bin Mu'adh mosque and the water tower, which located west of Zardana town*
 
 
-![](/assets/investigations/zardana/image20.png)
-*Satellite images of the targeted site on June 7 and June 9, 2018 - Source: Planet*
+![](/assets/investigations/zardana/110.png)
+*Satellite image of the targeted site showing the aftermath of the attack*
+
+![](/assets/investigations/zardana/111.png)
+*3D representation of the targeted site before and after the attack*
+
+![](/assets/investigations/zardana/112.png)
+*3D representation of the targeted buildings, before the attack*
+
+![](/assets/investigations/zardana/113.png)
+*3D representation of the targeted buildings, after the attack*
+
+![](/assets/investigations/zardana/114.png)
+
+![](/assets/investigations/zardana/115.png)
+
+![](/assets/investigations/zardana/116.png)
+
+![](/assets/investigations/zardana/117.png)
+
+![](/assets/investigations/zardana/118.png)
+
+![](/assets/investigations/zardana/119.png)
+
+![](/assets/investigations/zardana/image19.jpg)
+*photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
+
+![](/assets/investigations/zardana/120.png)
+*3D representation of impact site showing the targeted buildings, before the attack*
+
+
+![](/assets/investigations/zardana/121.png)
+*3D representation of impact site showing the targeted buildings after the attack*
+
+
 
 ## Flight Data
 

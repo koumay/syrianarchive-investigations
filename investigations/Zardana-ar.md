@@ -124,8 +124,42 @@ image: /assets/investigations/hrc_cover.png
 ![](/assets/investigations/zardana/image2.jpg)
 *صور من الأقمار الصناعيّة تبيّن موقع جامع سعد بن معاذ وبرج الماء الذي يقع غربي بلدة زردنا*
 
-![](/assets/investigations/zardana/image20.png)
-*صور من الأقمار الصناعية لموقع الاستهداف في تاريخ 7 حزيران\يونيو و9 حزيران\يونيو 2018 - المصدر بلانت*
+![](/assets/investigations/zardana/110.png)
+*صورة من الأقمار الصناعية لموقع الاستهداف التُقطت بعد الاستهداف تبيّن حجم الدمار*
+
+![](/assets/investigations/zardana/111.png)
+*تمثيل ثلاثي الأبعاد للموقع المستهدف قبل وبعد الهجوم*
+
+![](/assets/investigations/zardana/112.png)
+*لقطة ثلاثية الأبعاد ما قبل الغارة للأبنية التي تضرّرت بشكل كامل أو جزئي جرّاء الهجوم*
+
+
+![](/assets/investigations/zardana/113.png)
+*لقطة ثلاثية الأبعاد ما بعد الغارة للأبنية التي تضرّرت بشكل كامل أو جزئي جرّاء الهجوم*
+
+
+![](/assets/investigations/zardana/114.png)
+
+![](/assets/investigations/zardana/115.png)
+
+![](/assets/investigations/zardana/116.png)
+
+![](/assets/investigations/zardana/117.png)
+
+![](/assets/investigations/zardana/118.png)
+
+![](/assets/investigations/zardana/119.png)
+
+![](/assets/investigations/zardana/image19.jpg)
+*صورة لمكان الغارة تمّ التقاطها من مئذنة جامع سعد بن معاذ \- المصدر صفحة [زردنا الحدث](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538416032159000)*
+
+![](/assets/investigations/zardana/120.png)
+*إعادة تمثيل ثلاثي الأبعاد لصورة مكان الغارة السابقة تبيّن وضع الأبنية قبل الغارة*
+
+![](/assets/investigations/zardana/121.png)
+*إعادة تمثيل ثلاثي الأبعاد لصورة مكان الغارة السابقة تبيّن وضع الأبنية بعد الغارة*
+
+
 
 ## بيانات الطيران
 
