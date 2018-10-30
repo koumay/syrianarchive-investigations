@@ -53,6 +53,8 @@ DigitalGlobe satellite imagery from documenting before and after the attack  can
 
 Syrian Archive has written a more extensive report on this attack, available within the [Medical Facilities Under Fire report](https://syrianarchive.org/en/investigations/second-medical-facilities-under-fire/orient.html )
 
+---
+
 ### Airstrikes against public markets
 
 The Syrian Archive was able to identify 27 unique incidents in which markets were attacked based on an analysis of 64  videos. All videos are available on the Syrian Archive website and a summary of relevant information (including metadata), is included in every incident.
@@ -74,6 +76,8 @@ DigitalGlobe before and after satellite imagery of the market can be seen below.
 
 Syrian Archive has written a more extensive report on this attack, available within the [investigations section of its website](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html)
 
+---
+
 ### Airstrikes against water sources
 The Syrian Archive was able to identify 6 unique incidents in which water were attacked based on an analysis of 5 videos. All videos are available on the Syrian Archive website and a summary of relevant information (including metadata), is included in every incident.
 
@@ -88,6 +92,8 @@ However, this “oil refinery” was actually a water treatment facility, which,
 Russia Today published a video on 15 July 2017 in Arabic about the renovation operations of Khafsa water treatment facility.
 
 Full investigation [can be seen here](https://www.bellingcat.com/news/mena/2015/12/11/syrias-bombed-water-infrastructure/)
+
+---
 
 ### Airstrikes against mosques
 
