@@ -1,6 +1,6 @@
 ---
 layout: "collections/chemicalcontent.html"
-title: Errors and Corrections
+title: Background
 date: 2018-04-24T00:05:18.055Z
 desc: ""
 image: /assets/about/about2.jpg
@@ -29,12 +29,3 @@ The Russian Ministry of Defence published a video on their official YouTube chan
 The video also mentioned Russian aircraft used in carrying out its military activities. This includes a total of 34 planes (12 Su-24, 10 Su 25CM, 4 Su 30CM, 4 Su-34, 2 Su-25UB, 1 An-30,1 Il-20), 16 helicopters (12 Mi 24p, 4 Mi-8MTSh) used, as well as other types of weapons and vehicles. It also mentioned 1902 humanitarian convoys were supported providing food and medication by the Russian Ministry of Defence.
 
 The video did not mention anything about civilian harm as a result of attacks carried out by the Russian air force in Syria. As such, Syrian Archive is highlighting civilian harm as a result of alleged Russian airstrikes in this database and report.
-=======
----
-layout: "collections/chemicalcontent.html"
-title: Background
-date: 2018-04-24T00:05:18.055Z
-desc: ""
-image: /assets/about/about2.jpg
----
->>>>>>> 237c9b390938d413a2e4b6fba43daf00b641e010
