@@ -29,6 +29,9 @@ Below is a table that summarises the number of incidents and videos per category
 | Attacks against cultural property                          | 3                   | 4                |
 
 
+
+---
+
 ## Highlighted incidents
 
 ### Airstrikes against medical facilities
