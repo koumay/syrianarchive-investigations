@@ -8,3 +8,5 @@ image: /assets/about/about2.jpg
 
 
 The videos in this database have been collected by groups and individuals living or working in Syria. This collection would not be possible without those documenting and reporting on war crimes and crimes against humanity. Currently in this database there are 116 different sources, our thanks to each of them.
+Special thanks to everyone who helped in publishing this collection.
+Nasser Abdullah, Mohammad Mhanna, Lilas Al Boni, Guevara Nabi, Reem Najri, Nawar Mohra, Gretel, Gabi 
