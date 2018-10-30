@@ -18,5 +18,4 @@ Unlike the Syrian government, Russia has signed up to the Convention on Conventi
 
 The Syrian Archive will soon be releasing a verified video database concerning the use of illegal munitions by Syrian and Russian forces. Those videos were discovered manually by our researchers as well as automatically using VFRAME as shown below:
 
-<iframe src="https://player.vimeo.com/video/297847125" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/297847125">video_demos_oct28</a> from <a href="https://vimeo.com/vframe">VFRAME</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/297847125" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></p>
