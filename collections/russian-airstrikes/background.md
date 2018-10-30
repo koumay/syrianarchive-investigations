@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+---
+layout: "collections/chemicalcontent.html"
+title: Errors and Corrections
+date: 2018-04-24T00:05:18.055Z
+desc: ""
+image: /assets/about/about2.jpg
+---
+
 Russian involvement in Syria
 
 While Russia has been supporting the Syrian government since 2011, including the use of its veto power at the security council several times until 2018, their official involvement in military activities began in 2015. On 30 September 2015, the Russian Federal Council authorised President Vladimir Putin to use force in Syria announcing the [beginning of Russian military operations in Syrian territories](https://www.youtube.com/watch?v=qblmOvkV9KM).
