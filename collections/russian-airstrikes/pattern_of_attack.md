@@ -93,12 +93,13 @@ The Syrian Archive was able to identify 27 unique incidents in which mosques wer
 #### Omar bin Al Khattab mosque
 On October 1st 2015 at 12:00 pm Damascus time, Omar bin Al Khattab mosque was targeted with an alleged Russian airstrike as claimed by media and humanitarian groups reports began appearing online. The Russian Ministry of Defence published a satellite image on their official Facebook page saying that the claims were another “hoax”.  
 
+![Russian MoD satellite imagery](/assets/russian/al-farooq-omar-bin-al-khattab-mosque.png)
 
 The airstrike resulted of structural damage to the mosque as well as 1 killed and 8 injured people.
 
 Google earth satellite imagery documenting the mosque before and after the attack can be seen below.
 
-
+![DigitalGlobe before and after satellite imagery](/assets/russian/al-farooq-omar-bin-al-khattab-mosque-satellite.png)
 
 Full investigation can be seen here:
 https://syrianarchive.org/en/investigations/Fact-Checking-Russias-Claim-That-It-Didnt-Bomb-A-Mosque.html  
