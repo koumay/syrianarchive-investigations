@@ -1,3 +1,11 @@
+---
+layout: "collections/chemicalcontent.html"
+title: Methodology
+date: 2018-04-24T00:05:18.055Z
+desc: ""
+image: /assets/about/about2.jpg
+---
+
 ## Methodology
 
 Syrian Archive created a list of incidents based off publicly available research by the United Nations Independent International Commission of Inquiry on the Syrian Arab Republic, reports from many Syrian and International civil society organisations as well as journalists, activists, lawyers and individuals claiming that the attacks were conducted by the Russian air force. We have used flight observation data of aircrafts flying from Hmeymim airbase into the impact sites to corroborate with the mentioned claims. We were not able to do this corroboration for all incidents in this database. We are releasing this database online to allow for collaborative verification and corroboration for each incident that hasn’t been fully investigated.

@@ -1,3 +1,11 @@
+---
+layout: "collections/chemicalcontent.html"
+title: The Data
+date: 2018-04-24T00:05:18.055Z
+desc: ""
+image: /assets/about/about2.jpg
+---
+
 ## The Data
 This database contains **40.7 GB** of documentation of **1418 attacks in Syria** allegedly as a result of Russian airstrikes during the 2015-2018 period. This data comes from 116 sources made up of individual citizen journalists, local and international media groups, as well as NGOs and civil society organisations. It is important to note that many if not all of these sources are partisan, and thus require caution with regards to their claims.
 

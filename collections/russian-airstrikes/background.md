@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Russian involvement in Syria
 
 While Russia has been supporting the Syrian government since 2011, including the use of its veto power at the security council several times until 2018, their official involvement in military activities began in 2015. On 30 September 2015, the Russian Federal Council authorised President Vladimir Putin to use force in Syria announcing the [beginning of Russian military operations in Syrian territories](https://www.youtube.com/watch?v=qblmOvkV9KM).
@@ -21,3 +22,12 @@ The Russian Ministry of Defence published a video on their official YouTube chan
 The video also mentioned Russian aircraft used in carrying out its military activities. This includes a total of 34 planes (12 Su-24, 10 Su 25CM, 4 Su 30CM, 4 Su-34, 2 Su-25UB, 1 An-30,1 Il-20), 16 helicopters (12 Mi 24p, 4 Mi-8MTSh) used, as well as other types of weapons and vehicles. It also mentioned 1902 humanitarian convoys were supported providing food and medication by the Russian Ministry of Defence.
 
 The video did not mention anything about civilian harm as a result of attacks carried out by the Russian air force in Syria. As such, Syrian Archive is highlighting civilian harm as a result of alleged Russian airstrikes in this database and report.
+=======
+---
+layout: "collections/chemicalcontent.html"
+title: Background
+date: 2018-04-24T00:05:18.055Z
+desc: ""
+image: /assets/about/about2.jpg
+---
+>>>>>>> 237c9b390938d413a2e4b6fba43daf00b641e010
