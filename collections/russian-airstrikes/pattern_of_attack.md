@@ -60,6 +60,7 @@ Syrian Archive has written a more extensive report on this attack, available wit
 The Syrian Archive was able to identify 27 unique incidents in which markets were attacked based on an analysis of 64  videos. All videos are available on the Syrian Archive website and a summary of relevant information (including metadata), is included in every incident.
 
 #### Atarib market
+
 On 13 November 2017 between 14:07 and 14:11 Damascus time, the Atarib market and police station were targeted by three airstrikes resulting in the death of 69 civilians, significant damage to several buildings on the Atarib market street, as well as damage  to the Free Syrian police building.
 
 ![Atarib market](/assets/russian/Atarib-market.png)
@@ -77,13 +78,14 @@ Syrian Archive has written a more extensive report on this attack, available wit
 ---
 
 ### Airstrikes against water sources
+
 The Syrian Archive was able to identify 6 unique incidents in which water were attacked based on an analysis of 5 videos. All videos are available on the Syrian Archive website and a summary of relevant information (including metadata), is included in every incident.
 
-The Russian Ministry of Defence released a video on their official YouTube channel with a title “Airstrike against oil refinery near Khafsa Kabir”.
+The Russian Ministry of Defence released a [video](https://www.youtube.com/watch?v=vKbA_g-4zEE) on their official YouTube channel with a title “Airstrike against oil refinery near Khafsa Kabir”.
 
 ![Russian MoD video](/assets/russian/Khafsa-Kabir-ru-youtube.png)
 
-However, this “oil refinery” was actually a water treatment facility, which, according to the United Nations Children’s Fund (UNICEF) representative in Syria, Hanaa Singer,  “produced an average of 18 million litres of water daily.” The structure shown in the airstrike video appears identical to Google Earth satellite imagery as shown below:
+However, this “oil refinery” was actually a water treatment facility, which, according to the United Nations Children’s Fund (UNICEF) representative in Syria, Hanaa Singer,  “produced an average of 18 million liters of water daily.” The structure shown in the airstrike video appears identical to Google Earth satellite imagery as shown below:
 
 ![Khafsa satellite imagery](/assets/russian/Khafsa-satellite.png)
 
@@ -98,7 +100,8 @@ Full investigation [can be seen here](https://www.bellingcat.com/news/mena/2015/
 The Syrian Archive was able to identify 27 unique incidents in which mosques were attacked based on an analysis of 45 videos. All videos are available on the Syrian Archive website and a summary of relevant information (including metadata), is included in every incident.
 
 #### Omar bin Al Khattab mosque
-On October 1st 2015 at 12:00 pm Damascus time, Omar bin Al Khattab mosque was targeted with an alleged Russian airstrike as claimed by media and humanitarian groups reports began appearing online. The Russian Ministry of Defence published a satellite image on their official Facebook page saying that the claims were another “hoax”.  
+
+On October 1st 2015 at 12:00 pm Damascus time, Omar bin Al Khattab mosque was targeted with an alleged Russian airstrike as claimed by media and humanitarian groups reports began appearing online. The Russian Ministry of Defence [published a satellite image](https://www.facebook.com/permalink.php?story_fbid=1674425756133507&id=1492252324350852) on their official Facebook page saying that the claims were another “hoax”.  
 
 ![Russian MoD satellite imagery](/assets/russian/al-farooq-omar-bin-al-khattab-mosque.png)
 
@@ -108,5 +111,4 @@ Google earth satellite imagery documenting the mosque before and after the attac
 
 ![DigitalGlobe before and after satellite imagery](/assets/russian/al-farooq-omar-bin-al-khattab-mosque-satellite.png)
 
-Full investigation can be seen here:
-https://syrianarchive.org/en/investigations/Fact-Checking-Russias-Claim-That-It-Didnt-Bomb-A-Mosque.html  
+Full investigation [can be seen here](https://syrianarchive.org/en/investigations/Fact-Checking-Russias-Claim-That-It-Didnt-Bomb-A-Mosque.html)  

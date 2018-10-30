@@ -3,11 +3,7 @@ layout: "collections/russiancontent.html"
 title: About the Data
 date: 2018-10-31T08:05:18.055Z
 desc: ""
-<<<<<<< HEAD
-image: /assets/russian/a16.jpeg
-=======
 image: /assets/russian/civilian documentation.PNG
->>>>>>> a70df942151637d270cde9bc9ec838dee07a7807
 ---
 
 ## The Data
