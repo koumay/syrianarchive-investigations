@@ -5,18 +5,20 @@ date: 2018-10-31T00:05:18.055Z
 desc: Summary of findings, about, and methods
 image: /assets/russian/Atarib-market.png
 ---
-# Civilian Harm as a Result of Alleged Russian Airstrikes
+### Civilian Harm as a Result of Alleged Russian Airstrikes
 
 
 Several years of monitoring alleged Russian airstrikes in Syria reveals a pattern of indiscriminate targeting of civilians and civilian infrastructure. In an analysis of **3303 videos** documenting alleged Russian airstrikes from **116 sources** between **30 September 2015 and 9 September 2018, Syrian Archive has identified **1418 incidents** in which Russian forces allegedly targeted civilians or civilian infrastructure of little to no military value. Content included in this database can be viewed, analysed and downloaded.
 
-Below is a timeline of these incidents:
+A timeline of weekly alleged Russian airstrikes on Syrian civilians and civilian infrastructure is provided below:
 
 <div class='tableauPlaceholder' id='viz1540938007566' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AllegedRussianairstrikes2015-2018&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AllegedRussianairstrikes2015-2018&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AllegedRussianairstrikes2015-2018&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1540938007566');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
+This timeline shows since Russian involvement, alleged airstrikes have occurred consistently. During the September 2015 to February 2016 period, Russian airstrikes on civilian infrastructure were quite frequent. This was followed by a period between March 2016 and March 2017 in which attacks occurred on a less regular basis. In 2017, alleged Russian airstrikes increased and peaked during the April and September periods. During 2018, a alleged Russian airstrikes peaked during the first week of January and February.
+
 While data presented in this collection does not include all incidents of alleged Russian airstrikes on civilians between 2015 and 2018, it presents all incidents for which visual content was available and verifiable as of the date of publication. Syrian Archive hopes this will support reporting, advocacy, research, and accountability efforts.
 
-## These database includes verified videos that show:
+#### These databases includes verified videos that show:
 
 - Airstrikes published by the Russian Ministry of Defence (MoD)
 - Casualties as a result of alleged Russian attacks including children and women
@@ -39,7 +41,7 @@ This open source database is fully searchable and queryable by date, location, k
 ---
 
 
-## Added value
+#### Added value
 There have been several efforts by various parties to document atrocities and human rights violations committed by Russian forces in Syria. These include efforts by the Commission of Inquiry on the Syrian Arab Republic and by many human rights monitoring organisations (e.g., Syrian Network for Human Rights, Violations Documentation Center, Syrian Observatory for Human Rights, Syrian American Medical Society, Syrians for Truth and Justice, and many others).
 
 The added value of the publication of this collection is that every piece of data is preserved, verified, standardised, and clustered into incidents.
@@ -50,4 +52,4 @@ It is possible to search the database using keywords. This means a user can sear
 
 ---
 
-Syrian Archive is a civil society group that has been documenting the Syrian conflict since 2014. To date over 2.5 million units of digital content have been located and preserved. Like many monitoring organisations, Syrian Archive is unable to go into Syria to investigate these attacks. Relying on a network of journalists and video makers it is essential to monitor, document and report on the crimes in Syria and preserve these pieces of evidence for accountability and justice initiatives.
+Syrian Archive is a civil society group that has been documenting the Syrian conflict since 2014. To date over 3.3 million units of digital content have been located and preserved. Like many monitoring organisations, Syrian Archive is unable to go into Syria to investigate these attacks. Relying on a network of journalists and video makers it is essential to monitor, document and report on the crimes in Syria and preserve these pieces of evidence for accountability and justice initiatives.

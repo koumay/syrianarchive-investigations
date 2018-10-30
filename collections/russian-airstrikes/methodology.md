@@ -1,9 +1,9 @@
 ---
 layout: "collections/russiancontent.html"
 title: Methodology
-date: 2018-10-31T00:05:18.055Z
+date: 2018-10-31T07:05:18.055Z
 desc: ""
-image: /assets/about/about2.jpg
+image: /assets/technology/technologyyy.jpg
 ---
 
 ## Methodology

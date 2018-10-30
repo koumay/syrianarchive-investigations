@@ -1,7 +1,7 @@
 ---
 layout: "collections/russiancontent.html"
 title: Errors and Corrections
-date: 2018-10-31T00:05:18.055Z
+date: 2018-10-31T06:05:18.055Z
 desc: ""
 image: /assets/logos/loogback.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "collections/russiancontent.html"
 title: Munitions Identified
-date: 2018-10-31T00:05:18.055Z
+date: 2018-10-31T09:05:18.055Z
 desc: ""
 image: /assets/russian/munition-identified.PNG
 ---

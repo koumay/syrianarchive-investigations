@@ -1,7 +1,7 @@
 ---
 layout: "collections/russiancontent.html"
 title: Pattern of Attack
-date: 2018-10-31T00:05:18.055Z
+date: 2018-10-31T10:05:18.055Z
 desc: ""
 image: /assets/russian/patternofattack.PNG
 ---
