@@ -1,6 +1,6 @@
 ---
-layout: "contentwithsiblings.html"
-title: Database Collections
+layout: "investigationshome.html"
+title: Incident Collections
 date: 2018-04-24T00:05:18.055Z
 desc: Syrian Archive collections of incidents
 image: /assets/chemical/chemicalheader.jpg
