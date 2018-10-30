@@ -11,6 +11,12 @@ Syrian Archive was able to identify a total of 205 unique incidents (433 videos)
 
 These are not all incidents against specifically protected persons and objects occurred between 2015 and 2018 and include only incidents for which Syrian Archive has verified visual documentation.
 
+A timeline of weekly alleged Russian airstrikes on Syrian civilians and civilian infrastructure is provided below:
+
+<iframe src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/AllegedRussianairstrikes2015-2018/Sheet1?publish=yes" width="800" height="600"></iframe>
+
+This timeline shows since Russian involvement, alleged airstrikes have occurred consistently. During the September 2015 to February 2016 period, Russian airstrikes on civilian infrastructure were quite frequent. This was followed by a period between March 2016 and March 2017 in which attacks occurred on a less regular basis. In 2017, alleged Russian airstrikes increased and peaked during the April and September periods. During 2018, a alleged Russian airstrikes peaked during the first week of January and February.
+
 Below is a table that summarises the number of incidents and videos per category between September 30th 2015 and September 09th 2018.
 
 | *Category*                                                   | *Number of incidents* | *Number of videos* |

@@ -10,12 +10,6 @@ image: /assets/russian/Atarib-market.png
 
 Several years of monitoring alleged Russian airstrikes in Syria reveals a pattern of indiscriminate targeting of civilians and civilian infrastructure. In an analysis of **3303 videos** documenting alleged Russian airstrikes from **116 sources** between **30 September 2015 and 9 September 2018**, Syrian Archive has identified **1418 incidents** in which Russian forces allegedly targeted civilians or civilian infrastructure of little to no military value. Content included in this database can be viewed, analysed and downloaded.
 
-A timeline of weekly alleged Russian airstrikes on Syrian civilians and civilian infrastructure is provided below:
-
-<iframe src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/AllegedRussianairstrikes2015-2018/Sheet1?publish=yes" width="800" height="600"></iframe>
-
-This timeline shows since Russian involvement, alleged airstrikes have occurred consistently. During the September 2015 to February 2016 period, Russian airstrikes on civilian infrastructure were quite frequent. This was followed by a period between March 2016 and March 2017 in which attacks occurred on a less regular basis. In 2017, alleged Russian airstrikes increased and peaked during the April and September periods. During 2018, a alleged Russian airstrikes peaked during the first week of January and February.
-
 While data presented in this collection does not include all incidents of alleged Russian airstrikes on civilians between 2015 and 2018, it presents all incidents for which visual content was available and verifiable as of the date of publication. Syrian Archive hopes this will support reporting, advocacy, research, and accountability efforts.
 
 #### These databases includes verified videos that show:
