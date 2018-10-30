@@ -1,9 +1,9 @@
 ---
 layout: "collections/russianairstrikesdatabase.html"
-title: Russian Ministry of Defence documentation of  airstrike operations in Syria
+title: Russian Ministry of Defence documentation of airstrike operations in Syria
 date: 2018-04-24T00:05:18.055Z
 desc: "This collection contains videos of Russian airstrikes publicly published on the Russian Ministry of Defence’s official YouTube channel since September 2015. Videos have verified by Bellingcat and other open source investigators (e.g,. Samir). Syrian Archive preserved this documentation, standardised the data, mapped it, and made it searchable. In some cases, Syrian Archive staff linked documentation from the Russian MoD to civilian documentation of alleged attacks on civilian infrastructure."
-image: /assets/chemical/chemicalheader.jpg
+image: /assets/russian/RussianMoDdocumentationofoperation.PNG
 ---
 
 this is just a holder for the react database

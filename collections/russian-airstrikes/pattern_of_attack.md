@@ -3,7 +3,7 @@ layout: "collections/russiancontent.html"
 title: Pattern of Attack
 date: 2018-04-24T00:05:18.055Z
 desc: ""
-image: /assets/about/about2.jpg
+image: /assets/russian/patternofattack.PNG
 ---
 ## Pattern of attacks against specifically protected persons and objects
 

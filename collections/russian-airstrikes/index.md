@@ -34,7 +34,7 @@ This open source database is fully searchable and queryable by date, location, k
 
 ---
 
-## Russian Ministry of Defence documentation of  airstrike operations in Syria
+## Russian Ministry of Defence documentation of airstrike operations in Syria
 
 This collection contains videos of Russian airstrikes publicly published on the Russian Ministry of Defence’s [official YouTube channel](https://www.youtube.com/channel/UCQGqX5Ndpm4snE0NTjyOJnA/videos) since September 2015. Videos have verified by Bellingcat and other open source investigators (e.g,. [Samir](https://twitter.com/obretix)). Syrian Archive preserved this documentation, standardised the data, mapped it, and made it searchable. In some cases, Syrian Archive staff linked documentation from the Russian MoD to civilian documentation of alleged attacks on civilian infrastructure.
 
@@ -47,7 +47,7 @@ This collection contains videos published by individuals including journalists, 
 ## Added value
 There have been several efforts by various parties to document atrocities and human rights violations committed by Russian forces in Syria. These include efforts by the Commission of Inquiry on the Syrian Arab Republic and by many human rights monitoring organisations (e.g., Syrian Network for Human Rights, Violations Documentation Center, Syrian Observatory for Human Rights, Syrian American Medical Society, Syrians for Truth and Justice, and many others).
 
-*The added value of the publication of this collection is that  data in is preserved, verified, standardised, and clustered into incidents.
+*The added value of the publication of this collection is that data in is preserved, verified, standardised, and clustered into incidents.
 
 Additional metadata has been added to the database, making it to be searchable. This is useful for journalists, lawyers and human rights monitors, and investigators for reporting, advocacy and accountability work.*
 
