@@ -3,7 +3,7 @@ layout: "collections/russiancontent.html"
 title: About the Data
 date: 2018-10-31T00:05:18.055Z
 desc: ""
-image: /assets/russian/russian airstrikes 2015 - 2018.png
+image: /assets/russian/a16.jpeg
 ---
 
 ## The Data
