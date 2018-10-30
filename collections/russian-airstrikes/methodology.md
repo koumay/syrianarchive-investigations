@@ -3,7 +3,7 @@ layout: "collections/russiancontent.html"
 title: Methodology
 date: 2018-04-24T00:05:18.055Z
 desc: ""
-image: /assets/russian/methodology.PNG
+image: /assets/about/about2.jpg
 ---
 
 ## Methodology
