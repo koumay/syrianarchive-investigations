@@ -1,7 +1,7 @@
 ---
 layout: "collections/russiancontent.html"
 title: Pattern of Attack
-date: 2018-04-24T00:05:18.055Z
+date: 2018-10-31T00:05:18.055Z
 desc: ""
 image: /assets/russian/patternofattack.PNG
 ---
@@ -66,9 +66,7 @@ On 13 November 2017 between 14:07 and 14:11 Damascus time, the Atarib market and
 
 Open source materials indicate this attack was conducted by either the Russian or Syrian air force. 69 people were killed and 100 people were injured as a result of this attack.
 
-Embed video Link: https://www.youtube.com/watch?v=0X128QHTd3k
-
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0X128QHTd3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 DigitalGlobe before and after satellite imagery of the market can be seen below.
 
