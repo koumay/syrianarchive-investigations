@@ -1,10 +1,11 @@
 ---
 layout: "collections/russiancontent.html"
 title: Background on Russian involvement in Syria
-date: 2018-10-31T00:05:18.055Z
+date: 2018-10-31T11:05:18.055Z
 desc: ""
-image: /assets/russian/background-1.PNG
+image: /assets/russian/RussianMoDdocumentationofoperation.PNG
 ---
+
 
 ## Russian involvement in Syria
 
