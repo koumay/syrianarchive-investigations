@@ -39,14 +39,14 @@ Much has been written about attacks targeting hospitals in Syria (e.g., UN OHCHR
 
 On 5 February 2018, local sources including Muaz Al Shami reported that Kafranbel Surgical Hospital (also known as Hand in Hand Hospital and Orient Hospital), was struck by multiple airstrikes resulting in significant material damage which caused the entire hospital to become completely out of service. Open source materials and flight observation data indicates this attack was conducted by the Russian air force.
 
-Footage filmed during and after the 5 February 2018 attack clearly shows the hospital was attacked directly, with one geolocated video capturing a bomb as it fell through the air and struck the east side of the hospital building. See below:
-Embed Video link: https://www.youtube.com/watch?v=WzFAjvqC9uw&list=PLPC0Udeof3T4QmV4f9tEhDmQzr2Z_vTKZ&index=1
+Footage filmed during and after the 5 February 2018 attack clearly shows the hospital was attacked directly, with [one geolocated video capturing a bomb](https://www.youtube.com/watch?v=WzFAjvqC9uw&list=PLPC0Udeof3T4QmV4f9tEhDmQzr2Z_vTKZ&index=1) as it fell through the air and struck the east side of the hospital building. See below:
+
+![Kafranbel Surgical Hospital](/assets/russian/Kafranbel-Surgical-Hospital.jpg)
 
 
 DigitalGlobe satellite imagery from documenting before and after the attack  can be seen below:
 
-
-
+![Before and after Satellite imagery of Kafarnbel](/assets/russian/Kafranbel-Surgical-Hospital-satellite.png)
 
 Syrian Archive has written a more extensive report on this attack, available within the [Medical Facilities Under Fire report](https://syrianarchive.org/en/investigations/second-medical-facilities-under-fire/orient.html )
 
@@ -57,7 +57,7 @@ The Syrian Archive was able to identify 27 unique incidents in which markets wer
 #### Atarib market
 On 13 November 2017 between 14:07 and 14:11 Damascus time, the Atarib market and police station were targeted by three airstrikes resulting in the death of 69 civilians, significant damage to several buildings on the Atarib market street, as well as damage  to the Free Syrian police building.
 
-
+![Atarib market](/assets/russian/Atarib-market.png)
 
 Open source materials indicate this attack was conducted by either the Russian or Syrian air force. 69 people were killed and 100 people were injured as a result of this attack.
 
@@ -65,11 +65,9 @@ Embed video Link: https://www.youtube.com/watch?v=0X128QHTd3k
 
 
 
-
-
 DigitalGlobe before and after satellite imagery of the market can be seen below.
 
-
+![Before and after satellite imagery](/assets/russian/Atarib-market-satellite.png)
 
 Syrian Archive has written a more extensive report on this attack, available within the [investigations section of its website](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html)
 
@@ -78,16 +76,15 @@ The Syrian Archive was able to identify 6 unique incidents in which water were a
 
 The Russian Ministry of Defence released a video on their official YouTube channel with a title “Airstrike against oil refinery near Khafsa Kabir”.
 
-
-
+![Russian MoD video](/assets/russian/Khafsa-Kabir-ru-youtube.png)
 
 However, this “oil refinery” was actually a water treatment facility, which, according to the United Nations Children’s Fund (UNICEF) representative in Syria, Hanaa Singer,  “produced an average of 18 million litres of water daily.” The structure shown in the airstrike video appears identical to Google Earth satellite imagery as shown below:
 
+![Khafsa satellite imagery](/assets/russian/Khafsa-satellite.png)
 
 Russia Today published a video on 15 July 2017 in Arabic about the renovation operations of Khafsa water treatment facility.
 
-Full investigation can be seen here:
-https://www.bellingcat.com/news/mena/2015/12/11/syrias-bombed-water-infrastructure/
+Full investigation [can be seen here](https://www.bellingcat.com/news/mena/2015/12/11/syrias-bombed-water-infrastructure/)
 
 ### Airstrikes against mosques
 
