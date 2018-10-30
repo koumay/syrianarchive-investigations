@@ -5,7 +5,7 @@ date: 2018-10-31T00:05:18.055Z
 desc: Summary of findings, about, and methods
 image: /assets/russian/Atarib-market.png
 ---
-# Civilian Harm as a Result of Alleged Russian Airstrikes
+### Civilian Harm as a Result of Alleged Russian Airstrikes
 
 
 Several years of monitoring alleged Russian airstrikes in Syria reveals a pattern of indiscriminate targeting of civilians and civilian infrastructure. In an analysis of **3303 videos** documenting alleged Russian airstrikes from **116 sources** between **30 September 2015 and 9 September 2018, Syrian Archive has identified **1418 incidents** in which Russian forces allegedly targeted civilians or civilian infrastructure of little to no military value. Content included in this database can be viewed, analysed and downloaded.
@@ -18,7 +18,7 @@ This timeline shows since Russian involvement, alleged airstrikes have occurred 
 
 While data presented in this collection does not include all incidents of alleged Russian airstrikes on civilians between 2015 and 2018, it presents all incidents for which visual content was available and verifiable as of the date of publication. Syrian Archive hopes this will support reporting, advocacy, research, and accountability efforts.
 
-## These database includes verified videos that show:
+#### These databases includes verified videos that show:
 
 - Airstrikes published by the Russian Ministry of Defence (MoD)
 - Casualties as a result of alleged Russian attacks including children and women
@@ -41,7 +41,7 @@ This open source database is fully searchable and queryable by date, location, k
 ---
 
 
-## Added value
+#### Added value
 There have been several efforts by various parties to document atrocities and human rights violations committed by Russian forces in Syria. These include efforts by the Commission of Inquiry on the Syrian Arab Republic and by many human rights monitoring organisations (e.g., Syrian Network for Human Rights, Violations Documentation Center, Syrian Observatory for Human Rights, Syrian American Medical Society, Syrians for Truth and Justice, and many others).
 
 The added value of the publication of this collection is that every piece of data is preserved, verified, standardised, and clustered into incidents.
