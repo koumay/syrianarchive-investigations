@@ -1,7 +1,7 @@
 ---
 layout: "contentwithsiblings.html"
 title: All Incidents
-date: 2018-04-24T00:05:18.055Z
+date: 2018-03-24T00:05:18.055Z
 desc: Summary of findings, about, and methods
-image: /assets/chemical/chemicalheader.jpg
+image: /assets/collections/collectionsheader.png
 ---
