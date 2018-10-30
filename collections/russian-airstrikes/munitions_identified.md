@@ -12,7 +12,7 @@ Through its analysis of video documentation of alleged Russian airstrikes on civ
 
 Although Russia has, through official spokespersons, denied using cluster munitions in Syria, Russia Today was caught editing 20 June 2016 footage of Russian jets at Hmeymim airbase in Syria which inadvertently had showed RBK-500 ZAB 2.5SM incendiary munitions. Below is a video published by the [Conflict Intelligence Team](https://citeam.org) concerning this:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=OIbLqaOfnGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIbLqaOfnGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Unlike the Syrian government, Russia has signed up to the Convention on Conventional Weapons (CCW) protocol prohibiting the use of air-dropped incendiary weapons in areas containing concentrations of civilians. This makes their use by Russian forces in Syria even more troubling.
 
