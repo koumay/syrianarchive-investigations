@@ -42,9 +42,9 @@ This open source database is fully searchable and queryable by date, location, k
 ## Added value
 There have been several efforts by various parties to document atrocities and human rights violations committed by Russian forces in Syria. These include efforts by the Commission of Inquiry on the Syrian Arab Republic and by many human rights monitoring organisations (e.g., Syrian Network for Human Rights, Violations Documentation Center, Syrian Observatory for Human Rights, Syrian American Medical Society, Syrians for Truth and Justice, and many others).
 
-*The added value of the publication of this collection is that data in is preserved, verified, standardised, and clustered into incidents.
+The added value of the publication of this collection is that every piece of data is preserved, verified, standardised, and clustered into incidents.
 
-Additional metadata has been added to the database, making it to be searchable. This is useful for journalists, lawyers and human rights monitors, and investigators for reporting, advocacy and accountability work.*
+Additional metadata has been added to the database, making it to be searchable. This is useful for journalists, lawyers and human rights monitors, and investigators for reporting, advocacy and accountability work.
 
 It is possible to search the database using keywords. This means a user can search for attacks, filtered by the use of particular munitions, a particular location, or a particular type of target (e.g., medical facilities). Results can be sorted by relevance, date or the number of videos and reports provided for each incident. The map and timeline can be used to see the scale and breadth of attacks.
 
