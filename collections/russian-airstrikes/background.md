@@ -25,7 +25,7 @@ Russia, along with Iran and Turkey, [signed the De-Escalation Zone agreement](ht
 
 ![De-escalation Zone Map](/assets/russian/ru_de-escalation_zone.png)
 
-The Russian Ministry of Defence published a video on their official YouTube channel on August 22nd 2018 titled “Military operation of the armed forces on the Russian Federation in the Syrian Arab Republic”. The video summarises the operation that the Russian military carried in Syria since September 2015. The video included the following: “During the active phase of operation, the intensity of use of the aviation reached more than 100 plane flights per day. Each plane was operating 3-4 flights daily. The maximum amount was 139 flights per day, on 20 November 2015.”
+The Russian Ministry of Defence published a [video](https://www.youtube.com/watch?v=viCiwbJG5Pk) on their official YouTube channel on August 22nd 2018 titled “Military operation of the armed forces on the Russian Federation in the Syrian Arab Republic”. The video summarizes the operation that the Russian military carried in Syria since September 2015. The video included the following: “During the active phase of operation, the intensity of use of the aviation reached more than 100 plane flights per day. Each plane was operating 3-4 flights daily. The maximum amount was 139 flights per day, on 20 November 2015.”
 
 The video also mentioned Russian aircraft used in carrying out its military activities. This includes a total of 34 planes (12 Su-24, 10 Su 25CM, 4 Su 30CM, 4 Su-34, 2 Su-25UB, 1 An-30,1 Il-20), 16 helicopters (12 Mi 24p, 4 Mi-8MTSh) used, as well as other types of weapons and vehicles. It also mentioned 1902 humanitarian convoys were supported providing food and medication by the Russian Ministry of Defence.
 

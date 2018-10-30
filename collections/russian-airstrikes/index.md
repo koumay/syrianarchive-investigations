@@ -8,7 +8,11 @@ image: /assets/russian/Atarib-market.png
 # Civilian Harm as a Result of Alleged Russian Airstrikes
 
 
-Several years of monitoring alleged Russian airstrikes in Syria reveals a pattern of indiscriminate targeting of civilians and civilian infrastructure. In an analysis of **3303 videos** documenting alleged Russian airstrikes from **116 sources** between 30 September 2015 and 9 September 2018, Syrian Archive has identified **1418 incidents** in which Russian forces allegedly targeted civilians or civilian infrastructure of little to no military value. Content included in this database can be viewed, analysed and downloaded.
+Several years of monitoring alleged Russian airstrikes in Syria reveals a pattern of indiscriminate targeting of civilians and civilian infrastructure. In an analysis of **3303 videos** documenting alleged Russian airstrikes from **116 sources** between **30 September 2015 and 9 September 2018, Syrian Archive has identified **1418 incidents** in which Russian forces allegedly targeted civilians or civilian infrastructure of little to no military value. Content included in this database can be viewed, analysed and downloaded.
+
+Below is a timeline of these incidents:
+
+<div class='tableauPlaceholder' id='viz1540938007566' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AllegedRussianairstrikes2015-2018&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AllegedRussianairstrikes2015-2018&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Al&#47;AllegedRussianairstrikes2015-2018&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1540938007566');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 While data presented in this collection does not include all incidents of alleged Russian airstrikes on civilians between 2015 and 2018, it presents all incidents for which visual content was available and verifiable as of the date of publication. Syrian Archive hopes this will support reporting, advocacy, research, and accountability efforts.
 
@@ -38,9 +42,9 @@ This open source database is fully searchable and queryable by date, location, k
 ## Added value
 There have been several efforts by various parties to document atrocities and human rights violations committed by Russian forces in Syria. These include efforts by the Commission of Inquiry on the Syrian Arab Republic and by many human rights monitoring organisations (e.g., Syrian Network for Human Rights, Violations Documentation Center, Syrian Observatory for Human Rights, Syrian American Medical Society, Syrians for Truth and Justice, and many others).
 
-*The added value of the publication of this collection is that data in is preserved, verified, standardised, and clustered into incidents.
+The added value of the publication of this collection is that every piece of data is preserved, verified, standardised, and clustered into incidents.
 
-Additional metadata has been added to the database, making it to be searchable. This is useful for journalists, lawyers and human rights monitors, and investigators for reporting, advocacy and accountability work.*
+Additional metadata has been added to the database, making it to be searchable. This is useful for journalists, lawyers and human rights monitors, and investigators for reporting, advocacy and accountability work.
 
 It is possible to search the database using keywords. This means a user can search for attacks, filtered by the use of particular munitions, a particular location, or a particular type of target (e.g., medical facilities). Results can be sorted by relevance, date or the number of videos and reports provided for each incident. The map and timeline can be used to see the scale and breadth of attacks.
 
