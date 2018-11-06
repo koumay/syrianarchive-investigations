@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "تواصل معنا"
-image: "/assets/about/contact-us.png"
+image: "/assets/about/contactusnew.png"
 ---
 
  تواصل معنا:

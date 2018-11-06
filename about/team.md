@@ -22,23 +22,32 @@ Jaloud has worked on human rights in Syria since 2010 and has been documenting h
 ### Jeff Deutch
 __Lead Researcher__
 
-Jeff has been working on developing, refining and documenting the research methodology of the Syrian Archive. He additionally works on verification and long-form investigations and reports. Jeff has worked previously with Tactical Technology Collective, with the Global Public Policy Institute, and with Civic Consulting.  In addition to working with the Syrian Archive, Jeff is a PhD candidate at Humboldt University and a fellow at the Centre for Internet and Human Rights. Jeff holds a Master of Public Policy from Hertie School of Governance and a Bachelors of Arts from Hampshire College. Jeff is based in Berlin, Germany.
+Jeff is a researcher with Syrian Archive, where he develops workflows and methodologies for open source investigations. He additionally works on verification and long-form investigations and reports. Jeff is a fellow at the Centre for Internet and Human Rights and a PhD candidate at the Humboldt-University in Berlin.
 
 ### Niko Para
 __Lead Developer__
 
-Niko directs the technical systems for the [Syrian Archive's workflow and verification processes](https://github.com/syrianarchive), as well as the Syrian Archive's contributions to open source softwares such as [Sugarcube](https://gitlab.com/sugarcube).  He maintains the central databases and websites, and has been with the Syrian Archive since 2014.
+Niko is a developer who works on the technical systems and workflows of the Syrian Archive, helping to verify observations and process large amounts of data.  He makes the websites, maintains the databases, and deploys collection and verification tools.
 
-Previously, he has worked with the Tactical Technology Collective and Global Witness. Niko is based in Berlin, Germany.
-
-### Tareef MD
+### Haneen K
 __Open source analyst__
 
-Tareef verifies and analyses visual documentation of human rights violations. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/) Academy, a technical academy teaching programming
-languages to youth. Tareef has an educational background in Electrical
-engineering. Tareef is based in Turkey.
+Haneen works on website and database layout and design, as well as on the translation of human rights reports and database content from Arabic into English.
+Previously, she has worked as a journalist with Enabbaladi.
+
+
+### Tareef MD
+__Developer__
+
+Tareef is a developer, works on front-end development and data visualization. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/), a group of Internet businesses serving Arabic speaking users across the world.
+Tareef is studying Electrical engineering.
 
 ### Sam Razzouk
 __Open source analyst__
 
 Sam identifies and verifies sources and visual documentation of human rights violations. Since 2011, he has worked with various Syrian organisations documenting human rights violations. Sam studied medicine in Syria and has worked with International Medical Corps in Turkey. Sam is based in Denmark.
+
+### Gabriela Ivens
+__Open source investigator__
+
+Gabi works on locating and analysing open source material to investigate human rights violations. She has a background in human rights and technology and has previously worked at the investigative portal Exposing the Invisible and the Khmer Rouge Tribunal in Cambodia. She is particularly interested in methods to track planes.

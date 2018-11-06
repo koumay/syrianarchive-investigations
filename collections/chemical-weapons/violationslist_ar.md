@@ -1,5 +1,4 @@
----
-layout: "nonehtml"
+layout: "none.html"
 title: "تحتوي مقاطع الفيديو على"
 date: 2017-07-01T00:05:18055Z
 desc: ""
